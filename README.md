@@ -1,6 +1,6 @@
 # My chat bot program!
 ### Программа для знакомств людей во ВКонтакте.
-![Bootstrap](https://github.com/ervand7/HTML/blob/master/logic.png?raw=true)
+![Bootstrap](https://i0.wp.com/citeia.com/wp-content/uploads/2019/09/a-complete-guide-to-chatbot-development-from-tools-to-best-practices-featured.jpg?resize=780%2C470&ssl=1)
 
 ### Инструкция.
 ___
