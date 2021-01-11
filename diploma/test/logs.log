@@ -1,0 +1,1313 @@
+Function "get_candidates_links" started at 2021-01-10 15:17:57.189349
+*args is: (2, 55, 100, 6, 'Саратов')
+**kwargs is: {}
+Result is: ['1) https://vk.com/id13295513', '2) https://vk.com/id443442277', '3) https://vk.com/id52422665']
+Function performed duration is: 0:00:00.479807
+Documentation: STEP 1: SETTING PARAMS FOR METHOD 'users.search' (API VK). DEFINE SEX, AGE, MARITAL STATUS and CITY
+
+Function "get_candidates_links" started at 2021-01-10 15:17:57.693256
+*args is: ()
+**kwargs is: {}
+Function "get_candidates_links" started at 2021-01-10 15:20:26.458792
+*args is: (2, 55, 100, 6, 'Саратов')
+**kwargs is: {}
+Result is: ['1) https://vk.com/id13295513', '2) https://vk.com/id443442277', '3) https://vk.com/id52422665']
+Function performed duration is: 0:00:00.465070
+Documentation: STEP 1: SETTING PARAMS FOR METHOD 'users.search' (API VK). DEFINE SEX, AGE, MARITAL STATUS and CITY
+
+Function "get_candidates_links" started at 2021-01-10 15:20:26.955900
+*args is: ()
+**kwargs is: {}
+Function "get_candidates_links" started at 2021-01-10 15:21:43.366601
+*args is: (2, 55, 100, 6, 'Саратов')
+**kwargs is: {}
+Result is: ['1) https://vk.com/id13295513', '2) https://vk.com/id443442277', '3) https://vk.com/id52422665']
+Function performed duration is: 0:00:00.470444
+Documentation: STEP 1: SETTING PARAMS FOR METHOD 'users.search' (API VK). DEFINE SEX, AGE, MARITAL STATUS and CITY
+
+Function "get_candidates_links" started at 2021-01-10 15:21:43.854011
+*args is: (2, 55, 100, 6, 'Саратов')
+**kwargs is: {}
+Result is: ['1) https://vk.com/id13295513', '2) https://vk.com/id443442277', '3) https://vk.com/id52422665']
+Function performed duration is: 0:00:00.358730
+Documentation: STEP 1: SETTING PARAMS FOR METHOD 'users.search' (API VK). DEFINE SEX, AGE, MARITAL STATUS and CITY
+
+Function "get_candidates_links" started at 2021-01-10 15:22:46.103205
+*args is: (2, 55, 100, 6, 'Саратов')
+**kwargs is: {}
+Result is: ['1) https://vk.com/id13295513', '2) https://vk.com/id443442277', '3) https://vk.com/id52422665']
+Function performed duration is: 0:00:00.446451
+Documentation: STEP 1: SETTING PARAMS FOR METHOD 'users.search' (API VK). DEFINE SEX, AGE, MARITAL STATUS and CITY
+
+Function "get_candidates_links" started at 2021-01-10 15:22:46.575343
+*args is: (2, 55, 100, 6, 'Саратов')
+**kwargs is: {}
+Result is: ['1) https://vk.com/id13295513', '2) https://vk.com/id443442277', '3) https://vk.com/id52422665']
+Function performed duration is: 0:00:00.343577
+Documentation: STEP 1: SETTING PARAMS FOR METHOD 'users.search' (API VK). DEFINE SEX, AGE, MARITAL STATUS and CITY
+
+Function "get_candidates_links" started at 2021-01-10 15:22:58.038426
+*args is: (2, 55, 100, 6, 'Саратов')
+**kwargs is: {}
+Result is: ['1) https://vk.com/id13295513', '2) https://vk.com/id443442277', '3) https://vk.com/id52422665']
+Function performed duration is: 0:00:00.494576
+Documentation: STEP 1: SETTING PARAMS FOR METHOD 'users.search' (API VK). DEFINE SEX, AGE, MARITAL STATUS and CITY
+
+Function "get_candidates_links" started at 2021-01-10 15:22:58.565116
+*args is: (2, 55, 100, 6, 'Саратов')
+**kwargs is: {}
+Result is: ['1) https://vk.com/id13295513', '2) https://vk.com/id443442277', '3) https://vk.com/id52422665']
+Function performed duration is: 0:00:00.424717
+Documentation: STEP 1: SETTING PARAMS FOR METHOD 'users.search' (API VK). DEFINE SEX, AGE, MARITAL STATUS and CITY
+
+Function "get_candidates_links" started at 2021-01-10 15:24:14.879027
+*args is: (2, 55, 100, 6, 'Саратов')
+**kwargs is: {}
+Result is: ['1) https://vk.com/id13295513', '2) https://vk.com/id443442277', '3) https://vk.com/id52422665']
+Function performed duration is: 0:00:00.481059
+Documentation: STEP 1: SETTING PARAMS FOR METHOD 'users.search' (API VK). DEFINE SEX, AGE, MARITAL STATUS and CITY
+
+Function "get_candidates_links" started at 2021-01-10 15:24:15.396338
+*args is: (2, 55, 100, 6, 'Саратов')
+**kwargs is: {}
+Result is: ['1) https://vk.com/id13295513', '2) https://vk.com/id443442277', '3) https://vk.com/id52422665']
+Function performed duration is: 0:00:00.391182
+Documentation: STEP 1: SETTING PARAMS FOR METHOD 'users.search' (API VK). DEFINE SEX, AGE, MARITAL STATUS and CITY
+
+Function "get_candidates_links" started at 2021-01-10 15:24:46.731655
+*args is: (2, 55, 100, 6, 'Саратов')
+**kwargs is: {}
+Result is: ['1) https://vk.com/id13295513', '2) https://vk.com/id443442277', '3) https://vk.com/id52422665']
+Function performed duration is: 0:00:00.445216
+Documentation: STEP 1: SETTING PARAMS FOR METHOD 'users.search' (API VK). DEFINE SEX, AGE, MARITAL STATUS and CITY
+
+Function "get_candidates_links" started at 2021-01-10 15:24:47.210909
+*args is: (2, 55, 100, 6, 'Саратов')
+**kwargs is: {}
+Result is: ['1) https://vk.com/id13295513', '2) https://vk.com/id443442277', '3) https://vk.com/id52422665']
+Function performed duration is: 0:00:00.390793
+Documentation: STEP 1: SETTING PARAMS FOR METHOD 'users.search' (API VK). DEFINE SEX, AGE, MARITAL STATUS and CITY
+
+Function "get_candidates_links" started at 2021-01-10 15:26:29.603850
+*args is: (2, 55, 100, 6, 'Барнаул')
+**kwargs is: {}
+Result is: ['1) https://vk.com/id4670487', '2) https://vk.com/id21029212']
+Function performed duration is: 0:00:00.374917
+Documentation: STEP 1: SETTING PARAMS FOR METHOD 'users.search' (API VK). DEFINE SEX, AGE, MARITAL STATUS and CITY
+
+Function "get_candidates_links" started at 2021-01-10 15:26:30.000532
+*args is: (2, 55, 100, 6, 'Саратов')
+**kwargs is: {}
+Result is: ['1) https://vk.com/id13295513', '2) https://vk.com/id443442277', '3) https://vk.com/id52422665']
+Function performed duration is: 0:00:00.439196
+Documentation: STEP 1: SETTING PARAMS FOR METHOD 'users.search' (API VK). DEFINE SEX, AGE, MARITAL STATUS and CITY
+
+Function "get_candidates_links" started at 2021-01-10 15:26:59.817453
+*args is: (2, 55, 100, 6, 'Барнаул')
+**kwargs is: {}
+Result is: ['1) https://vk.com/id4670487', '2) https://vk.com/id21029212']
+Function performed duration is: 0:00:00.397114
+Documentation: STEP 1: SETTING PARAMS FOR METHOD 'users.search' (API VK). DEFINE SEX, AGE, MARITAL STATUS and CITY
+
+Function "get_candidates_links" started at 2021-01-10 15:27:00.234282
+*args is: (2, 55, 100, 6, 'Барнаул')
+**kwargs is: {}
+Result is: ['1) https://vk.com/id4670487', '2) https://vk.com/id21029212']
+Function performed duration is: 0:00:00.379403
+Documentation: STEP 1: SETTING PARAMS FOR METHOD 'users.search' (API VK). DEFINE SEX, AGE, MARITAL STATUS and CITY
+
+Function "get_candidates_links" started at 2021-01-10 15:27:39.334960
+*args is: (2, 55, 100, 6, 'Барнаул')
+**kwargs is: {}
+Result is: ['1) https://vk.com/id4670487', '2) https://vk.com/id21029212']
+Function performed duration is: 0:00:00.377505
+Documentation: STEP 1: SETTING PARAMS FOR METHOD 'users.search' (API VK). DEFINE SEX, AGE, MARITAL STATUS and CITY
+
+Function "get_candidates_links" started at 2021-01-10 15:27:39.725010
+*args is: (2, 55, 100, 6, 'Барнаул')
+**kwargs is: {}
+Result is: ['1) https://vk.com/id4670487', '2) https://vk.com/id21029212']
+Function performed duration is: 0:00:00.360815
+Documentation: STEP 1: SETTING PARAMS FOR METHOD 'users.search' (API VK). DEFINE SEX, AGE, MARITAL STATUS and CITY
+
+Function "get_candidates_links" started at 2021-01-10 15:29:13.997336
+*args is: ()
+**kwargs is: {}
+Function "get_candidates_links" started at 2021-01-10 15:31:13.573484
+*args is: (2, 55, 100, 6, 'Барнаул')
+**kwargs is: {}
+Result is: ['1) https://vk.com/id4670487', '2) https://vk.com/id21029212']
+Function performed duration is: 0:00:00.382592
+Documentation: STEP 1: SETTING PARAMS FOR METHOD 'users.search' (API VK). DEFINE SEX, AGE, MARITAL STATUS and CITY
+
+Function "get_candidates_links" started at 2021-01-10 15:32:37.420445
+*args is: (2, 55, 100, 6, 'Барнаул')
+**kwargs is: {}
+Result is: ['1) https://vk.com/id4670487', '2) https://vk.com/id21029212']
+Function performed duration is: 0:00:00.374464
+Documentation: STEP 1: SETTING PARAMS FOR METHOD 'users.search' (API VK). DEFINE SEX, AGE, MARITAL STATUS and CITY
+
+Function "get_candidates_links" started at 2021-01-10 15:32:52.190861
+*args is: (2, 55, 100, 6, 'Барнаул')
+**kwargs is: {}
+Result is: ['1) https://vk.com/id4670487', '2) https://vk.com/id21029212']
+Function performed duration is: 0:00:00.372644
+Documentation: STEP 1: SETTING PARAMS FOR METHOD 'users.search' (API VK). DEFINE SEX, AGE, MARITAL STATUS and CITY
+
+Function "get_candidates_links" started at 2021-01-10 15:33:11.323263
+*args is: (2, 55, 100, 6, 'Барнаул')
+**kwargs is: {}
+Result is: ['1) https://vk.com/id4670487', '2) https://vk.com/id21029212']
+Function performed duration is: 0:00:00.442228
+Documentation: STEP 1: SETTING PARAMS FOR METHOD 'users.search' (API VK). DEFINE SEX, AGE, MARITAL STATUS and CITY
+
+Function "adding_in_ban_list" started at 2021-01-10 17:07:40.435942
+*args is: ()
+**kwargs is: {}
+Function "adding_in_ban_list" started at 2021-01-10 17:08:49.371317
+*args is: (57545445,)
+**kwargs is: {}
+Function "get_candidates_links" started at 2021-01-10 17:14:14.823779
+*args is: (2, 55, 100, 6, 'Барнаул')
+**kwargs is: {}
+Result is: ['1) https://vk.com/id271762866']
+Function performed duration is: 0:00:00.406963
+Documentation: STEP 1: SETTING PARAMS FOR METHOD 'users.search' (API VK). DEFINE SEX, AGE, MARITAL STATUS and CITY
+
+Function "adding_in_ban_list" started at 2021-01-10 17:14:15.374524
+*args is: (90799314,)
+**kwargs is: {}
+Result is: None
+Function performed duration is: 0:00:00.122002
+Documentation: None
+
+Function "get_candidates_links" started at 2021-01-10 17:15:07.752232
+*args is: (2, 55, 100, 6, 'Барнаул')
+**kwargs is: {}
+Result is: ['1) https://vk.com/id271762866']
+Function performed duration is: 0:00:00.288821
+Documentation: STEP 1: SETTING PARAMS FOR METHOD 'users.search' (API VK). DEFINE SEX, AGE, MARITAL STATUS and CITY
+
+Function "get_candidates_links" started at 2021-01-10 17:16:29.875618
+*args is: (2, 55, 100, 6, 'Барнаул')
+**kwargs is: {}
+Result is: ['1) https://vk.com/id271762866']
+Function performed duration is: 0:00:00.313272
+Documentation: STEP 1: SETTING PARAMS FOR METHOD 'users.search' (API VK). DEFINE SEX, AGE, MARITAL STATUS and CITY
+
+Function "get_candidates_links" started at 2021-01-10 17:16:58.225983
+*args is: (2, 55, 100, 6, 'Барнаул')
+**kwargs is: {}
+Result is: ['1) https://vk.com/id271762866']
+Function performed duration is: 0:00:00.287564
+Documentation: STEP 1: SETTING PARAMS FOR METHOD 'users.search' (API VK). DEFINE SEX, AGE, MARITAL STATUS and CITY
+
+Function "get_candidates_links" started at 2021-01-10 17:17:22.976246
+*args is: (2, 55, 100, 6, 'Барнаул')
+**kwargs is: {}
+Result is: ['1) https://vk.com/id271762866']
+Function performed duration is: 0:00:00.249724
+Documentation: STEP 1: SETTING PARAMS FOR METHOD 'users.search' (API VK). DEFINE SEX, AGE, MARITAL STATUS and CITY
+
+Function "adding_in_ban_list" started at 2021-01-10 17:17:38.162303
+*args is: (90799314,)
+**kwargs is: {}
+Function "adding_in_ban_list" started at 2021-01-10 17:19:55.628145
+*args is: (90799314,)
+**kwargs is: {}
+Function "get_candidates_links" started at 2021-01-10 17:21:23.574615
+*args is: (2, 55, 100, 6, 'Барнаул')
+**kwargs is: {}
+Result is: ['1) https://vk.com/id271762866']
+Function performed duration is: 0:00:00.269307
+Documentation: STEP 1: SETTING PARAMS FOR METHOD 'users.search' (API VK). DEFINE SEX, AGE, MARITAL STATUS and CITY
+
+Function "get_candidates_links" started at 2021-01-10 17:59:32.577433
+*args is: (2, 55, 100, 6, 'Барнаул')
+**kwargs is: {}
+Result is: ['1) https://vk.com/id4670487', '2) https://vk.com/id307339634', '3) https://vk.com/id271762866']
+Function performed duration is: 0:00:00.601454
+Documentation: STEP 1: SETTING PARAMS FOR METHOD 'users.search' (API VK). DEFINE SEX, AGE, MARITAL STATUS and CITY
+
+Function "get_candidates_links" started at 2021-01-10 18:12:59.384679
+*args is: (2, 55, 100, 6, 'Барнаул')
+**kwargs is: {}
+Result is: ['1) https://vk.com/id4670487', '2) https://vk.com/id307339634', '3) https://vk.com/id271762866']
+Function performed duration is: 0:00:00.515811
+Documentation: STEP 1: SETTING PARAMS FOR METHOD 'users.search' (API VK). DEFINE SEX, AGE, MARITAL STATUS and CITY
+
+Function "filling_main_user_table" started at 2021-01-10 18:12:59.934791
+*args is: (613295858,)
+**kwargs is: {}
+Result is: [613295858, 1, 'Виктория', 'Самойлова', 'Международное брачное агентство ищет талантливых парней - переводчиков от 21-35. Переходите на наш сайт👇🏻⭐']
+Function performed duration is: 0:00:00.092603
+Documentation: None
+
+Function "get_candidates_links" started at 2021-01-10 18:17:16.273781
+*args is: (2, 55, 100, 6, 'Барнаул')
+**kwargs is: {}
+Result is: ['1) https://vk.com/id4670487', '2) https://vk.com/id307339634']
+Function performed duration is: 0:00:00.422629
+Documentation: STEP 1: SETTING PARAMS FOR METHOD 'users.search' (API VK). DEFINE SEX, AGE, MARITAL STATUS and CITY
+
+Function "filling_main_user_table" started at 2021-01-10 18:17:16.756759
+*args is: (613295858,)
+**kwargs is: {}
+Result is: [613295858, 1, 'Виктория', 'Самойлова', 'Международное брачное агентство ищет талантливых парней - переводчиков от 21-35. Переходите на наш сайт👇🏻⭐']
+Function performed duration is: 0:00:00.099063
+Documentation: None
+
+Function "get_candidates_links" started at 2021-01-10 18:25:59.042706
+*args is: (2, 55, 100, 6, 'Барнаул')
+**kwargs is: {}
+Result is: ['1) https://vk.com/id4670487', '2) https://vk.com/id307339634']
+Function performed duration is: 0:00:00.387619
+Documentation: STEP 1: SETTING PARAMS FOR METHOD 'users.search' (API VK). DEFINE SEX, AGE, MARITAL STATUS and CITY
+
+Function "filling_main_user_table" started at 2021-01-10 18:25:59.486712
+*args is: (613295858,)
+**kwargs is: {}
+Result is: [613295858, 1, 'Виктория', 'Самойлова', 'Международное брачное агентство ищет талантливых парней - переводчиков от 21-35. Переходите на наш сайт👇🏻⭐']
+Function performed duration is: 0:00:00.144961
+Documentation: None
+
+Function "get_candidates_links" started at 2021-01-10 18:26:13.412052
+*args is: (2, 55, 100, 6, 'Барнаул')
+**kwargs is: {}
+Result is: ['1) https://vk.com/id4670487', '2) https://vk.com/id307339634']
+Function performed duration is: 0:00:00.357546
+Documentation: STEP 1: SETTING PARAMS FOR METHOD 'users.search' (API VK). DEFINE SEX, AGE, MARITAL STATUS and CITY
+
+Function "filling_main_user_table" started at 2021-01-10 18:26:13.800925
+*args is: (613295858,)
+**kwargs is: {}
+Result is: [613295858, 1, 'Виктория', 'Самойлова', 'Международное брачное агентство ищет талантливых парней - переводчиков от 21-35. Переходите на наш сайт👇🏻⭐']
+Function performed duration is: 0:00:00.082795
+Documentation: None
+
+Function "get_candidates_links" started at 2021-01-10 18:43:37.364237
+*args is: (2, 55, 100, 6, 'Барнаул')
+**kwargs is: {}
+Result is: ['1) https://vk.com/id4670487', '2) https://vk.com/id307339634']
+Function performed duration is: 0:00:00.387896
+Documentation: STEP 1: SETTING PARAMS FOR METHOD 'users.search' (API VK). DEFINE SEX, AGE, MARITAL STATUS and CITY
+
+Function "filling_main_user_table" started at 2021-01-10 18:43:37.806770
+*args is: (613295858,)
+**kwargs is: {}
+Result is: [613295858, 1, 'Виктория', 'Самойлова', 'Международное брачное агентство ищет талантливых парней - переводчиков от 21-35. Переходите на наш сайт👇🏻⭐']
+Function performed duration is: 0:00:00.095080
+Documentation: None
+
+Function "get_candidates_links" started at 2021-01-10 18:49:31.019115
+*args is: (2, 55, 100, 6, 'Барнаул')
+**kwargs is: {}
+Result is: ['1) https://vk.com/id4670487', '2) https://vk.com/id307339634']
+Function performed duration is: 0:00:00.404045
+Documentation: STEP 1: SETTING PARAMS FOR METHOD 'users.search' (API VK). DEFINE SEX, AGE, MARITAL STATUS and CITY
+
+Function "filling_main_user_table" started at 2021-01-10 18:49:31.467586
+*args is: (613295858,)
+**kwargs is: {}
+Result is: [613295858, 1, 'Виктория', 'Самойлова', 'Международное брачное агентство ищет талантливых парней - переводчиков от 21-35. Переходите на наш сайт👇🏻⭐']
+Function performed duration is: 0:00:00.093204
+Documentation: None
+
+Function "get_list_with_liked_candidates" started at 2021-01-10 19:19:41.362975
+*args is: ()
+**kwargs is: {}
+Function "get_list_with_liked_candidates" started at 2021-01-10 19:21:44.046491
+*args is: ()
+**kwargs is: {}
+Result is: [77239525, 435521107]
+Function performed duration is: 0:00:00.000442
+Documentation: None
+
+Function "get_list_with_liked_candidates" started at 2021-01-10 19:23:45.584307
+*args is: ()
+**kwargs is: {}
+Result is: [77239525, 435521107]
+Function performed duration is: 0:00:00.000243
+Documentation: None
+
+Function "filling_main_user_table" started at 2021-01-10 19:23:49.143723
+*args is: (613295858,)
+**kwargs is: {}
+Result is: [613295858, 1, 'Виктория', 'Самойлова', 'Международное брачное агентство ищет талантливых парней - переводчиков от 21-35. Переходите на наш сайт👇🏻⭐']
+Function performed duration is: 0:00:00.117534
+Documentation: None
+
+Function "get_list_with_liked_candidates" started at 2021-01-10 19:27:48.983526
+*args is: ()
+**kwargs is: {}
+Result is: [77239525, 435521107]
+Function performed duration is: 0:00:00.000421
+Documentation: None
+
+Function "filling_candidates_table" started at 2021-01-10 19:27:48.983282
+*args is: ()
+**kwargs is: {}
+Result is: [[77239525, 1, 'Ольга', 'Старцева', 'https://vk.com/id77239525', 457199137], [435521107, 2, 'Сергей', 'Мамонтов', 'https://vk.com/id435521107', 457199137]]
+Function performed duration is: 0:00:00.233000
+Documentation: None
+
+Function "get_list_with_liked_candidates" started at 2021-01-10 19:27:54.136798
+*args is: ()
+**kwargs is: {}
+Result is: [77239525, 435521107]
+Function performed duration is: 0:00:00.000253
+Documentation: None
+
+Function "filling_candidates_table" started at 2021-01-10 19:27:54.136564
+*args is: ()
+**kwargs is: {}
+Result is: [[77239525, 1, 'Ольга', 'Старцева', 'https://vk.com/id77239525', 457199137], [435521107, 2, 'Сергей', 'Мамонтов', 'https://vk.com/id435521107', 457199137]]
+Function performed duration is: 0:00:00.197466
+Documentation: None
+
+Function "get_list_with_liked_candidates" started at 2021-01-10 19:28:00.561118
+*args is: ()
+**kwargs is: {}
+Result is: [77239525, 435521107]
+Function performed duration is: 0:00:00.000323
+Documentation: None
+
+Function "filling_candidates_table" started at 2021-01-10 19:28:00.561024
+*args is: ()
+**kwargs is: {}
+Result is: [[77239525, 1, 'Ольга', 'Старцева', 'https://vk.com/id77239525', 457199137], [435521107, 2, 'Сергей', 'Мамонтов', 'https://vk.com/id435521107', 457199137]]
+Function performed duration is: 0:00:00.200664
+Documentation: None
+
+Function "get_candidates_links" started at 2021-01-10 19:28:07.943047
+*args is: (2, 55, 100, 6, 'Барнаул')
+**kwargs is: {}
+Result is: ['1) https://vk.com/id4670487', '2) https://vk.com/id21029212']
+Function performed duration is: 0:00:00.480417
+Documentation: STEP 1: SETTING PARAMS FOR METHOD 'users.search' (API VK). DEFINE SEX, AGE, MARITAL STATUS and CITY
+
+Function "filling_main_user_table" started at 2021-01-10 19:28:08.461782
+*args is: (613295858,)
+**kwargs is: {}
+Result is: [613295858, 1, 'Виктория', 'Самойлова', 'Международное брачное агентство ищет талантливых парней - переводчиков от 21-35. Переходите на наш сайт👇🏻⭐']
+Function performed duration is: 0:00:00.100337
+Documentation: None
+
+Function "get_list_with_liked_candidates" started at 2021-01-10 19:28:08.567637
+*args is: ()
+**kwargs is: {}
+Result is: [77239525, 435521107]
+Function performed duration is: 0:00:00.000614
+Documentation: None
+
+Function "get_list_with_liked_candidates" started at 2021-01-10 19:28:08.575284
+*args is: ()
+**kwargs is: {}
+Result is: [77239525, 435521107]
+Function performed duration is: 0:00:00.000181
+Documentation: None
+
+Function "filling_candidates_table" started at 2021-01-10 19:28:08.575202
+*args is: ()
+**kwargs is: {}
+Result is: [[77239525, 1, 'Ольга', 'Старцева', 'https://vk.com/id77239525', 457199137], [435521107, 2, 'Сергей', 'Мамонтов', 'https://vk.com/id435521107', 457199137]]
+Function performed duration is: 0:00:00.172880
+Documentation: None
+
+Function "get_list_with_liked_candidates" started at 2021-01-10 19:34:58.858563
+*args is: ()
+**kwargs is: {}
+Result is: [77239525, 12716695]
+Function performed duration is: 0:00:00.001185
+Documentation: None
+
+Function "merge_dict" started at 2021-01-10 19:34:59.110356
+*args is: ({77239525: (35, 'https://sun9-28.userapi.com/impf/c6092/v6092525/2d36/ngKRk6FCbZw.jpg?size=1280x960&quality=96&proxy=1&sign=44dd6481b4b72e46d5e881bc61331c32&c_uniq_tag=hguhsQIFcnvSJFiy0vsiTqho-2HvY99OTP8-B3lVZ6s&type=album')}, {77239525: (29, 'https://sun9-49.userapi.com/impf/c846419/v846419792/3dec3/NuoZYcYuLIM.jpg?size=810x1080&quality=96&proxy=1&sign=3de05d324bbf401f4a5748c6be1ef372&c_uniq_tag=4z-Aha-ckWq1gkSwTVvxbLj_D2qbix48v9-ElMm6xOo&type=album')}, {77239525: (26, 'https://sun9-25.userapi.com/impf/c852124/v852124736/751c0/VHwgwpbUDeo.jpg?size=960x1280&quality=96&proxy=1&sign=8a9f904079b031f311b26753fd240298&c_uniq_tag=x87QZ4Sg2r_7FU_dKLrFG2eMZbuy5O5kVqR_29sUjeE&type=album')})
+**kwargs is: {}
+Result is: {77239525: ((35, 'https://sun9-28.userapi.com/impf/c6092/v6092525/2d36/ngKRk6FCbZw.jpg?size=1280x960&quality=96&proxy=1&sign=44dd6481b4b72e46d5e881bc61331c32&c_uniq_tag=hguhsQIFcnvSJFiy0vsiTqho-2HvY99OTP8-B3lVZ6s&type=album'), (26, 'https://sun9-25.userapi.com/impf/c852124/v852124736/751c0/VHwgwpbUDeo.jpg?size=960x1280&quality=96&proxy=1&sign=8a9f904079b031f311b26753fd240298&c_uniq_tag=x87QZ4Sg2r_7FU_dKLrFG2eMZbuy5O5kVqR_29sUjeE&type=album'), (29, 'https://sun9-49.userapi.com/impf/c846419/v846419792/3dec3/NuoZYcYuLIM.jpg?size=810x1080&quality=96&proxy=1&sign=3de05d324bbf401f4a5748c6be1ef372&c_uniq_tag=4z-Aha-ckWq1gkSwTVvxbLj_D2qbix48v9-ElMm6xOo&type=album'))}
+Function performed duration is: 0:00:00.000546
+Documentation: Merge dictionaries and keep values of common keys in list
+
+Function "merge_dict" started at 2021-01-10 19:34:59.111717
+*args is: ({12716695: (80, 'https://sun9-63.userapi.com/c5318/u12716695/-6/y_6db39e38.jpg')}, {12716695: (10, 'https://sun9-31.userapi.com/impf/c11024/v11024695/a97/ntCABkJXFpw.jpg?size=550x550&quality=96&proxy=1&sign=7df3dec76ece325fc7bf7acbcdc12bcd&c_uniq_tag=W35foCSUyOifJfAcGY6xkrz1HvlR-7ZZf4qxGZaT_2k&type=album')}, {12716695: (24, 'https://sun9-70.userapi.com/impf/c845124/v845124221/d7e75/1kTpca0XB8c.jpg?size=720x960&quality=96&proxy=1&sign=a5330159f73f1cba9b1a285699e53bbe&c_uniq_tag=qnocKv78mGn-o8-bMeAfPnkl5l2f3dl6m8ekBsCFnvk&type=album')})
+**kwargs is: {}
+Result is: {12716695: ((80, 'https://sun9-63.userapi.com/c5318/u12716695/-6/y_6db39e38.jpg'), (24, 'https://sun9-70.userapi.com/impf/c845124/v845124221/d7e75/1kTpca0XB8c.jpg?size=720x960&quality=96&proxy=1&sign=a5330159f73f1cba9b1a285699e53bbe&c_uniq_tag=qnocKv78mGn-o8-bMeAfPnkl5l2f3dl6m8ekBsCFnvk&type=album'), (10, 'https://sun9-31.userapi.com/impf/c11024/v11024695/a97/ntCABkJXFpw.jpg?size=550x550&quality=96&proxy=1&sign=7df3dec76ece325fc7bf7acbcdc12bcd&c_uniq_tag=W35foCSUyOifJfAcGY6xkrz1HvlR-7ZZf4qxGZaT_2k&type=album'))}
+Function performed duration is: 0:00:00.000115
+Documentation: Merge dictionaries and keep values of common keys in list
+
+Function "filling_photos_of_candidates_table" started at 2021-01-10 19:34:58.858221
+*args is: ()
+**kwargs is: {}
+Result is: [{77239525: ((35, 'https://sun9-28.userapi.com/impf/c6092/v6092525/2d36/ngKRk6FCbZw.jpg?size=1280x960&quality=96&proxy=1&sign=44dd6481b4b72e46d5e881bc61331c32&c_uniq_tag=hguhsQIFcnvSJFiy0vsiTqho-2HvY99OTP8-B3lVZ6s&type=album'), (26, 'https://sun9-25.userapi.com/impf/c852124/v852124736/751c0/VHwgwpbUDeo.jpg?size=960x1280&quality=96&proxy=1&sign=8a9f904079b031f311b26753fd240298&c_uniq_tag=x87QZ4Sg2r_7FU_dKLrFG2eMZbuy5O5kVqR_29sUjeE&type=album'), (29, 'https://sun9-49.userapi.com/impf/c846419/v846419792/3dec3/NuoZYcYuLIM.jpg?size=810x1080&quality=96&proxy=1&sign=3de05d324bbf401f4a5748c6be1ef372&c_uniq_tag=4z-Aha-ckWq1gkSwTVvxbLj_D2qbix48v9-ElMm6xOo&type=album'))}, {12716695: ((80, 'https://sun9-63.userapi.com/c5318/u12716695/-6/y_6db39e38.jpg'), (24, 'https://sun9-70.userapi.com/impf/c845124/v845124221/d7e75/1kTpca0XB8c.jpg?size=720x960&quality=96&proxy=1&sign=a5330159f73f1cba9b1a285699e53bbe&c_uniq_tag=qnocKv78mGn-o8-bMeAfPnkl5l2f3dl6m8ekBsCFnvk&type=album'), (10, 'https://sun9-31.userapi.com/impf/c11024/v11024695/a97/ntCABkJXFpw.jpg?size=550x550&quality=96&proxy=1&sign=7df3dec76ece325fc7bf7acbcdc12bcd&c_uniq_tag=W35foCSUyOifJfAcGY6xkrz1HvlR-7ZZf4qxGZaT_2k&type=album'))}]
+Function performed duration is: 0:00:00.254251
+Documentation: NOW WE WANT TO GET A SIMILAR LIST WITH DICTS:
+    [
+    {user_id: ((photo_like_count, photo_link), (photo_like_count, photo_link), (photo_like_count, photo_link))},
+    {another_user_id: ((photo_like_count, photo_link), (photo_like_count, photo_link), (photo_like_count, photo_link))}
+    etc...
+    ]
+    This variant is comfortable to further data filling in db
+    LET'S DO IT IN 8 STEPS!!!!!!
+
+Function "get_list_with_liked_candidates" started at 2021-01-10 19:34:59.131625
+*args is: ()
+**kwargs is: {}
+Result is: [77239525, 12716695]
+Function performed duration is: 0:00:00.001670
+Documentation: None
+
+Function "merge_dict" started at 2021-01-10 19:34:59.363214
+*args is: ({77239525: (35, 'https://sun9-28.userapi.com/impf/c6092/v6092525/2d36/ngKRk6FCbZw.jpg?size=1280x960&quality=96&proxy=1&sign=44dd6481b4b72e46d5e881bc61331c32&c_uniq_tag=hguhsQIFcnvSJFiy0vsiTqho-2HvY99OTP8-B3lVZ6s&type=album')}, {77239525: (29, 'https://sun9-49.userapi.com/impf/c846419/v846419792/3dec3/NuoZYcYuLIM.jpg?size=810x1080&quality=96&proxy=1&sign=3de05d324bbf401f4a5748c6be1ef372&c_uniq_tag=4z-Aha-ckWq1gkSwTVvxbLj_D2qbix48v9-ElMm6xOo&type=album')}, {77239525: (26, 'https://sun9-25.userapi.com/impf/c852124/v852124736/751c0/VHwgwpbUDeo.jpg?size=960x1280&quality=96&proxy=1&sign=8a9f904079b031f311b26753fd240298&c_uniq_tag=x87QZ4Sg2r_7FU_dKLrFG2eMZbuy5O5kVqR_29sUjeE&type=album')})
+**kwargs is: {}
+Result is: {77239525: ((35, 'https://sun9-28.userapi.com/impf/c6092/v6092525/2d36/ngKRk6FCbZw.jpg?size=1280x960&quality=96&proxy=1&sign=44dd6481b4b72e46d5e881bc61331c32&c_uniq_tag=hguhsQIFcnvSJFiy0vsiTqho-2HvY99OTP8-B3lVZ6s&type=album'), (26, 'https://sun9-25.userapi.com/impf/c852124/v852124736/751c0/VHwgwpbUDeo.jpg?size=960x1280&quality=96&proxy=1&sign=8a9f904079b031f311b26753fd240298&c_uniq_tag=x87QZ4Sg2r_7FU_dKLrFG2eMZbuy5O5kVqR_29sUjeE&type=album'), (29, 'https://sun9-49.userapi.com/impf/c846419/v846419792/3dec3/NuoZYcYuLIM.jpg?size=810x1080&quality=96&proxy=1&sign=3de05d324bbf401f4a5748c6be1ef372&c_uniq_tag=4z-Aha-ckWq1gkSwTVvxbLj_D2qbix48v9-ElMm6xOo&type=album'))}
+Function performed duration is: 0:00:00.000060
+Documentation: Merge dictionaries and keep values of common keys in list
+
+Function "merge_dict" started at 2021-01-10 19:34:59.363480
+*args is: ({12716695: (80, 'https://sun9-63.userapi.com/c5318/u12716695/-6/y_6db39e38.jpg')}, {12716695: (10, 'https://sun9-31.userapi.com/impf/c11024/v11024695/a97/ntCABkJXFpw.jpg?size=550x550&quality=96&proxy=1&sign=7df3dec76ece325fc7bf7acbcdc12bcd&c_uniq_tag=W35foCSUyOifJfAcGY6xkrz1HvlR-7ZZf4qxGZaT_2k&type=album')}, {12716695: (24, 'https://sun9-70.userapi.com/impf/c845124/v845124221/d7e75/1kTpca0XB8c.jpg?size=720x960&quality=96&proxy=1&sign=a5330159f73f1cba9b1a285699e53bbe&c_uniq_tag=qnocKv78mGn-o8-bMeAfPnkl5l2f3dl6m8ekBsCFnvk&type=album')})
+**kwargs is: {}
+Result is: {12716695: ((80, 'https://sun9-63.userapi.com/c5318/u12716695/-6/y_6db39e38.jpg'), (24, 'https://sun9-70.userapi.com/impf/c845124/v845124221/d7e75/1kTpca0XB8c.jpg?size=720x960&quality=96&proxy=1&sign=a5330159f73f1cba9b1a285699e53bbe&c_uniq_tag=qnocKv78mGn-o8-bMeAfPnkl5l2f3dl6m8ekBsCFnvk&type=album'), (10, 'https://sun9-31.userapi.com/impf/c11024/v11024695/a97/ntCABkJXFpw.jpg?size=550x550&quality=96&proxy=1&sign=7df3dec76ece325fc7bf7acbcdc12bcd&c_uniq_tag=W35foCSUyOifJfAcGY6xkrz1HvlR-7ZZf4qxGZaT_2k&type=album'))}
+Function performed duration is: 0:00:00.000041
+Documentation: Merge dictionaries and keep values of common keys in list
+
+Function "merge_dict" started at 2021-01-10 19:34:59.365092
+*args is: ({77239525: (35, 'https://sun9-28.userapi.com/impf/c6092/v6092525/2d36/ngKRk6FCbZw.jpg?size=1280x960&quality=96&proxy=1&sign=44dd6481b4b72e46d5e881bc61331c32&c_uniq_tag=hguhsQIFcnvSJFiy0vsiTqho-2HvY99OTP8-B3lVZ6s&type=album')}, {77239525: (29, 'https://sun9-49.userapi.com/impf/c846419/v846419792/3dec3/NuoZYcYuLIM.jpg?size=810x1080&quality=96&proxy=1&sign=3de05d324bbf401f4a5748c6be1ef372&c_uniq_tag=4z-Aha-ckWq1gkSwTVvxbLj_D2qbix48v9-ElMm6xOo&type=album')}, {77239525: (26, 'https://sun9-25.userapi.com/impf/c852124/v852124736/751c0/VHwgwpbUDeo.jpg?size=960x1280&quality=96&proxy=1&sign=8a9f904079b031f311b26753fd240298&c_uniq_tag=x87QZ4Sg2r_7FU_dKLrFG2eMZbuy5O5kVqR_29sUjeE&type=album')})
+**kwargs is: {}
+Result is: {77239525: ((35, 'https://sun9-28.userapi.com/impf/c6092/v6092525/2d36/ngKRk6FCbZw.jpg?size=1280x960&quality=96&proxy=1&sign=44dd6481b4b72e46d5e881bc61331c32&c_uniq_tag=hguhsQIFcnvSJFiy0vsiTqho-2HvY99OTP8-B3lVZ6s&type=album'), (26, 'https://sun9-25.userapi.com/impf/c852124/v852124736/751c0/VHwgwpbUDeo.jpg?size=960x1280&quality=96&proxy=1&sign=8a9f904079b031f311b26753fd240298&c_uniq_tag=x87QZ4Sg2r_7FU_dKLrFG2eMZbuy5O5kVqR_29sUjeE&type=album'), (29, 'https://sun9-49.userapi.com/impf/c846419/v846419792/3dec3/NuoZYcYuLIM.jpg?size=810x1080&quality=96&proxy=1&sign=3de05d324bbf401f4a5748c6be1ef372&c_uniq_tag=4z-Aha-ckWq1gkSwTVvxbLj_D2qbix48v9-ElMm6xOo&type=album'))}
+Function performed duration is: 0:00:00.000121
+Documentation: Merge dictionaries and keep values of common keys in list
+
+Function "merge_dict" started at 2021-01-10 19:34:59.365558
+*args is: ({12716695: (80, 'https://sun9-63.userapi.com/c5318/u12716695/-6/y_6db39e38.jpg')}, {12716695: (10, 'https://sun9-31.userapi.com/impf/c11024/v11024695/a97/ntCABkJXFpw.jpg?size=550x550&quality=96&proxy=1&sign=7df3dec76ece325fc7bf7acbcdc12bcd&c_uniq_tag=W35foCSUyOifJfAcGY6xkrz1HvlR-7ZZf4qxGZaT_2k&type=album')}, {12716695: (24, 'https://sun9-70.userapi.com/impf/c845124/v845124221/d7e75/1kTpca0XB8c.jpg?size=720x960&quality=96&proxy=1&sign=a5330159f73f1cba9b1a285699e53bbe&c_uniq_tag=qnocKv78mGn-o8-bMeAfPnkl5l2f3dl6m8ekBsCFnvk&type=album')})
+**kwargs is: {}
+Result is: {12716695: ((80, 'https://sun9-63.userapi.com/c5318/u12716695/-6/y_6db39e38.jpg'), (24, 'https://sun9-70.userapi.com/impf/c845124/v845124221/d7e75/1kTpca0XB8c.jpg?size=720x960&quality=96&proxy=1&sign=a5330159f73f1cba9b1a285699e53bbe&c_uniq_tag=qnocKv78mGn-o8-bMeAfPnkl5l2f3dl6m8ekBsCFnvk&type=album'), (10, 'https://sun9-31.userapi.com/impf/c11024/v11024695/a97/ntCABkJXFpw.jpg?size=550x550&quality=96&proxy=1&sign=7df3dec76ece325fc7bf7acbcdc12bcd&c_uniq_tag=W35foCSUyOifJfAcGY6xkrz1HvlR-7ZZf4qxGZaT_2k&type=album'))}
+Function performed duration is: 0:00:00.000088
+Documentation: Merge dictionaries and keep values of common keys in list
+
+Function "filling_photos_of_candidates_table" started at 2021-01-10 19:34:59.131396
+*args is: ()
+**kwargs is: {}
+Result is: [{77239525: ((35, 'https://sun9-28.userapi.com/impf/c6092/v6092525/2d36/ngKRk6FCbZw.jpg?size=1280x960&quality=96&proxy=1&sign=44dd6481b4b72e46d5e881bc61331c32&c_uniq_tag=hguhsQIFcnvSJFiy0vsiTqho-2HvY99OTP8-B3lVZ6s&type=album'), (26, 'https://sun9-25.userapi.com/impf/c852124/v852124736/751c0/VHwgwpbUDeo.jpg?size=960x1280&quality=96&proxy=1&sign=8a9f904079b031f311b26753fd240298&c_uniq_tag=x87QZ4Sg2r_7FU_dKLrFG2eMZbuy5O5kVqR_29sUjeE&type=album'), (29, 'https://sun9-49.userapi.com/impf/c846419/v846419792/3dec3/NuoZYcYuLIM.jpg?size=810x1080&quality=96&proxy=1&sign=3de05d324bbf401f4a5748c6be1ef372&c_uniq_tag=4z-Aha-ckWq1gkSwTVvxbLj_D2qbix48v9-ElMm6xOo&type=album'))}, {12716695: ((80, 'https://sun9-63.userapi.com/c5318/u12716695/-6/y_6db39e38.jpg'), (24, 'https://sun9-70.userapi.com/impf/c845124/v845124221/d7e75/1kTpca0XB8c.jpg?size=720x960&quality=96&proxy=1&sign=a5330159f73f1cba9b1a285699e53bbe&c_uniq_tag=qnocKv78mGn-o8-bMeAfPnkl5l2f3dl6m8ekBsCFnvk&type=album'), (10, 'https://sun9-31.userapi.com/impf/c11024/v11024695/a97/ntCABkJXFpw.jpg?size=550x550&quality=96&proxy=1&sign=7df3dec76ece325fc7bf7acbcdc12bcd&c_uniq_tag=W35foCSUyOifJfAcGY6xkrz1HvlR-7ZZf4qxGZaT_2k&type=album'))}, {77239525: ((35, 'https://sun9-28.userapi.com/impf/c6092/v6092525/2d36/ngKRk6FCbZw.jpg?size=1280x960&quality=96&proxy=1&sign=44dd6481b4b72e46d5e881bc61331c32&c_uniq_tag=hguhsQIFcnvSJFiy0vsiTqho-2HvY99OTP8-B3lVZ6s&type=album'), (26, 'https://sun9-25.userapi.com/impf/c852124/v852124736/751c0/VHwgwpbUDeo.jpg?size=960x1280&quality=96&proxy=1&sign=8a9f904079b031f311b26753fd240298&c_uniq_tag=x87QZ4Sg2r_7FU_dKLrFG2eMZbuy5O5kVqR_29sUjeE&type=album'), (29, 'https://sun9-49.userapi.com/impf/c846419/v846419792/3dec3/NuoZYcYuLIM.jpg?size=810x1080&quality=96&proxy=1&sign=3de05d324bbf401f4a5748c6be1ef372&c_uniq_tag=4z-Aha-ckWq1gkSwTVvxbLj_D2qbix48v9-ElMm6xOo&type=album'))}, {12716695: ((80, 'https://sun9-63.userapi.com/c5318/u12716695/-6/y_6db39e38.jpg'), (24, 'https://sun9-70.userapi.com/impf/c845124/v845124221/d7e75/1kTpca0XB8c.jpg?size=720x960&quality=96&proxy=1&sign=a5330159f73f1cba9b1a285699e53bbe&c_uniq_tag=qnocKv78mGn-o8-bMeAfPnkl5l2f3dl6m8ekBsCFnvk&type=album'), (10, 'https://sun9-31.userapi.com/impf/c11024/v11024695/a97/ntCABkJXFpw.jpg?size=550x550&quality=96&proxy=1&sign=7df3dec76ece325fc7bf7acbcdc12bcd&c_uniq_tag=W35foCSUyOifJfAcGY6xkrz1HvlR-7ZZf4qxGZaT_2k&type=album'))}, {77239525: ((35, 'https://sun9-28.userapi.com/impf/c6092/v6092525/2d36/ngKRk6FCbZw.jpg?size=1280x960&quality=96&proxy=1&sign=44dd6481b4b72e46d5e881bc61331c32&c_uniq_tag=hguhsQIFcnvSJFiy0vsiTqho-2HvY99OTP8-B3lVZ6s&type=album'), (26, 'https://sun9-25.userapi.com/impf/c852124/v852124736/751c0/VHwgwpbUDeo.jpg?size=960x1280&quality=96&proxy=1&sign=8a9f904079b031f311b26753fd240298&c_uniq_tag=x87QZ4Sg2r_7FU_dKLrFG2eMZbuy5O5kVqR_29sUjeE&type=album'), (29, 'https://sun9-49.userapi.com/impf/c846419/v846419792/3dec3/NuoZYcYuLIM.jpg?size=810x1080&quality=96&proxy=1&sign=3de05d324bbf401f4a5748c6be1ef372&c_uniq_tag=4z-Aha-ckWq1gkSwTVvxbLj_D2qbix48v9-ElMm6xOo&type=album'))}, {12716695: ((80, 'https://sun9-63.userapi.com/c5318/u12716695/-6/y_6db39e38.jpg'), (24, 'https://sun9-70.userapi.com/impf/c845124/v845124221/d7e75/1kTpca0XB8c.jpg?size=720x960&quality=96&proxy=1&sign=a5330159f73f1cba9b1a285699e53bbe&c_uniq_tag=qnocKv78mGn-o8-bMeAfPnkl5l2f3dl6m8ekBsCFnvk&type=album'), (10, 'https://sun9-31.userapi.com/impf/c11024/v11024695/a97/ntCABkJXFpw.jpg?size=550x550&quality=96&proxy=1&sign=7df3dec76ece325fc7bf7acbcdc12bcd&c_uniq_tag=W35foCSUyOifJfAcGY6xkrz1HvlR-7ZZf4qxGZaT_2k&type=album'))}]
+Function performed duration is: 0:00:00.234596
+Documentation: NOW WE WANT TO GET A SIMILAR LIST WITH DICTS:
+    [
+    {user_id: ((photo_like_count, photo_link), (photo_like_count, photo_link), (photo_like_count, photo_link))},
+    {another_user_id: ((photo_like_count, photo_link), (photo_like_count, photo_link), (photo_like_count, photo_link))}
+    etc...
+    ]
+    This variant is comfortable to further data filling in db
+    LET'S DO IT IN 8 STEPS!!!!!!
+
+Function "get_list_with_liked_candidates" started at 2021-01-10 19:36:08.932667
+*args is: ()
+**kwargs is: {}
+Result is: [77239525, 12716695]
+Function performed duration is: 0:00:00.000351
+Documentation: None
+
+Function "filling_candidates_table" started at 2021-01-10 19:36:08.932405
+*args is: ()
+**kwargs is: {}
+Result is: [[77239525, 1, 'Ольга', 'Старцева', 'https://vk.com/id77239525', 457199137], [12716695, 2, 'Алекс', 'Сотников', 'https://vk.com/id12716695', 457199137]]
+Function performed duration is: 0:00:00.206760
+Documentation: None
+
+Function "get_list_with_liked_candidates" started at 2021-01-10 19:36:45.737286
+*args is: ()
+**kwargs is: {}
+Result is: [77239525, 12716695]
+Function performed duration is: 0:00:00.002097
+Documentation: None
+
+Function "get_list_with_liked_candidates" started at 2021-01-10 19:36:49.311789
+*args is: ()
+**kwargs is: {}
+Result is: [77239525, 12716695]
+Function performed duration is: 0:00:00.000608
+Documentation: None
+
+Function "get_candidates_links" started at 2021-01-10 19:36:52.226657
+*args is: (2, 55, 100, 6, 'Барнаул')
+**kwargs is: {}
+Result is: ['1) https://vk.com/id4670487', '2) https://vk.com/id21029212']
+Function performed duration is: 0:00:00.409069
+Documentation: STEP 1: SETTING PARAMS FOR METHOD 'users.search' (API VK). DEFINE SEX, AGE, MARITAL STATUS and CITY
+
+Function "filling_main_user_table" started at 2021-01-10 19:36:52.664104
+*args is: (613295858,)
+**kwargs is: {}
+Result is: [613295858, 1, 'Виктория', 'Самойлова', 'Международное брачное агентство ищет талантливых парней - переводчиков от 21-35. Переходите на наш сайт👇🏻⭐']
+Function performed duration is: 0:00:00.113904
+Documentation: None
+
+Function "get_list_with_liked_candidates" started at 2021-01-10 19:36:52.785192
+*args is: ()
+**kwargs is: {}
+Result is: [77239525, 12716695]
+Function performed duration is: 0:00:00.000366
+Documentation: None
+
+Function "get_list_with_liked_candidates" started at 2021-01-10 19:36:52.790828
+*args is: ()
+**kwargs is: {}
+Result is: [77239525, 12716695]
+Function performed duration is: 0:00:00.000185
+Documentation: None
+
+Function "filling_candidates_table" started at 2021-01-10 19:36:52.790744
+*args is: ()
+**kwargs is: {}
+Result is: [[77239525, 1, 'Ольга', 'Старцева', 'https://vk.com/id77239525', 457199137], [12716695, 2, 'Алекс', 'Сотников', 'https://vk.com/id12716695', 457199137]]
+Function performed duration is: 0:00:00.193670
+Documentation: None
+
+Function "get_list_with_liked_candidates" started at 2021-01-10 19:36:52.994235
+*args is: ()
+**kwargs is: {}
+Result is: [77239525, 12716695]
+Function performed duration is: 0:00:00.000559
+Documentation: None
+
+Function "merge_dict" started at 2021-01-10 19:36:53.220667
+*args is: ({77239525: (35, 'https://sun9-28.userapi.com/impf/c6092/v6092525/2d36/ngKRk6FCbZw.jpg?size=1280x960&quality=96&proxy=1&sign=44dd6481b4b72e46d5e881bc61331c32&c_uniq_tag=hguhsQIFcnvSJFiy0vsiTqho-2HvY99OTP8-B3lVZ6s&type=album')}, {77239525: (29, 'https://sun9-49.userapi.com/impf/c846419/v846419792/3dec3/NuoZYcYuLIM.jpg?size=810x1080&quality=96&proxy=1&sign=3de05d324bbf401f4a5748c6be1ef372&c_uniq_tag=4z-Aha-ckWq1gkSwTVvxbLj_D2qbix48v9-ElMm6xOo&type=album')}, {77239525: (26, 'https://sun9-25.userapi.com/impf/c852124/v852124736/751c0/VHwgwpbUDeo.jpg?size=960x1280&quality=96&proxy=1&sign=8a9f904079b031f311b26753fd240298&c_uniq_tag=x87QZ4Sg2r_7FU_dKLrFG2eMZbuy5O5kVqR_29sUjeE&type=album')})
+**kwargs is: {}
+Result is: {77239525: ((35, 'https://sun9-28.userapi.com/impf/c6092/v6092525/2d36/ngKRk6FCbZw.jpg?size=1280x960&quality=96&proxy=1&sign=44dd6481b4b72e46d5e881bc61331c32&c_uniq_tag=hguhsQIFcnvSJFiy0vsiTqho-2HvY99OTP8-B3lVZ6s&type=album'), (26, 'https://sun9-25.userapi.com/impf/c852124/v852124736/751c0/VHwgwpbUDeo.jpg?size=960x1280&quality=96&proxy=1&sign=8a9f904079b031f311b26753fd240298&c_uniq_tag=x87QZ4Sg2r_7FU_dKLrFG2eMZbuy5O5kVqR_29sUjeE&type=album'), (29, 'https://sun9-49.userapi.com/impf/c846419/v846419792/3dec3/NuoZYcYuLIM.jpg?size=810x1080&quality=96&proxy=1&sign=3de05d324bbf401f4a5748c6be1ef372&c_uniq_tag=4z-Aha-ckWq1gkSwTVvxbLj_D2qbix48v9-ElMm6xOo&type=album'))}
+Function performed duration is: 0:00:00.000145
+Documentation: Merge dictionaries and keep values of common keys in list
+
+Function "merge_dict" started at 2021-01-10 19:36:53.221363
+*args is: ({12716695: (80, 'https://sun9-63.userapi.com/c5318/u12716695/-6/y_6db39e38.jpg')}, {12716695: (10, 'https://sun9-31.userapi.com/impf/c11024/v11024695/a97/ntCABkJXFpw.jpg?size=550x550&quality=96&proxy=1&sign=7df3dec76ece325fc7bf7acbcdc12bcd&c_uniq_tag=W35foCSUyOifJfAcGY6xkrz1HvlR-7ZZf4qxGZaT_2k&type=album')}, {12716695: (24, 'https://sun9-70.userapi.com/impf/c845124/v845124221/d7e75/1kTpca0XB8c.jpg?size=720x960&quality=96&proxy=1&sign=a5330159f73f1cba9b1a285699e53bbe&c_uniq_tag=qnocKv78mGn-o8-bMeAfPnkl5l2f3dl6m8ekBsCFnvk&type=album')})
+**kwargs is: {}
+Result is: {12716695: ((80, 'https://sun9-63.userapi.com/c5318/u12716695/-6/y_6db39e38.jpg'), (24, 'https://sun9-70.userapi.com/impf/c845124/v845124221/d7e75/1kTpca0XB8c.jpg?size=720x960&quality=96&proxy=1&sign=a5330159f73f1cba9b1a285699e53bbe&c_uniq_tag=qnocKv78mGn-o8-bMeAfPnkl5l2f3dl6m8ekBsCFnvk&type=album'), (10, 'https://sun9-31.userapi.com/impf/c11024/v11024695/a97/ntCABkJXFpw.jpg?size=550x550&quality=96&proxy=1&sign=7df3dec76ece325fc7bf7acbcdc12bcd&c_uniq_tag=W35foCSUyOifJfAcGY6xkrz1HvlR-7ZZf4qxGZaT_2k&type=album'))}
+Function performed duration is: 0:00:00.000092
+Documentation: Merge dictionaries and keep values of common keys in list
+
+Function "filling_photos_of_candidates_table" started at 2021-01-10 19:36:52.992672
+*args is: ()
+**kwargs is: {}
+Result is: [{77239525: ((35, 'https://sun9-28.userapi.com/impf/c6092/v6092525/2d36/ngKRk6FCbZw.jpg?size=1280x960&quality=96&proxy=1&sign=44dd6481b4b72e46d5e881bc61331c32&c_uniq_tag=hguhsQIFcnvSJFiy0vsiTqho-2HvY99OTP8-B3lVZ6s&type=album'), (26, 'https://sun9-25.userapi.com/impf/c852124/v852124736/751c0/VHwgwpbUDeo.jpg?size=960x1280&quality=96&proxy=1&sign=8a9f904079b031f311b26753fd240298&c_uniq_tag=x87QZ4Sg2r_7FU_dKLrFG2eMZbuy5O5kVqR_29sUjeE&type=album'), (29, 'https://sun9-49.userapi.com/impf/c846419/v846419792/3dec3/NuoZYcYuLIM.jpg?size=810x1080&quality=96&proxy=1&sign=3de05d324bbf401f4a5748c6be1ef372&c_uniq_tag=4z-Aha-ckWq1gkSwTVvxbLj_D2qbix48v9-ElMm6xOo&type=album'))}, {12716695: ((80, 'https://sun9-63.userapi.com/c5318/u12716695/-6/y_6db39e38.jpg'), (24, 'https://sun9-70.userapi.com/impf/c845124/v845124221/d7e75/1kTpca0XB8c.jpg?size=720x960&quality=96&proxy=1&sign=a5330159f73f1cba9b1a285699e53bbe&c_uniq_tag=qnocKv78mGn-o8-bMeAfPnkl5l2f3dl6m8ekBsCFnvk&type=album'), (10, 'https://sun9-31.userapi.com/impf/c11024/v11024695/a97/ntCABkJXFpw.jpg?size=550x550&quality=96&proxy=1&sign=7df3dec76ece325fc7bf7acbcdc12bcd&c_uniq_tag=W35foCSUyOifJfAcGY6xkrz1HvlR-7ZZf4qxGZaT_2k&type=album'))}]
+Function performed duration is: 0:00:00.229635
+Documentation: NOW WE WANT TO GET A SIMILAR LIST WITH DICTS:
+    [
+    {user_id: ((photo_like_count, photo_link), (photo_like_count, photo_link), (photo_like_count, photo_link))},
+    {another_user_id: ((photo_like_count, photo_link), (photo_like_count, photo_link), (photo_like_count, photo_link))}
+    etc...
+    ]
+    This variant is comfortable to further data filling in db
+    LET'S DO IT IN 8 STEPS!!!!!!
+
+Function "show_liked_candidates" started at 2021-01-10 19:48:50.799782
+*args is: ()
+**kwargs is: {}
+Result is: ['1) https://vk.com/id77239525', '2) https://vk.com/id12716695']
+Function performed duration is: 0:00:00.000304
+Documentation: None
+
+Function "show_liked_candidates" started at 2021-01-10 19:48:50.814841
+*args is: ()
+**kwargs is: {}
+Result is: ['1) https://vk.com/id77239525', '2) https://vk.com/id12716695']
+Function performed duration is: 0:00:00.000196
+Documentation: None
+
+Function "show_liked_candidates" started at 2021-01-10 19:49:24.987934
+*args is: ()
+**kwargs is: {}
+Result is: ['1) https://vk.com/id77239525', '2) https://vk.com/id12716695']
+Function performed duration is: 0:00:00.000247
+Documentation: None
+
+Function "show_liked_candidates" started at 2021-01-10 19:49:24.999961
+*args is: ()
+**kwargs is: {}
+Result is: ['1) https://vk.com/id77239525', '2) https://vk.com/id12716695']
+Function performed duration is: 0:00:00.000197
+Documentation: None
+
+Function "get_candidates_links" started at 2021-01-10 19:51:32.022717
+*args is: (2, 55, 100, 6, 'Барнаул')
+**kwargs is: {}
+Result is: []
+Function performed duration is: 0:00:00.142651
+Documentation: STEP 1: SETTING PARAMS FOR METHOD 'users.search' (API VK). DEFINE SEX, AGE, MARITAL STATUS and CITY
+
+Function "show_liked_candidates" started at 2021-01-10 19:51:32.305326
+*args is: ()
+**kwargs is: {}
+Result is: ['1) https://vk.com/id77239525', '2) https://vk.com/id12716695']
+Function performed duration is: 0:00:00.000422
+Documentation: None
+
+Function "filling_main_user_table" started at 2021-01-10 19:51:32.314726
+*args is: (613295858,)
+**kwargs is: {}
+Result is: [613295858, 1, 'Виктория', 'Самойлова', 'Международное брачное агентство ищет талантливых парней - переводчиков от 21-35. Переходите на наш сайт👇🏻⭐']
+Function performed duration is: 0:00:00.102314
+Documentation: None
+
+Function "get_list_with_liked_candidates" started at 2021-01-10 19:51:32.424419
+*args is: ()
+**kwargs is: {}
+Result is: [77239525, 12716695]
+Function performed duration is: 0:00:00.000490
+Documentation: None
+
+Function "get_list_with_liked_candidates" started at 2021-01-10 19:51:32.438216
+*args is: ()
+**kwargs is: {}
+Result is: [77239525, 12716695]
+Function performed duration is: 0:00:00.001537
+Documentation: None
+
+Function "filling_candidates_table" started at 2021-01-10 19:51:32.437738
+*args is: ()
+**kwargs is: {}
+Result is: [[77239525, 1, 'Ольга', 'Старцева', 'https://vk.com/id77239525', 65461422], [12716695, 2, 'Алекс', 'Сотников', 'https://vk.com/id12716695', 65461422]]
+Function performed duration is: 0:00:00.200233
+Documentation: None
+
+Function "get_list_with_liked_candidates" started at 2021-01-10 19:51:32.651707
+*args is: ()
+**kwargs is: {}
+Result is: [77239525, 12716695]
+Function performed duration is: 0:00:00.000206
+Documentation: None
+
+Function "merge_dict" started at 2021-01-10 19:51:32.881290
+*args is: ({77239525: (35, 'https://sun9-28.userapi.com/impf/c6092/v6092525/2d36/ngKRk6FCbZw.jpg?size=1280x960&quality=96&proxy=1&sign=44dd6481b4b72e46d5e881bc61331c32&c_uniq_tag=hguhsQIFcnvSJFiy0vsiTqho-2HvY99OTP8-B3lVZ6s&type=album')}, {77239525: (29, 'https://sun9-49.userapi.com/impf/c846419/v846419792/3dec3/NuoZYcYuLIM.jpg?size=810x1080&quality=96&proxy=1&sign=3de05d324bbf401f4a5748c6be1ef372&c_uniq_tag=4z-Aha-ckWq1gkSwTVvxbLj_D2qbix48v9-ElMm6xOo&type=album')}, {77239525: (26, 'https://sun9-25.userapi.com/impf/c852124/v852124736/751c0/VHwgwpbUDeo.jpg?size=960x1280&quality=96&proxy=1&sign=8a9f904079b031f311b26753fd240298&c_uniq_tag=x87QZ4Sg2r_7FU_dKLrFG2eMZbuy5O5kVqR_29sUjeE&type=album')})
+**kwargs is: {}
+Result is: {77239525: ((35, 'https://sun9-28.userapi.com/impf/c6092/v6092525/2d36/ngKRk6FCbZw.jpg?size=1280x960&quality=96&proxy=1&sign=44dd6481b4b72e46d5e881bc61331c32&c_uniq_tag=hguhsQIFcnvSJFiy0vsiTqho-2HvY99OTP8-B3lVZ6s&type=album'), (26, 'https://sun9-25.userapi.com/impf/c852124/v852124736/751c0/VHwgwpbUDeo.jpg?size=960x1280&quality=96&proxy=1&sign=8a9f904079b031f311b26753fd240298&c_uniq_tag=x87QZ4Sg2r_7FU_dKLrFG2eMZbuy5O5kVqR_29sUjeE&type=album'), (29, 'https://sun9-49.userapi.com/impf/c846419/v846419792/3dec3/NuoZYcYuLIM.jpg?size=810x1080&quality=96&proxy=1&sign=3de05d324bbf401f4a5748c6be1ef372&c_uniq_tag=4z-Aha-ckWq1gkSwTVvxbLj_D2qbix48v9-ElMm6xOo&type=album'))}
+Function performed duration is: 0:00:00.000066
+Documentation: Merge dictionaries and keep values of common keys in list
+
+Function "merge_dict" started at 2021-01-10 19:51:32.881600
+*args is: ({12716695: (80, 'https://sun9-63.userapi.com/c5318/u12716695/-6/y_6db39e38.jpg')}, {12716695: (10, 'https://sun9-31.userapi.com/impf/c11024/v11024695/a97/ntCABkJXFpw.jpg?size=550x550&quality=96&proxy=1&sign=7df3dec76ece325fc7bf7acbcdc12bcd&c_uniq_tag=W35foCSUyOifJfAcGY6xkrz1HvlR-7ZZf4qxGZaT_2k&type=album')}, {12716695: (24, 'https://sun9-70.userapi.com/impf/c845124/v845124221/d7e75/1kTpca0XB8c.jpg?size=720x960&quality=96&proxy=1&sign=a5330159f73f1cba9b1a285699e53bbe&c_uniq_tag=qnocKv78mGn-o8-bMeAfPnkl5l2f3dl6m8ekBsCFnvk&type=album')})
+**kwargs is: {}
+Result is: {12716695: ((80, 'https://sun9-63.userapi.com/c5318/u12716695/-6/y_6db39e38.jpg'), (24, 'https://sun9-70.userapi.com/impf/c845124/v845124221/d7e75/1kTpca0XB8c.jpg?size=720x960&quality=96&proxy=1&sign=a5330159f73f1cba9b1a285699e53bbe&c_uniq_tag=qnocKv78mGn-o8-bMeAfPnkl5l2f3dl6m8ekBsCFnvk&type=album'), (10, 'https://sun9-31.userapi.com/impf/c11024/v11024695/a97/ntCABkJXFpw.jpg?size=550x550&quality=96&proxy=1&sign=7df3dec76ece325fc7bf7acbcdc12bcd&c_uniq_tag=W35foCSUyOifJfAcGY6xkrz1HvlR-7ZZf4qxGZaT_2k&type=album'))}
+Function performed duration is: 0:00:00.000047
+Documentation: Merge dictionaries and keep values of common keys in list
+
+Function "filling_photos_of_candidates_table" started at 2021-01-10 19:51:32.651614
+*args is: ()
+**kwargs is: {}
+Result is: [{77239525: ((35, 'https://sun9-28.userapi.com/impf/c6092/v6092525/2d36/ngKRk6FCbZw.jpg?size=1280x960&quality=96&proxy=1&sign=44dd6481b4b72e46d5e881bc61331c32&c_uniq_tag=hguhsQIFcnvSJFiy0vsiTqho-2HvY99OTP8-B3lVZ6s&type=album'), (26, 'https://sun9-25.userapi.com/impf/c852124/v852124736/751c0/VHwgwpbUDeo.jpg?size=960x1280&quality=96&proxy=1&sign=8a9f904079b031f311b26753fd240298&c_uniq_tag=x87QZ4Sg2r_7FU_dKLrFG2eMZbuy5O5kVqR_29sUjeE&type=album'), (29, 'https://sun9-49.userapi.com/impf/c846419/v846419792/3dec3/NuoZYcYuLIM.jpg?size=810x1080&quality=96&proxy=1&sign=3de05d324bbf401f4a5748c6be1ef372&c_uniq_tag=4z-Aha-ckWq1gkSwTVvxbLj_D2qbix48v9-ElMm6xOo&type=album'))}, {12716695: ((80, 'https://sun9-63.userapi.com/c5318/u12716695/-6/y_6db39e38.jpg'), (24, 'https://sun9-70.userapi.com/impf/c845124/v845124221/d7e75/1kTpca0XB8c.jpg?size=720x960&quality=96&proxy=1&sign=a5330159f73f1cba9b1a285699e53bbe&c_uniq_tag=qnocKv78mGn-o8-bMeAfPnkl5l2f3dl6m8ekBsCFnvk&type=album'), (10, 'https://sun9-31.userapi.com/impf/c11024/v11024695/a97/ntCABkJXFpw.jpg?size=550x550&quality=96&proxy=1&sign=7df3dec76ece325fc7bf7acbcdc12bcd&c_uniq_tag=W35foCSUyOifJfAcGY6xkrz1HvlR-7ZZf4qxGZaT_2k&type=album'))}]
+Function performed duration is: 0:00:00.230893
+Documentation: NOW WE WANT TO GET A SIMILAR LIST WITH DICTS:
+    [
+    {user_id: ((photo_like_count, photo_link), (photo_like_count, photo_link), (photo_like_count, photo_link))},
+    {another_user_id: ((photo_like_count, photo_link), (photo_like_count, photo_link), (photo_like_count, photo_link))}
+    etc...
+    ]
+    This variant is comfortable to further data filling in db
+    LET'S DO IT IN 8 STEPS!!!!!!
+
+Function "get_candidates_links" started at 2021-01-10 19:52:02.110193
+*args is: (2, 55, 100, 6, 'Барнаул')
+**kwargs is: {}
+Result is: []
+Function performed duration is: 0:00:00.108872
+Documentation: STEP 1: SETTING PARAMS FOR METHOD 'users.search' (API VK). DEFINE SEX, AGE, MARITAL STATUS and CITY
+
+Function "show_liked_candidates" started at 2021-01-10 19:52:02.366045
+*args is: ()
+**kwargs is: {}
+Result is: ['1) https://vk.com/id77239525', '2) https://vk.com/id12716695']
+Function performed duration is: 0:00:00.000609
+Documentation: None
+
+Function "filling_main_user_table" started at 2021-01-10 19:52:02.378693
+*args is: (613295858,)
+**kwargs is: {}
+Result is: [613295858, 1, 'Виктория', 'Самойлова', 'Международное брачное агентство ищет талантливых парней - переводчиков от 21-35. Переходите на наш сайт👇🏻⭐']
+Function performed duration is: 0:00:00.111200
+Documentation: None
+
+Function "get_list_with_liked_candidates" started at 2021-01-10 19:52:02.494085
+*args is: ()
+**kwargs is: {}
+Result is: [77239525, 12716695]
+Function performed duration is: 0:00:00.000256
+Documentation: None
+
+Function "get_list_with_liked_candidates" started at 2021-01-10 19:52:02.509504
+*args is: ()
+**kwargs is: {}
+Result is: [77239525, 12716695]
+Function performed duration is: 0:00:00.000233
+Documentation: None
+
+Function "filling_candidates_table" started at 2021-01-10 19:52:02.509390
+*args is: ()
+**kwargs is: {}
+Result is: [[77239525, 1, 'Ольга', 'Старцева', 'https://vk.com/id77239525', 65461422], [12716695, 2, 'Алекс', 'Сотников', 'https://vk.com/id12716695', 65461422]]
+Function performed duration is: 0:00:00.214560
+Documentation: None
+
+Function "get_list_with_liked_candidates" started at 2021-01-10 19:52:02.740810
+*args is: ()
+**kwargs is: {}
+Result is: [77239525, 12716695]
+Function performed duration is: 0:00:00.001561
+Documentation: None
+
+Function "merge_dict" started at 2021-01-10 19:52:02.970673
+*args is: ({77239525: (35, 'https://sun9-28.userapi.com/impf/c6092/v6092525/2d36/ngKRk6FCbZw.jpg?size=1280x960&quality=96&proxy=1&sign=44dd6481b4b72e46d5e881bc61331c32&c_uniq_tag=hguhsQIFcnvSJFiy0vsiTqho-2HvY99OTP8-B3lVZ6s&type=album')}, {77239525: (29, 'https://sun9-49.userapi.com/impf/c846419/v846419792/3dec3/NuoZYcYuLIM.jpg?size=810x1080&quality=96&proxy=1&sign=3de05d324bbf401f4a5748c6be1ef372&c_uniq_tag=4z-Aha-ckWq1gkSwTVvxbLj_D2qbix48v9-ElMm6xOo&type=album')}, {77239525: (26, 'https://sun9-25.userapi.com/impf/c852124/v852124736/751c0/VHwgwpbUDeo.jpg?size=960x1280&quality=96&proxy=1&sign=8a9f904079b031f311b26753fd240298&c_uniq_tag=x87QZ4Sg2r_7FU_dKLrFG2eMZbuy5O5kVqR_29sUjeE&type=album')})
+**kwargs is: {}
+Result is: {77239525: ((35, 'https://sun9-28.userapi.com/impf/c6092/v6092525/2d36/ngKRk6FCbZw.jpg?size=1280x960&quality=96&proxy=1&sign=44dd6481b4b72e46d5e881bc61331c32&c_uniq_tag=hguhsQIFcnvSJFiy0vsiTqho-2HvY99OTP8-B3lVZ6s&type=album'), (26, 'https://sun9-25.userapi.com/impf/c852124/v852124736/751c0/VHwgwpbUDeo.jpg?size=960x1280&quality=96&proxy=1&sign=8a9f904079b031f311b26753fd240298&c_uniq_tag=x87QZ4Sg2r_7FU_dKLrFG2eMZbuy5O5kVqR_29sUjeE&type=album'), (29, 'https://sun9-49.userapi.com/impf/c846419/v846419792/3dec3/NuoZYcYuLIM.jpg?size=810x1080&quality=96&proxy=1&sign=3de05d324bbf401f4a5748c6be1ef372&c_uniq_tag=4z-Aha-ckWq1gkSwTVvxbLj_D2qbix48v9-ElMm6xOo&type=album'))}
+Function performed duration is: 0:00:00.000100
+Documentation: Merge dictionaries and keep values of common keys in list
+
+Function "merge_dict" started at 2021-01-10 19:52:02.971236
+*args is: ({12716695: (80, 'https://sun9-63.userapi.com/c5318/u12716695/-6/y_6db39e38.jpg')}, {12716695: (10, 'https://sun9-31.userapi.com/impf/c11024/v11024695/a97/ntCABkJXFpw.jpg?size=550x550&quality=96&proxy=1&sign=7df3dec76ece325fc7bf7acbcdc12bcd&c_uniq_tag=W35foCSUyOifJfAcGY6xkrz1HvlR-7ZZf4qxGZaT_2k&type=album')}, {12716695: (24, 'https://sun9-70.userapi.com/impf/c845124/v845124221/d7e75/1kTpca0XB8c.jpg?size=720x960&quality=96&proxy=1&sign=a5330159f73f1cba9b1a285699e53bbe&c_uniq_tag=qnocKv78mGn-o8-bMeAfPnkl5l2f3dl6m8ekBsCFnvk&type=album')})
+**kwargs is: {}
+Result is: {12716695: ((80, 'https://sun9-63.userapi.com/c5318/u12716695/-6/y_6db39e38.jpg'), (24, 'https://sun9-70.userapi.com/impf/c845124/v845124221/d7e75/1kTpca0XB8c.jpg?size=720x960&quality=96&proxy=1&sign=a5330159f73f1cba9b1a285699e53bbe&c_uniq_tag=qnocKv78mGn-o8-bMeAfPnkl5l2f3dl6m8ekBsCFnvk&type=album'), (10, 'https://sun9-31.userapi.com/impf/c11024/v11024695/a97/ntCABkJXFpw.jpg?size=550x550&quality=96&proxy=1&sign=7df3dec76ece325fc7bf7acbcdc12bcd&c_uniq_tag=W35foCSUyOifJfAcGY6xkrz1HvlR-7ZZf4qxGZaT_2k&type=album'))}
+Function performed duration is: 0:00:00.000077
+Documentation: Merge dictionaries and keep values of common keys in list
+
+Function "filling_photos_of_candidates_table" started at 2021-01-10 19:52:02.740512
+*args is: ()
+**kwargs is: {}
+Result is: [{77239525: ((35, 'https://sun9-28.userapi.com/impf/c6092/v6092525/2d36/ngKRk6FCbZw.jpg?size=1280x960&quality=96&proxy=1&sign=44dd6481b4b72e46d5e881bc61331c32&c_uniq_tag=hguhsQIFcnvSJFiy0vsiTqho-2HvY99OTP8-B3lVZ6s&type=album'), (26, 'https://sun9-25.userapi.com/impf/c852124/v852124736/751c0/VHwgwpbUDeo.jpg?size=960x1280&quality=96&proxy=1&sign=8a9f904079b031f311b26753fd240298&c_uniq_tag=x87QZ4Sg2r_7FU_dKLrFG2eMZbuy5O5kVqR_29sUjeE&type=album'), (29, 'https://sun9-49.userapi.com/impf/c846419/v846419792/3dec3/NuoZYcYuLIM.jpg?size=810x1080&quality=96&proxy=1&sign=3de05d324bbf401f4a5748c6be1ef372&c_uniq_tag=4z-Aha-ckWq1gkSwTVvxbLj_D2qbix48v9-ElMm6xOo&type=album'))}, {12716695: ((80, 'https://sun9-63.userapi.com/c5318/u12716695/-6/y_6db39e38.jpg'), (24, 'https://sun9-70.userapi.com/impf/c845124/v845124221/d7e75/1kTpca0XB8c.jpg?size=720x960&quality=96&proxy=1&sign=a5330159f73f1cba9b1a285699e53bbe&c_uniq_tag=qnocKv78mGn-o8-bMeAfPnkl5l2f3dl6m8ekBsCFnvk&type=album'), (10, 'https://sun9-31.userapi.com/impf/c11024/v11024695/a97/ntCABkJXFpw.jpg?size=550x550&quality=96&proxy=1&sign=7df3dec76ece325fc7bf7acbcdc12bcd&c_uniq_tag=W35foCSUyOifJfAcGY6xkrz1HvlR-7ZZf4qxGZaT_2k&type=album'))}]
+Function performed duration is: 0:00:00.231750
+Documentation: NOW WE WANT TO GET A SIMILAR LIST WITH DICTS:
+    [
+    {user_id: ((photo_like_count, photo_link), (photo_like_count, photo_link), (photo_like_count, photo_link))},
+    {another_user_id: ((photo_like_count, photo_link), (photo_like_count, photo_link), (photo_like_count, photo_link))}
+    etc...
+    ]
+    This variant is comfortable to further data filling in db
+    LET'S DO IT IN 8 STEPS!!!!!!
+
+Function "get_candidates_links" started at 2021-01-10 19:52:39.625209
+*args is: (2, 55, 100, 6, 'Барнаул')
+**kwargs is: {}
+Result is: []
+Function performed duration is: 0:00:00.115536
+Documentation: STEP 1: SETTING PARAMS FOR METHOD 'users.search' (API VK). DEFINE SEX, AGE, MARITAL STATUS and CITY
+
+Function "filling_main_user_table" started at 2021-01-10 19:52:39.930563
+*args is: (613295858,)
+**kwargs is: {}
+Result is: [613295858, 1, 'Виктория', 'Самойлова', 'Международное брачное агентство ищет талантливых парней - переводчиков от 21-35. Переходите на наш сайт👇🏻⭐']
+Function performed duration is: 0:00:00.096945
+Documentation: None
+
+Function "get_list_with_liked_candidates" started at 2021-01-10 19:52:40.035960
+*args is: ()
+**kwargs is: {}
+Result is: [77239525, 12716695]
+Function performed duration is: 0:00:00.003922
+Documentation: None
+
+Function "get_list_with_liked_candidates" started at 2021-01-10 19:52:40.046408
+*args is: ()
+**kwargs is: {}
+Result is: [77239525, 12716695]
+Function performed duration is: 0:00:00.000225
+Documentation: None
+
+Function "filling_candidates_table" started at 2021-01-10 19:52:40.046315
+*args is: ()
+**kwargs is: {}
+Result is: [[77239525, 1, 'Ольга', 'Старцева', 'https://vk.com/id77239525', 65461422], [12716695, 2, 'Алекс', 'Сотников', 'https://vk.com/id12716695', 65461422]]
+Function performed duration is: 0:00:00.183654
+Documentation: None
+
+Function "get_list_with_liked_candidates" started at 2021-01-10 19:52:40.246960
+*args is: ()
+**kwargs is: {}
+Result is: [77239525, 12716695]
+Function performed duration is: 0:00:00.001254
+Documentation: None
+
+Function "merge_dict" started at 2021-01-10 19:52:40.481166
+*args is: ({77239525: (35, 'https://sun9-28.userapi.com/impf/c6092/v6092525/2d36/ngKRk6FCbZw.jpg?size=1280x960&quality=96&proxy=1&sign=44dd6481b4b72e46d5e881bc61331c32&c_uniq_tag=hguhsQIFcnvSJFiy0vsiTqho-2HvY99OTP8-B3lVZ6s&type=album')}, {77239525: (29, 'https://sun9-49.userapi.com/impf/c846419/v846419792/3dec3/NuoZYcYuLIM.jpg?size=810x1080&quality=96&proxy=1&sign=3de05d324bbf401f4a5748c6be1ef372&c_uniq_tag=4z-Aha-ckWq1gkSwTVvxbLj_D2qbix48v9-ElMm6xOo&type=album')}, {77239525: (26, 'https://sun9-25.userapi.com/impf/c852124/v852124736/751c0/VHwgwpbUDeo.jpg?size=960x1280&quality=96&proxy=1&sign=8a9f904079b031f311b26753fd240298&c_uniq_tag=x87QZ4Sg2r_7FU_dKLrFG2eMZbuy5O5kVqR_29sUjeE&type=album')})
+**kwargs is: {}
+Result is: {77239525: ((35, 'https://sun9-28.userapi.com/impf/c6092/v6092525/2d36/ngKRk6FCbZw.jpg?size=1280x960&quality=96&proxy=1&sign=44dd6481b4b72e46d5e881bc61331c32&c_uniq_tag=hguhsQIFcnvSJFiy0vsiTqho-2HvY99OTP8-B3lVZ6s&type=album'), (26, 'https://sun9-25.userapi.com/impf/c852124/v852124736/751c0/VHwgwpbUDeo.jpg?size=960x1280&quality=96&proxy=1&sign=8a9f904079b031f311b26753fd240298&c_uniq_tag=x87QZ4Sg2r_7FU_dKLrFG2eMZbuy5O5kVqR_29sUjeE&type=album'), (29, 'https://sun9-49.userapi.com/impf/c846419/v846419792/3dec3/NuoZYcYuLIM.jpg?size=810x1080&quality=96&proxy=1&sign=3de05d324bbf401f4a5748c6be1ef372&c_uniq_tag=4z-Aha-ckWq1gkSwTVvxbLj_D2qbix48v9-ElMm6xOo&type=album'))}
+Function performed duration is: 0:00:00.000058
+Documentation: Merge dictionaries and keep values of common keys in list
+
+Function "merge_dict" started at 2021-01-10 19:52:40.481435
+*args is: ({12716695: (80, 'https://sun9-63.userapi.com/c5318/u12716695/-6/y_6db39e38.jpg')}, {12716695: (10, 'https://sun9-31.userapi.com/impf/c11024/v11024695/a97/ntCABkJXFpw.jpg?size=550x550&quality=96&proxy=1&sign=7df3dec76ece325fc7bf7acbcdc12bcd&c_uniq_tag=W35foCSUyOifJfAcGY6xkrz1HvlR-7ZZf4qxGZaT_2k&type=album')}, {12716695: (24, 'https://sun9-70.userapi.com/impf/c845124/v845124221/d7e75/1kTpca0XB8c.jpg?size=720x960&quality=96&proxy=1&sign=a5330159f73f1cba9b1a285699e53bbe&c_uniq_tag=qnocKv78mGn-o8-bMeAfPnkl5l2f3dl6m8ekBsCFnvk&type=album')})
+**kwargs is: {}
+Result is: {12716695: ((80, 'https://sun9-63.userapi.com/c5318/u12716695/-6/y_6db39e38.jpg'), (24, 'https://sun9-70.userapi.com/impf/c845124/v845124221/d7e75/1kTpca0XB8c.jpg?size=720x960&quality=96&proxy=1&sign=a5330159f73f1cba9b1a285699e53bbe&c_uniq_tag=qnocKv78mGn-o8-bMeAfPnkl5l2f3dl6m8ekBsCFnvk&type=album'), (10, 'https://sun9-31.userapi.com/impf/c11024/v11024695/a97/ntCABkJXFpw.jpg?size=550x550&quality=96&proxy=1&sign=7df3dec76ece325fc7bf7acbcdc12bcd&c_uniq_tag=W35foCSUyOifJfAcGY6xkrz1HvlR-7ZZf4qxGZaT_2k&type=album'))}
+Function performed duration is: 0:00:00.000039
+Documentation: Merge dictionaries and keep values of common keys in list
+
+Function "filling_photos_of_candidates_table" started at 2021-01-10 19:52:40.246655
+*args is: ()
+**kwargs is: {}
+Result is: [{77239525: ((35, 'https://sun9-28.userapi.com/impf/c6092/v6092525/2d36/ngKRk6FCbZw.jpg?size=1280x960&quality=96&proxy=1&sign=44dd6481b4b72e46d5e881bc61331c32&c_uniq_tag=hguhsQIFcnvSJFiy0vsiTqho-2HvY99OTP8-B3lVZ6s&type=album'), (26, 'https://sun9-25.userapi.com/impf/c852124/v852124736/751c0/VHwgwpbUDeo.jpg?size=960x1280&quality=96&proxy=1&sign=8a9f904079b031f311b26753fd240298&c_uniq_tag=x87QZ4Sg2r_7FU_dKLrFG2eMZbuy5O5kVqR_29sUjeE&type=album'), (29, 'https://sun9-49.userapi.com/impf/c846419/v846419792/3dec3/NuoZYcYuLIM.jpg?size=810x1080&quality=96&proxy=1&sign=3de05d324bbf401f4a5748c6be1ef372&c_uniq_tag=4z-Aha-ckWq1gkSwTVvxbLj_D2qbix48v9-ElMm6xOo&type=album'))}, {12716695: ((80, 'https://sun9-63.userapi.com/c5318/u12716695/-6/y_6db39e38.jpg'), (24, 'https://sun9-70.userapi.com/impf/c845124/v845124221/d7e75/1kTpca0XB8c.jpg?size=720x960&quality=96&proxy=1&sign=a5330159f73f1cba9b1a285699e53bbe&c_uniq_tag=qnocKv78mGn-o8-bMeAfPnkl5l2f3dl6m8ekBsCFnvk&type=album'), (10, 'https://sun9-31.userapi.com/impf/c11024/v11024695/a97/ntCABkJXFpw.jpg?size=550x550&quality=96&proxy=1&sign=7df3dec76ece325fc7bf7acbcdc12bcd&c_uniq_tag=W35foCSUyOifJfAcGY6xkrz1HvlR-7ZZf4qxGZaT_2k&type=album'))}]
+Function performed duration is: 0:00:00.236257
+Documentation: NOW WE WANT TO GET A SIMILAR LIST WITH DICTS:
+    [
+    {user_id: ((photo_like_count, photo_link), (photo_like_count, photo_link), (photo_like_count, photo_link))},
+    {another_user_id: ((photo_like_count, photo_link), (photo_like_count, photo_link), (photo_like_count, photo_link))}
+    etc...
+    ]
+    This variant is comfortable to further data filling in db
+    LET'S DO IT IN 8 STEPS!!!!!!
+
+Function "show_liked_candidates" started at 2021-01-10 19:52:40.487524
+*args is: ()
+**kwargs is: {}
+Result is: ['1) https://vk.com/id77239525', '2) https://vk.com/id12716695']
+Function performed duration is: 0:00:00.000315
+Documentation: None
+
+Function "get_candidates_links" started at 2021-01-10 19:52:48.103795
+*args is: (2, 55, 100, 6, 'Барнаул')
+**kwargs is: {}
+Result is: []
+Function performed duration is: 0:00:00.113929
+Documentation: STEP 1: SETTING PARAMS FOR METHOD 'users.search' (API VK). DEFINE SEX, AGE, MARITAL STATUS and CITY
+
+Function "get_candidates_links" started at 2021-01-10 19:53:22.678988
+*args is: (2, 55, 100, 6, 'Барнаул')
+**kwargs is: {}
+Result is: []
+Function performed duration is: 0:00:00.105115
+Documentation: STEP 1: SETTING PARAMS FOR METHOD 'users.search' (API VK). DEFINE SEX, AGE, MARITAL STATUS and CITY
+
+Function "get_candidates_links" started at 2021-01-10 19:53:51.618936
+*args is: (2, 55, 100, 6, 'Барнаул')
+**kwargs is: {}
+Result is: []
+Function performed duration is: 0:00:00.123162
+Documentation: STEP 1: SETTING PARAMS FOR METHOD 'users.search' (API VK). DEFINE SEX, AGE, MARITAL STATUS and CITY
+
+Function "get_candidates_links" started at 2021-01-10 19:55:32.210472
+*args is: (2, 18, 25, 6, 'Барнаул')
+**kwargs is: {}
+Result is: ['1) https://vk.com/id27322335', '2) https://vk.com/id85294570', '3) https://vk.com/id170760935', '4) https://vk.com/id70096900', '5) https://vk.com/id272737129', '6) https://vk.com/id149072971', '7) https://vk.com/id350282983', '8) https://vk.com/id456709909', '9) https://vk.com/id211209465', '10) https://vk.com/id170791715', '11) https://vk.com/id155297855', '12) https://vk.com/id340879383', '13) https://vk.com/id340257017']
+Function performed duration is: 0:00:04.300133
+Documentation: STEP 1: SETTING PARAMS FOR METHOD 'users.search' (API VK). DEFINE SEX, AGE, MARITAL STATUS and CITY
+
+Function "get_candidates_links" started at 2021-01-10 19:55:40.473391
+*args is: (2, 18, 25, 6, 'Барнаул')
+**kwargs is: {}
+Result is: ['1) https://vk.com/id27322335', '2) https://vk.com/id85294570', '3) https://vk.com/id170760935', '4) https://vk.com/id70096900', '5) https://vk.com/id272737129', '6) https://vk.com/id149072971', '7) https://vk.com/id350282983', '8) https://vk.com/id456709909', '9) https://vk.com/id211209465', '10) https://vk.com/id170791715', '11) https://vk.com/id155297855']
+Function performed duration is: 0:00:03.643253
+Documentation: STEP 1: SETTING PARAMS FOR METHOD 'users.search' (API VK). DEFINE SEX, AGE, MARITAL STATUS and CITY
+
+Function "filling_main_user_table" started at 2021-01-10 19:55:54.370246
+*args is: (613295858,)
+**kwargs is: {}
+Result is: [613295858, 1, 'Виктория', 'Самойлова', 'Международное брачное агентство ищет талантливых парней - переводчиков от 21-35. Переходите на наш сайт👇🏻⭐']
+Function performed duration is: 0:00:00.111977
+Documentation: None
+
+Function "get_list_with_liked_candidates" started at 2021-01-10 19:55:58.506264
+*args is: ()
+**kwargs is: {}
+Result is: [77239525, 12716695]
+Function performed duration is: 0:00:00.000216
+Documentation: None
+
+Function "get_list_with_liked_candidates" started at 2021-01-10 19:56:02.112034
+*args is: ()
+**kwargs is: {}
+Result is: [77239525, 12716695]
+Function performed duration is: 0:00:00.000316
+Documentation: None
+
+Function "filling_candidates_table" started at 2021-01-10 19:56:02.111881
+*args is: ()
+**kwargs is: {}
+Result is: [[77239525, 1, 'Ольга', 'Старцева', 'https://vk.com/id77239525', 65461422], [12716695, 2, 'Алекс', 'Сотников', 'https://vk.com/id12716695', 65461422]]
+Function performed duration is: 0:00:00.196861
+Documentation: None
+
+Function "get_list_with_liked_candidates" started at 2021-01-10 19:56:52.358833
+*args is: ()
+**kwargs is: {}
+Result is: [77239525, 12716695]
+Function performed duration is: 0:00:00.001807
+Documentation: None
+
+Function "filling_candidates_table" started at 2021-01-10 19:56:52.358447
+*args is: ()
+**kwargs is: {}
+Result is: [[77239525, 1, 'Ольга', 'Старцева', 'https://vk.com/id77239525', 65461422], [12716695, 2, 'Алекс', 'Сотников', 'https://vk.com/id12716695', 65461422]]
+Function performed duration is: 0:00:00.199282
+Documentation: None
+
+Function "get_list_with_liked_candidates" started at 2021-01-10 19:57:02.491103
+*args is: ()
+**kwargs is: {}
+Result is: [77239525, 12716695]
+Function performed duration is: 0:00:00.000377
+Documentation: None
+
+Function "filling_candidates_table" started at 2021-01-10 19:57:02.491004
+*args is: ()
+**kwargs is: {}
+Result is: [[77239525, 1, 'Ольга', 'Старцева', 'https://vk.com/id77239525', 65461422], [12716695, 2, 'Алекс', 'Сотников', 'https://vk.com/id12716695', 65461422]]
+Function performed duration is: 0:00:00.193128
+Documentation: None
+
+Function "get_list_with_liked_candidates" started at 2021-01-10 19:57:08.250683
+*args is: ()
+**kwargs is: {}
+Result is: [77239525, 12716695]
+Function performed duration is: 0:00:00.001576
+Documentation: None
+
+Function "merge_dict" started at 2021-01-10 19:57:08.497087
+*args is: ({77239525: (35, 'https://sun9-28.userapi.com/impf/c6092/v6092525/2d36/ngKRk6FCbZw.jpg?size=1280x960&quality=96&proxy=1&sign=44dd6481b4b72e46d5e881bc61331c32&c_uniq_tag=hguhsQIFcnvSJFiy0vsiTqho-2HvY99OTP8-B3lVZ6s&type=album')}, {77239525: (29, 'https://sun9-49.userapi.com/impf/c846419/v846419792/3dec3/NuoZYcYuLIM.jpg?size=810x1080&quality=96&proxy=1&sign=3de05d324bbf401f4a5748c6be1ef372&c_uniq_tag=4z-Aha-ckWq1gkSwTVvxbLj_D2qbix48v9-ElMm6xOo&type=album')}, {77239525: (26, 'https://sun9-25.userapi.com/impf/c852124/v852124736/751c0/VHwgwpbUDeo.jpg?size=960x1280&quality=96&proxy=1&sign=8a9f904079b031f311b26753fd240298&c_uniq_tag=x87QZ4Sg2r_7FU_dKLrFG2eMZbuy5O5kVqR_29sUjeE&type=album')})
+**kwargs is: {}
+Result is: {77239525: ((35, 'https://sun9-28.userapi.com/impf/c6092/v6092525/2d36/ngKRk6FCbZw.jpg?size=1280x960&quality=96&proxy=1&sign=44dd6481b4b72e46d5e881bc61331c32&c_uniq_tag=hguhsQIFcnvSJFiy0vsiTqho-2HvY99OTP8-B3lVZ6s&type=album'), (26, 'https://sun9-25.userapi.com/impf/c852124/v852124736/751c0/VHwgwpbUDeo.jpg?size=960x1280&quality=96&proxy=1&sign=8a9f904079b031f311b26753fd240298&c_uniq_tag=x87QZ4Sg2r_7FU_dKLrFG2eMZbuy5O5kVqR_29sUjeE&type=album'), (29, 'https://sun9-49.userapi.com/impf/c846419/v846419792/3dec3/NuoZYcYuLIM.jpg?size=810x1080&quality=96&proxy=1&sign=3de05d324bbf401f4a5748c6be1ef372&c_uniq_tag=4z-Aha-ckWq1gkSwTVvxbLj_D2qbix48v9-ElMm6xOo&type=album'))}
+Function performed duration is: 0:00:00.000082
+Documentation: Merge dictionaries and keep values of common keys in list
+
+Function "merge_dict" started at 2021-01-10 19:57:08.497547
+*args is: ({12716695: (80, 'https://sun9-63.userapi.com/c5318/u12716695/-6/y_6db39e38.jpg')}, {12716695: (10, 'https://sun9-31.userapi.com/impf/c11024/v11024695/a97/ntCABkJXFpw.jpg?size=550x550&quality=96&proxy=1&sign=7df3dec76ece325fc7bf7acbcdc12bcd&c_uniq_tag=W35foCSUyOifJfAcGY6xkrz1HvlR-7ZZf4qxGZaT_2k&type=album')}, {12716695: (24, 'https://sun9-70.userapi.com/impf/c845124/v845124221/d7e75/1kTpca0XB8c.jpg?size=720x960&quality=96&proxy=1&sign=a5330159f73f1cba9b1a285699e53bbe&c_uniq_tag=qnocKv78mGn-o8-bMeAfPnkl5l2f3dl6m8ekBsCFnvk&type=album')})
+**kwargs is: {}
+Result is: {12716695: ((80, 'https://sun9-63.userapi.com/c5318/u12716695/-6/y_6db39e38.jpg'), (24, 'https://sun9-70.userapi.com/impf/c845124/v845124221/d7e75/1kTpca0XB8c.jpg?size=720x960&quality=96&proxy=1&sign=a5330159f73f1cba9b1a285699e53bbe&c_uniq_tag=qnocKv78mGn-o8-bMeAfPnkl5l2f3dl6m8ekBsCFnvk&type=album'), (10, 'https://sun9-31.userapi.com/impf/c11024/v11024695/a97/ntCABkJXFpw.jpg?size=550x550&quality=96&proxy=1&sign=7df3dec76ece325fc7bf7acbcdc12bcd&c_uniq_tag=W35foCSUyOifJfAcGY6xkrz1HvlR-7ZZf4qxGZaT_2k&type=album'))}
+Function performed duration is: 0:00:00.000066
+Documentation: Merge dictionaries and keep values of common keys in list
+
+Function "filling_photos_of_candidates_table" started at 2021-01-10 19:57:08.249373
+*args is: ()
+**kwargs is: {}
+Result is: [{77239525: ((35, 'https://sun9-28.userapi.com/impf/c6092/v6092525/2d36/ngKRk6FCbZw.jpg?size=1280x960&quality=96&proxy=1&sign=44dd6481b4b72e46d5e881bc61331c32&c_uniq_tag=hguhsQIFcnvSJFiy0vsiTqho-2HvY99OTP8-B3lVZ6s&type=album'), (26, 'https://sun9-25.userapi.com/impf/c852124/v852124736/751c0/VHwgwpbUDeo.jpg?size=960x1280&quality=96&proxy=1&sign=8a9f904079b031f311b26753fd240298&c_uniq_tag=x87QZ4Sg2r_7FU_dKLrFG2eMZbuy5O5kVqR_29sUjeE&type=album'), (29, 'https://sun9-49.userapi.com/impf/c846419/v846419792/3dec3/NuoZYcYuLIM.jpg?size=810x1080&quality=96&proxy=1&sign=3de05d324bbf401f4a5748c6be1ef372&c_uniq_tag=4z-Aha-ckWq1gkSwTVvxbLj_D2qbix48v9-ElMm6xOo&type=album'))}, {12716695: ((80, 'https://sun9-63.userapi.com/c5318/u12716695/-6/y_6db39e38.jpg'), (24, 'https://sun9-70.userapi.com/impf/c845124/v845124221/d7e75/1kTpca0XB8c.jpg?size=720x960&quality=96&proxy=1&sign=a5330159f73f1cba9b1a285699e53bbe&c_uniq_tag=qnocKv78mGn-o8-bMeAfPnkl5l2f3dl6m8ekBsCFnvk&type=album'), (10, 'https://sun9-31.userapi.com/impf/c11024/v11024695/a97/ntCABkJXFpw.jpg?size=550x550&quality=96&proxy=1&sign=7df3dec76ece325fc7bf7acbcdc12bcd&c_uniq_tag=W35foCSUyOifJfAcGY6xkrz1HvlR-7ZZf4qxGZaT_2k&type=album'))}]
+Function performed duration is: 0:00:00.249519
+Documentation: NOW WE WANT TO GET A SIMILAR LIST WITH DICTS:
+    [
+    {user_id: ((photo_like_count, photo_link), (photo_like_count, photo_link), (photo_like_count, photo_link))},
+    {another_user_id: ((photo_like_count, photo_link), (photo_like_count, photo_link), (photo_like_count, photo_link))}
+    etc...
+    ]
+    This variant is comfortable to further data filling in db
+    LET'S DO IT IN 8 STEPS!!!!!!
+
+Function "get_list_with_liked_candidates" started at 2021-01-10 19:57:24.578870
+*args is: ()
+**kwargs is: {}
+Result is: [77239525, 12716695]
+Function performed duration is: 0:00:00.000231
+Documentation: None
+
+Function "filling_candidates_table" started at 2021-01-10 19:57:24.578653
+*args is: ()
+**kwargs is: {}
+Result is: [[77239525, 1, 'Ольга', 'Старцева', 'https://vk.com/id77239525', 65461422], [12716695, 2, 'Алекс', 'Сотников', 'https://vk.com/id12716695', 65461422]]
+Function performed duration is: 0:00:00.195304
+Documentation: None
+
+Function "get_candidates_links" started at 2021-01-10 20:39:20.411978
+*args is: (2, 18, 25, 6, 'Барнаул')
+**kwargs is: {}
+Result is: ['1) https://vk.com/id143467322', '2) https://vk.com/id85294570', '3) https://vk.com/id75061293', '4) https://vk.com/id209135136', '5) https://vk.com/id350282983', '6) https://vk.com/id195762211', '7) https://vk.com/id157287505', '8) https://vk.com/id456709909']
+Function performed duration is: 0:00:01.503493
+Documentation: STEP 1: SETTING PARAMS FOR METHOD 'users.search' (API VK). DEFINE SEX, AGE, MARITAL STATUS and CITY
+
+Function "filling_main_user_table" started at 2021-01-10 20:39:21.953042
+*args is: (613295858,)
+**kwargs is: {}
+Function "get_list_with_liked_candidates" started at 2021-01-10 20:39:22.139165
+*args is: ()
+**kwargs is: {}
+Result is: [77239525, 12716695]
+Function performed duration is: 0:00:00.005349
+Documentation: None
+
+Function "get_list_with_liked_candidates" started at 2021-01-10 20:39:22.160923
+*args is: ()
+**kwargs is: {}
+Result is: [77239525, 12716695]
+Function performed duration is: 0:00:00.000403
+Documentation: None
+
+Function "filling_candidates_table" started at 2021-01-10 20:39:22.160742
+*args is: ()
+**kwargs is: {}
+Function "get_list_with_liked_candidates" started at 2021-01-10 20:39:22.253957
+*args is: ()
+**kwargs is: {}
+Result is: [77239525, 12716695]
+Function performed duration is: 0:00:00.001237
+Documentation: None
+
+Function "filling_photos_of_candidates_table" started at 2021-01-10 20:39:22.253256
+*args is: ()
+**kwargs is: {}
+Function "show_liked_candidates" started at 2021-01-10 20:39:22.407607
+*args is: ()
+**kwargs is: {}
+Result is: ['1) https://vk.com/id77239525', '2) https://vk.com/id12716695']
+Function performed duration is: 0:00:00.002182
+Documentation: None
+
+Function "get_candidates_links" started at 2021-01-10 20:39:45.522368
+*args is: (2, 18, 25, 6, 'Барнаул')
+**kwargs is: {}
+Result is: ['1) https://vk.com/id143467322', '2) https://vk.com/id85294570', '3) https://vk.com/id75061293', '4) https://vk.com/id209135136', '5) https://vk.com/id350282983', '6) https://vk.com/id195762211', '7) https://vk.com/id157287505', '8) https://vk.com/id456709909']
+Function performed duration is: 0:00:01.340490
+Documentation: STEP 1: SETTING PARAMS FOR METHOD 'users.search' (API VK). DEFINE SEX, AGE, MARITAL STATUS and CITY
+
+Function "filling_main_user_table" started at 2021-01-10 20:39:55.180754
+*args is: (613295858,)
+**kwargs is: {}
+Result is: [613295858, 1, 'Виктория', 'Самойлова', 'Международное брачное агентство ищет талантливых парней - переводчиков от 21-35. Переходите на наш сайт👇🏻⭐']
+Function performed duration is: 0:00:00.113329
+Documentation: None
+
+Function "get_list_with_liked_candidates" started at 2021-01-10 20:40:03.215723
+*args is: ()
+**kwargs is: {}
+Result is: [77239525, 12716695]
+Function performed duration is: 0:00:00.001751
+Documentation: None
+
+Function "get_list_with_liked_candidates" started at 2021-01-10 20:40:10.927116
+*args is: ()
+**kwargs is: {}
+Result is: [77239525, 12716695]
+Function performed duration is: 0:00:00.000242
+Documentation: None
+
+Function "filling_candidates_table" started at 2021-01-10 20:40:10.926911
+*args is: ()
+**kwargs is: {}
+Result is: [[77239525, 1, 'Ольга', 'Старцева', 'https://vk.com/id77239525', 65461422], [12716695, 2, 'Алекс', 'Сотников', 'https://vk.com/id12716695', 65461422]]
+Function performed duration is: 0:00:00.240634
+Documentation: None
+
+Function "get_list_with_liked_candidates" started at 2021-01-10 20:40:18.645940
+*args is: ()
+**kwargs is: {}
+Result is: [77239525, 12716695]
+Function performed duration is: 0:00:00.001278
+Documentation: None
+
+Function "merge_dict" started at 2021-01-10 20:40:19.163332
+*args is: ({77239525: (35, 'https://sun9-28.userapi.com/impf/c6092/v6092525/2d36/ngKRk6FCbZw.jpg?size=1280x960&quality=96&proxy=1&sign=44dd6481b4b72e46d5e881bc61331c32&c_uniq_tag=hguhsQIFcnvSJFiy0vsiTqho-2HvY99OTP8-B3lVZ6s&type=album')}, {77239525: (29, 'https://sun9-49.userapi.com/impf/c846419/v846419792/3dec3/NuoZYcYuLIM.jpg?size=810x1080&quality=96&proxy=1&sign=3de05d324bbf401f4a5748c6be1ef372&c_uniq_tag=4z-Aha-ckWq1gkSwTVvxbLj_D2qbix48v9-ElMm6xOo&type=album')}, {77239525: (26, 'https://sun9-25.userapi.com/impf/c852124/v852124736/751c0/VHwgwpbUDeo.jpg?size=960x1280&quality=96&proxy=1&sign=8a9f904079b031f311b26753fd240298&c_uniq_tag=x87QZ4Sg2r_7FU_dKLrFG2eMZbuy5O5kVqR_29sUjeE&type=album')})
+**kwargs is: {}
+Result is: {77239525: ((35, 'https://sun9-28.userapi.com/impf/c6092/v6092525/2d36/ngKRk6FCbZw.jpg?size=1280x960&quality=96&proxy=1&sign=44dd6481b4b72e46d5e881bc61331c32&c_uniq_tag=hguhsQIFcnvSJFiy0vsiTqho-2HvY99OTP8-B3lVZ6s&type=album'), (26, 'https://sun9-25.userapi.com/impf/c852124/v852124736/751c0/VHwgwpbUDeo.jpg?size=960x1280&quality=96&proxy=1&sign=8a9f904079b031f311b26753fd240298&c_uniq_tag=x87QZ4Sg2r_7FU_dKLrFG2eMZbuy5O5kVqR_29sUjeE&type=album'), (29, 'https://sun9-49.userapi.com/impf/c846419/v846419792/3dec3/NuoZYcYuLIM.jpg?size=810x1080&quality=96&proxy=1&sign=3de05d324bbf401f4a5748c6be1ef372&c_uniq_tag=4z-Aha-ckWq1gkSwTVvxbLj_D2qbix48v9-ElMm6xOo&type=album'))}
+Function performed duration is: 0:00:00.000173
+Documentation: Merge dictionaries and keep values of common keys in list
+
+Function "merge_dict" started at 2021-01-10 20:40:19.164852
+*args is: ({12716695: (80, 'https://sun9-63.userapi.com/c5318/u12716695/-6/y_6db39e38.jpg')}, {12716695: (10, 'https://sun9-31.userapi.com/impf/c11024/v11024695/a97/ntCABkJXFpw.jpg?size=550x550&quality=96&proxy=1&sign=7df3dec76ece325fc7bf7acbcdc12bcd&c_uniq_tag=W35foCSUyOifJfAcGY6xkrz1HvlR-7ZZf4qxGZaT_2k&type=album')}, {12716695: (24, 'https://sun9-70.userapi.com/impf/c845124/v845124221/d7e75/1kTpca0XB8c.jpg?size=720x960&quality=96&proxy=1&sign=a5330159f73f1cba9b1a285699e53bbe&c_uniq_tag=qnocKv78mGn-o8-bMeAfPnkl5l2f3dl6m8ekBsCFnvk&type=album')})
+**kwargs is: {}
+Result is: {12716695: ((80, 'https://sun9-63.userapi.com/c5318/u12716695/-6/y_6db39e38.jpg'), (24, 'https://sun9-70.userapi.com/impf/c845124/v845124221/d7e75/1kTpca0XB8c.jpg?size=720x960&quality=96&proxy=1&sign=a5330159f73f1cba9b1a285699e53bbe&c_uniq_tag=qnocKv78mGn-o8-bMeAfPnkl5l2f3dl6m8ekBsCFnvk&type=album'), (10, 'https://sun9-31.userapi.com/impf/c11024/v11024695/a97/ntCABkJXFpw.jpg?size=550x550&quality=96&proxy=1&sign=7df3dec76ece325fc7bf7acbcdc12bcd&c_uniq_tag=W35foCSUyOifJfAcGY6xkrz1HvlR-7ZZf4qxGZaT_2k&type=album'))}
+Function performed duration is: 0:00:00.000121
+Documentation: Merge dictionaries and keep values of common keys in list
+
+Function "filling_photos_of_candidates_table" started at 2021-01-10 20:40:18.645428
+*args is: ()
+**kwargs is: {}
+Result is: [{77239525: ((35, 'https://sun9-28.userapi.com/impf/c6092/v6092525/2d36/ngKRk6FCbZw.jpg?size=1280x960&quality=96&proxy=1&sign=44dd6481b4b72e46d5e881bc61331c32&c_uniq_tag=hguhsQIFcnvSJFiy0vsiTqho-2HvY99OTP8-B3lVZ6s&type=album'), (26, 'https://sun9-25.userapi.com/impf/c852124/v852124736/751c0/VHwgwpbUDeo.jpg?size=960x1280&quality=96&proxy=1&sign=8a9f904079b031f311b26753fd240298&c_uniq_tag=x87QZ4Sg2r_7FU_dKLrFG2eMZbuy5O5kVqR_29sUjeE&type=album'), (29, 'https://sun9-49.userapi.com/impf/c846419/v846419792/3dec3/NuoZYcYuLIM.jpg?size=810x1080&quality=96&proxy=1&sign=3de05d324bbf401f4a5748c6be1ef372&c_uniq_tag=4z-Aha-ckWq1gkSwTVvxbLj_D2qbix48v9-ElMm6xOo&type=album'))}, {12716695: ((80, 'https://sun9-63.userapi.com/c5318/u12716695/-6/y_6db39e38.jpg'), (24, 'https://sun9-70.userapi.com/impf/c845124/v845124221/d7e75/1kTpca0XB8c.jpg?size=720x960&quality=96&proxy=1&sign=a5330159f73f1cba9b1a285699e53bbe&c_uniq_tag=qnocKv78mGn-o8-bMeAfPnkl5l2f3dl6m8ekBsCFnvk&type=album'), (10, 'https://sun9-31.userapi.com/impf/c11024/v11024695/a97/ntCABkJXFpw.jpg?size=550x550&quality=96&proxy=1&sign=7df3dec76ece325fc7bf7acbcdc12bcd&c_uniq_tag=W35foCSUyOifJfAcGY6xkrz1HvlR-7ZZf4qxGZaT_2k&type=album'))}]
+Function performed duration is: 0:00:00.520076
+Documentation: NOW WE WANT TO GET A SIMILAR LIST WITH DICTS:
+    [
+    {user_id: ((photo_like_count, photo_link), (photo_like_count, photo_link), (photo_like_count, photo_link))},
+    {another_user_id: ((photo_like_count, photo_link), (photo_like_count, photo_link), (photo_like_count, photo_link))}
+    etc...
+    ]
+    This variant is comfortable to further data filling in db
+    LET'S DO IT IN 8 STEPS!!!!!!
+
+Function "show_liked_candidates" started at 2021-01-10 20:40:22.848341
+*args is: ()
+**kwargs is: {}
+Result is: ['1) https://vk.com/id77239525', '2) https://vk.com/id12716695']
+Function performed duration is: 0:00:00.000366
+Documentation: None
+
+Function "get_candidates_links" started at 2021-01-10 20:40:27.800474
+*args is: (2, 18, 25, 6, 'Барнаул')
+**kwargs is: {}
+Result is: ['1) https://vk.com/id143467322', '2) https://vk.com/id85294570', '3) https://vk.com/id75061293', '4) https://vk.com/id209135136', '5) https://vk.com/id350282983', '6) https://vk.com/id195762211', '7) https://vk.com/id157287505', '8) https://vk.com/id456709909']
+Function performed duration is: 0:00:01.272864
+Documentation: STEP 1: SETTING PARAMS FOR METHOD 'users.search' (API VK). DEFINE SEX, AGE, MARITAL STATUS and CITY
+
+Function "filling_main_user_table" started at 2021-01-10 20:40:29.099778
+*args is: (613295858,)
+**kwargs is: {}
+Function "get_list_with_liked_candidates" started at 2021-01-10 20:40:29.278377
+*args is: ()
+**kwargs is: {}
+Result is: [77239525, 12716695]
+Function performed duration is: 0:00:00.000398
+Documentation: None
+
+Function "get_list_with_liked_candidates" started at 2021-01-10 20:40:29.294174
+*args is: ()
+**kwargs is: {}
+Result is: [77239525, 12716695]
+Function performed duration is: 0:00:00.000527
+Documentation: None
+
+Function "filling_candidates_table" started at 2021-01-10 20:40:29.293151
+*args is: ()
+**kwargs is: {}
+Function "get_list_with_liked_candidates" started at 2021-01-10 20:40:29.396580
+*args is: ()
+**kwargs is: {}
+Result is: [77239525, 12716695]
+Function performed duration is: 0:00:00.000330
+Documentation: None
+
+Function "filling_photos_of_candidates_table" started at 2021-01-10 20:40:29.396494
+*args is: ()
+**kwargs is: {}
+Function "show_liked_candidates" started at 2021-01-10 20:40:29.527152
+*args is: ()
+**kwargs is: {}
+Result is: ['1) https://vk.com/id77239525', '2) https://vk.com/id12716695']
+Function performed duration is: 0:00:00.000918
+Documentation: None
+
+Function "get_list_with_liked_candidates" started at 2021-01-10 20:41:38.731128
+*args is: ()
+**kwargs is: {}
+Result is: [77239525, 12716695]
+Function performed duration is: 0:00:00.001205
+Documentation: None
+
+Function "filling_candidates_table" started at 2021-01-10 20:41:38.730921
+*args is: ()
+**kwargs is: {}
+Result is: [[77239525, 1, 'Ольга', 'Старцева', 'https://vk.com/id77239525', 65461422], [12716695, 2, 'Алекс', 'Сотников', 'https://vk.com/id12716695', 65461422]]
+Function performed duration is: 0:00:00.271179
+Documentation: None
+
+Function "get_candidates_links" started at 2021-01-10 20:41:45.268461
+*args is: (2, 18, 25, 6, 'Барнаул')
+**kwargs is: {}
+Result is: ['1) https://vk.com/id143467322', '2) https://vk.com/id85294570', '3) https://vk.com/id75061293', '4) https://vk.com/id209135136', '5) https://vk.com/id350282983', '6) https://vk.com/id195762211', '7) https://vk.com/id157287505', '8) https://vk.com/id456709909']
+Function performed duration is: 0:00:01.384333
+Documentation: STEP 1: SETTING PARAMS FOR METHOD 'users.search' (API VK). DEFINE SEX, AGE, MARITAL STATUS and CITY
+
+Function "show_liked_candidates" started at 2021-01-10 20:41:46.683008
+*args is: ()
+**kwargs is: {}
+Result is: ['1) https://vk.com/id77239525', '2) https://vk.com/id12716695']
+Function performed duration is: 0:00:00.000553
+Documentation: None
+
+Function "filling_main_user_table" started at 2021-01-10 20:41:46.691957
+*args is: (613295858,)
+**kwargs is: {}
+Function "get_list_with_liked_candidates" started at 2021-01-10 20:41:46.882819
+*args is: ()
+**kwargs is: {}
+Result is: [77239525, 12716695]
+Function performed duration is: 0:00:00.000199
+Documentation: None
+
+Function "get_list_with_liked_candidates" started at 2021-01-10 20:41:46.886079
+*args is: ()
+**kwargs is: {}
+Result is: [77239525, 12716695]
+Function performed duration is: 0:00:00.000306
+Documentation: None
+
+Function "filling_candidates_table" started at 2021-01-10 20:41:46.885970
+*args is: ()
+**kwargs is: {}
+Function "get_list_with_liked_candidates" started at 2021-01-10 20:41:47.005043
+*args is: ()
+**kwargs is: {}
+Result is: [77239525, 12716695]
+Function performed duration is: 0:00:00.000570
+Documentation: None
+
+Function "filling_photos_of_candidates_table" started at 2021-01-10 20:41:47.004617
+*args is: ()
+**kwargs is: {}
+Function "get_list_with_liked_candidates" started at 2021-01-10 20:42:23.686246
+*args is: ()
+**kwargs is: {}
+Result is: [77239525, 12716695]
+Function performed duration is: 0:00:00.000785
+Documentation: None
+
+Function "filling_candidates_table" started at 2021-01-10 20:42:23.686117
+*args is: ()
+**kwargs is: {}
+Result is: [[77239525, 1, 'Ольга', 'Старцева', 'https://vk.com/id77239525', 65461422], [12716695, 2, 'Алекс', 'Сотников', 'https://vk.com/id12716695', 65461422]]
+Function performed duration is: 0:00:00.199090
+Documentation: None
+
+Function "get_candidates_links" started at 2021-01-10 20:43:23.644696
+*args is: (2, 18, 25, 6, 'Барнаул')
+**kwargs is: {}
+Result is: ['1) https://vk.com/id143467322', '2) https://vk.com/id85294570', '3) https://vk.com/id75061293', '4) https://vk.com/id209135136', '5) https://vk.com/id350282983', '6) https://vk.com/id195762211', '7) https://vk.com/id157287505', '8) https://vk.com/id456709909']
+Function performed duration is: 0:00:01.352875
+Documentation: STEP 1: SETTING PARAMS FOR METHOD 'users.search' (API VK). DEFINE SEX, AGE, MARITAL STATUS and CITY
+
+Function "show_liked_candidates" started at 2021-01-10 20:43:25.041116
+*args is: ()
+**kwargs is: {}
+Result is: ['1) https://vk.com/id77239525', '2) https://vk.com/id12716695']
+Function performed duration is: 0:00:00.000754
+Documentation: None
+
+Function "filling_main_user_table" started at 2021-01-10 20:43:25.053776
+*args is: (613295858,)
+**kwargs is: {}
+Function "get_list_with_liked_candidates" started at 2021-01-10 20:43:25.258761
+*args is: ()
+**kwargs is: {}
+Result is: [77239525, 12716695]
+Function performed duration is: 0:00:00.002465
+Documentation: None
+
+Function "get_list_with_liked_candidates" started at 2021-01-10 20:43:25.271262
+*args is: ()
+**kwargs is: {}
+Result is: [77239525, 12716695]
+Function performed duration is: 0:00:00.001883
+Documentation: None
+
+Function "filling_candidates_table" started at 2021-01-10 20:43:25.270934
+*args is: ()
+**kwargs is: {}
+Function "get_list_with_liked_candidates" started at 2021-01-10 20:43:25.385090
+*args is: ()
+**kwargs is: {}
+Result is: [77239525, 12716695]
+Function performed duration is: 0:00:00.000267
+Documentation: None
+
+Function "filling_photos_of_candidates_table" started at 2021-01-10 20:43:25.384988
+*args is: ()
+**kwargs is: {}
+Function "get_list_with_liked_candidates" started at 2021-01-10 20:44:35.469581
+*args is: ()
+**kwargs is: {}
+Result is: [77239525, 12716695]
+Function performed duration is: 0:00:00.000428
+Documentation: None
+
+Function "merge_dict" started at 2021-01-10 20:44:35.697036
+*args is: ({77239525: (35, 'https://sun9-28.userapi.com/impf/c6092/v6092525/2d36/ngKRk6FCbZw.jpg?size=1280x960&quality=96&proxy=1&sign=44dd6481b4b72e46d5e881bc61331c32&c_uniq_tag=hguhsQIFcnvSJFiy0vsiTqho-2HvY99OTP8-B3lVZ6s&type=album')}, {77239525: (29, 'https://sun9-49.userapi.com/impf/c846419/v846419792/3dec3/NuoZYcYuLIM.jpg?size=810x1080&quality=96&proxy=1&sign=3de05d324bbf401f4a5748c6be1ef372&c_uniq_tag=4z-Aha-ckWq1gkSwTVvxbLj_D2qbix48v9-ElMm6xOo&type=album')}, {77239525: (26, 'https://sun9-25.userapi.com/impf/c852124/v852124736/751c0/VHwgwpbUDeo.jpg?size=960x1280&quality=96&proxy=1&sign=8a9f904079b031f311b26753fd240298&c_uniq_tag=x87QZ4Sg2r_7FU_dKLrFG2eMZbuy5O5kVqR_29sUjeE&type=album')})
+**kwargs is: {}
+Result is: {77239525: ((35, 'https://sun9-28.userapi.com/impf/c6092/v6092525/2d36/ngKRk6FCbZw.jpg?size=1280x960&quality=96&proxy=1&sign=44dd6481b4b72e46d5e881bc61331c32&c_uniq_tag=hguhsQIFcnvSJFiy0vsiTqho-2HvY99OTP8-B3lVZ6s&type=album'), (26, 'https://sun9-25.userapi.com/impf/c852124/v852124736/751c0/VHwgwpbUDeo.jpg?size=960x1280&quality=96&proxy=1&sign=8a9f904079b031f311b26753fd240298&c_uniq_tag=x87QZ4Sg2r_7FU_dKLrFG2eMZbuy5O5kVqR_29sUjeE&type=album'), (29, 'https://sun9-49.userapi.com/impf/c846419/v846419792/3dec3/NuoZYcYuLIM.jpg?size=810x1080&quality=96&proxy=1&sign=3de05d324bbf401f4a5748c6be1ef372&c_uniq_tag=4z-Aha-ckWq1gkSwTVvxbLj_D2qbix48v9-ElMm6xOo&type=album'))}
+Function performed duration is: 0:00:00.000105
+Documentation: Merge dictionaries and keep values of common keys in list
+
+Function "merge_dict" started at 2021-01-10 20:44:35.697502
+*args is: ({12716695: (80, 'https://sun9-63.userapi.com/c5318/u12716695/-6/y_6db39e38.jpg')}, {12716695: (10, 'https://sun9-31.userapi.com/impf/c11024/v11024695/a97/ntCABkJXFpw.jpg?size=550x550&quality=96&proxy=1&sign=7df3dec76ece325fc7bf7acbcdc12bcd&c_uniq_tag=W35foCSUyOifJfAcGY6xkrz1HvlR-7ZZf4qxGZaT_2k&type=album')}, {12716695: (24, 'https://sun9-70.userapi.com/impf/c845124/v845124221/d7e75/1kTpca0XB8c.jpg?size=720x960&quality=96&proxy=1&sign=a5330159f73f1cba9b1a285699e53bbe&c_uniq_tag=qnocKv78mGn-o8-bMeAfPnkl5l2f3dl6m8ekBsCFnvk&type=album')})
+**kwargs is: {}
+Result is: {12716695: ((80, 'https://sun9-63.userapi.com/c5318/u12716695/-6/y_6db39e38.jpg'), (24, 'https://sun9-70.userapi.com/impf/c845124/v845124221/d7e75/1kTpca0XB8c.jpg?size=720x960&quality=96&proxy=1&sign=a5330159f73f1cba9b1a285699e53bbe&c_uniq_tag=qnocKv78mGn-o8-bMeAfPnkl5l2f3dl6m8ekBsCFnvk&type=album'), (10, 'https://sun9-31.userapi.com/impf/c11024/v11024695/a97/ntCABkJXFpw.jpg?size=550x550&quality=96&proxy=1&sign=7df3dec76ece325fc7bf7acbcdc12bcd&c_uniq_tag=W35foCSUyOifJfAcGY6xkrz1HvlR-7ZZf4qxGZaT_2k&type=album'))}
+Function performed duration is: 0:00:00.000071
+Documentation: Merge dictionaries and keep values of common keys in list
+
+Function "filling_photos_of_candidates_table" started at 2021-01-10 20:44:35.469427
+*args is: ()
+**kwargs is: {}
+Result is: [{77239525: ((35, 'https://sun9-28.userapi.com/impf/c6092/v6092525/2d36/ngKRk6FCbZw.jpg?size=1280x960&quality=96&proxy=1&sign=44dd6481b4b72e46d5e881bc61331c32&c_uniq_tag=hguhsQIFcnvSJFiy0vsiTqho-2HvY99OTP8-B3lVZ6s&type=album'), (26, 'https://sun9-25.userapi.com/impf/c852124/v852124736/751c0/VHwgwpbUDeo.jpg?size=960x1280&quality=96&proxy=1&sign=8a9f904079b031f311b26753fd240298&c_uniq_tag=x87QZ4Sg2r_7FU_dKLrFG2eMZbuy5O5kVqR_29sUjeE&type=album'), (29, 'https://sun9-49.userapi.com/impf/c846419/v846419792/3dec3/NuoZYcYuLIM.jpg?size=810x1080&quality=96&proxy=1&sign=3de05d324bbf401f4a5748c6be1ef372&c_uniq_tag=4z-Aha-ckWq1gkSwTVvxbLj_D2qbix48v9-ElMm6xOo&type=album'))}, {12716695: ((80, 'https://sun9-63.userapi.com/c5318/u12716695/-6/y_6db39e38.jpg'), (24, 'https://sun9-70.userapi.com/impf/c845124/v845124221/d7e75/1kTpca0XB8c.jpg?size=720x960&quality=96&proxy=1&sign=a5330159f73f1cba9b1a285699e53bbe&c_uniq_tag=qnocKv78mGn-o8-bMeAfPnkl5l2f3dl6m8ekBsCFnvk&type=album'), (10, 'https://sun9-31.userapi.com/impf/c11024/v11024695/a97/ntCABkJXFpw.jpg?size=550x550&quality=96&proxy=1&sign=7df3dec76ece325fc7bf7acbcdc12bcd&c_uniq_tag=W35foCSUyOifJfAcGY6xkrz1HvlR-7ZZf4qxGZaT_2k&type=album'))}]
+Function performed duration is: 0:00:00.229235
+Documentation: NOW WE WANT TO GET A SIMILAR LIST WITH DICTS:
+    [
+    {user_id: ((photo_like_count, photo_link), (photo_like_count, photo_link), (photo_like_count, photo_link))},
+    {another_user_id: ((photo_like_count, photo_link), (photo_like_count, photo_link), (photo_like_count, photo_link))}
+    etc...
+    ]
+    This variant is comfortable to further data filling in db
+    LET'S DO IT IN 8 STEPS!!!!!!
+

@@ -1,0 +1,233 @@
+Function "get_list_with_liked_candidates" started at 2021-01-10 16:21:59.081340
+*args is: ()
+**kwargs is: {}
+Function "get_list_with_liked_candidates" started at 2021-01-10 16:23:51.602320
+*args is: ()
+**kwargs is: {}
+Function "get_list_with_liked_candidates" started at 2021-01-10 16:24:37.485930
+*args is: ()
+**kwargs is: {}
+Function "get_list_with_liked_candidates" started at 2021-01-10 16:25:06.308177
+*args is: ()
+**kwargs is: {}
+Function "get_list_with_liked_candidates" started at 2021-01-10 16:29:22.386457
+*args is: ()
+**kwargs is: {}
+Function "get_list_with_liked_candidates" started at 2021-01-10 16:29:36.990143
+*args is: ()
+**kwargs is: {}
+Function "get_list_with_liked_candidates" started at 2021-01-10 16:30:11.631182
+*args is: ()
+**kwargs is: {}
+Function "get_list_with_liked_candidates" started at 2021-01-10 16:30:49.216199
+*args is: ()
+**kwargs is: {}
+Function "get_list_with_liked_candidates" started at 2021-01-10 16:31:21.970402
+*args is: ()
+**kwargs is: {}
+Function "get_list_with_liked_candidates" started at 2021-01-10 16:31:28.614137
+*args is: ()
+**kwargs is: {}
+Function "get_list_with_liked_candidates" started at 2021-01-10 16:35:45.062045
+*args is: ()
+**kwargs is: {}
+Function "get_list_with_liked_candidates" started at 2021-01-10 18:01:50.204610
+*args is: ()
+**kwargs is: {}
+Function "filling_main_user_table" started at 2021-01-10 18:03:50.035266
+*args is: ()
+**kwargs is: {}
+Result is: [595933874, 2, 'Subkhan', 'Poladov', '']
+Function performed duration is: 0:00:00.137908
+Documentation: None
+
+Function "filling_main_user_table" started at 2021-01-10 18:04:27.363724
+*args is: ()
+**kwargs is: {}
+Result is: [595933874, 2, 'Subkhan', 'Poladov', '']
+Function performed duration is: 0:00:00.087379
+Documentation: None
+
+Function "filling_main_user_table" started at 2021-01-10 18:07:15.855296
+*args is: (613295858,)
+**kwargs is: {}
+Result is: [613295858, 1, 'Виктория', 'Самойлова', 'Международное брачное агентство ищет талантливых парней - переводчиков от 21-35. Переходите на наш сайт👇🏻⭐']
+Function performed duration is: 0:00:00.147424
+Documentation: None
+
+Function "filling_main_user_table" started at 2021-01-10 18:07:28.189749
+*args is: (613295858,)
+**kwargs is: {}
+Result is: [613295858, 1, 'Виктория', 'Самойлова', 'Международное брачное агентство ищет талантливых парней - переводчиков от 21-35. Переходите на наш сайт👇🏻⭐']
+Function performed duration is: 0:00:00.116137
+Documentation: None
+
+Function "get_list_with_liked_candidates" started at 2021-01-10 18:09:20.614682
+*args is: ()
+**kwargs is: {}
+Function "filling_candidates_table" started at 2021-01-10 18:09:20.614589
+*args is: ()
+**kwargs is: {}
+Function "get_list_with_liked_candidates" started at 2021-01-10 19:02:02.617845
+*args is: ()
+**kwargs is: {}
+Function "filling_candidates_table" started at 2021-01-10 19:02:02.617639
+*args is: ()
+**kwargs is: {}
+Function "get_list_with_liked_candidates" started at 2021-01-10 19:05:04.987980
+*args is: ()
+**kwargs is: {}
+Function "get_list_with_liked_candidates" started at 2021-01-10 19:15:01.836011
+*args is: ()
+**kwargs is: {}
+Result is: [77239525, 435521107]
+Function performed duration is: 0:00:00.000295
+Documentation: None
+
+Function "get_list_with_liked_candidates" started at 2021-01-10 19:16:44.521051
+*args is: ()
+**kwargs is: {}
+Result is: [77239525, 435521107]
+Function performed duration is: 0:00:00.000231
+Documentation: None
+
+Function "get_list_with_liked_candidates" started at 2021-01-10 19:25:36.826848
+*args is: ()
+**kwargs is: {}
+Result is: [77239525, 435521107]
+Function performed duration is: 0:00:00.000192
+Documentation: None
+
+Function "filling_candidates_table" started at 2021-01-10 19:25:36.826758
+*args is: ()
+**kwargs is: {}
+Result is: [[77239525, 1, 'Ольга', 'Старцева', 'https://vk.com/id77239525', 457199137], [435521107, 2, 'Сергей', 'Мамонтов', 'https://vk.com/id435521107', 457199137]]
+Function performed duration is: 0:00:00.189237
+Documentation: None
+
+Function "get_list_with_liked_candidates" started at 2021-01-10 19:25:46.867403
+*args is: ()
+**kwargs is: {}
+Result is: [77239525, 435521107]
+Function performed duration is: 0:00:00.000251
+Documentation: None
+
+Function "filling_candidates_table" started at 2021-01-10 19:25:46.867311
+*args is: ()
+**kwargs is: {}
+Result is: [[77239525, 1, 'Ольга', 'Старцева', 'https://vk.com/id77239525', 457199137], [435521107, 2, 'Сергей', 'Мамонтов', 'https://vk.com/id435521107', 457199137]]
+Function performed duration is: 0:00:00.222381
+Documentation: None
+
+Function "get_list_with_liked_candidates" started at 2021-01-10 19:30:14.070810
+*args is: ()
+**kwargs is: {}
+Result is: [77239525, 435521107]
+Function performed duration is: 0:00:00.000267
+Documentation: None
+
+Function "merge_dict" started at 2021-01-10 19:30:14.309757
+*args is: ({77239525: (35, 'https://sun9-28.userapi.com/impf/c6092/v6092525/2d36/ngKRk6FCbZw.jpg?size=1280x960&quality=96&proxy=1&sign=44dd6481b4b72e46d5e881bc61331c32&c_uniq_tag=hguhsQIFcnvSJFiy0vsiTqho-2HvY99OTP8-B3lVZ6s&type=album')}, {77239525: (29, 'https://sun9-49.userapi.com/impf/c846419/v846419792/3dec3/NuoZYcYuLIM.jpg?size=810x1080&quality=96&proxy=1&sign=3de05d324bbf401f4a5748c6be1ef372&c_uniq_tag=4z-Aha-ckWq1gkSwTVvxbLj_D2qbix48v9-ElMm6xOo&type=album')}, {77239525: (26, 'https://sun9-25.userapi.com/impf/c852124/v852124736/751c0/VHwgwpbUDeo.jpg?size=960x1280&quality=96&proxy=1&sign=8a9f904079b031f311b26753fd240298&c_uniq_tag=x87QZ4Sg2r_7FU_dKLrFG2eMZbuy5O5kVqR_29sUjeE&type=album')})
+**kwargs is: {}
+Result is: {77239525: ((35, 'https://sun9-28.userapi.com/impf/c6092/v6092525/2d36/ngKRk6FCbZw.jpg?size=1280x960&quality=96&proxy=1&sign=44dd6481b4b72e46d5e881bc61331c32&c_uniq_tag=hguhsQIFcnvSJFiy0vsiTqho-2HvY99OTP8-B3lVZ6s&type=album'), (26, 'https://sun9-25.userapi.com/impf/c852124/v852124736/751c0/VHwgwpbUDeo.jpg?size=960x1280&quality=96&proxy=1&sign=8a9f904079b031f311b26753fd240298&c_uniq_tag=x87QZ4Sg2r_7FU_dKLrFG2eMZbuy5O5kVqR_29sUjeE&type=album'), (29, 'https://sun9-49.userapi.com/impf/c846419/v846419792/3dec3/NuoZYcYuLIM.jpg?size=810x1080&quality=96&proxy=1&sign=3de05d324bbf401f4a5748c6be1ef372&c_uniq_tag=4z-Aha-ckWq1gkSwTVvxbLj_D2qbix48v9-ElMm6xOo&type=album'))}
+Function performed duration is: 0:00:00.000097
+Documentation: Merge dictionaries and keep values of common keys in list
+
+Function "filling_photos_of_candidates_table" started at 2021-01-10 19:30:14.070712
+*args is: ()
+**kwargs is: {}
+Result is: [{77239525: ((35, 'https://sun9-28.userapi.com/impf/c6092/v6092525/2d36/ngKRk6FCbZw.jpg?size=1280x960&quality=96&proxy=1&sign=44dd6481b4b72e46d5e881bc61331c32&c_uniq_tag=hguhsQIFcnvSJFiy0vsiTqho-2HvY99OTP8-B3lVZ6s&type=album'), (26, 'https://sun9-25.userapi.com/impf/c852124/v852124736/751c0/VHwgwpbUDeo.jpg?size=960x1280&quality=96&proxy=1&sign=8a9f904079b031f311b26753fd240298&c_uniq_tag=x87QZ4Sg2r_7FU_dKLrFG2eMZbuy5O5kVqR_29sUjeE&type=album'), (29, 'https://sun9-49.userapi.com/impf/c846419/v846419792/3dec3/NuoZYcYuLIM.jpg?size=810x1080&quality=96&proxy=1&sign=3de05d324bbf401f4a5748c6be1ef372&c_uniq_tag=4z-Aha-ckWq1gkSwTVvxbLj_D2qbix48v9-ElMm6xOo&type=album'))}]
+Function performed duration is: 0:00:00.239400
+Documentation: NOW WE WANT TO GET A SIMILAR LIST WITH DICTS:
+    [
+    {user_id: ((photo_like_count, photo_link), (photo_like_count, photo_link), (photo_like_count, photo_link))},
+    {another_user_id: ((photo_like_count, photo_link), (photo_like_count, photo_link), (photo_like_count, photo_link))}
+    etc...
+    ]
+    This variant is comfortable to further data filling in db
+    LET'S DO IT IN 8 STEPS!!!!!!
+
+Function "get_list_with_liked_candidates" started at 2021-01-10 19:30:23.769085
+*args is: ()
+**kwargs is: {}
+Result is: [77239525, 435521107]
+Function performed duration is: 0:00:00.000278
+Documentation: None
+
+Function "merge_dict" started at 2021-01-10 19:30:24.260068
+*args is: ({77239525: (35, 'https://sun9-28.userapi.com/impf/c6092/v6092525/2d36/ngKRk6FCbZw.jpg?size=1280x960&quality=96&proxy=1&sign=44dd6481b4b72e46d5e881bc61331c32&c_uniq_tag=hguhsQIFcnvSJFiy0vsiTqho-2HvY99OTP8-B3lVZ6s&type=album')}, {77239525: (29, 'https://sun9-49.userapi.com/impf/c846419/v846419792/3dec3/NuoZYcYuLIM.jpg?size=810x1080&quality=96&proxy=1&sign=3de05d324bbf401f4a5748c6be1ef372&c_uniq_tag=4z-Aha-ckWq1gkSwTVvxbLj_D2qbix48v9-ElMm6xOo&type=album')}, {77239525: (26, 'https://sun9-25.userapi.com/impf/c852124/v852124736/751c0/VHwgwpbUDeo.jpg?size=960x1280&quality=96&proxy=1&sign=8a9f904079b031f311b26753fd240298&c_uniq_tag=x87QZ4Sg2r_7FU_dKLrFG2eMZbuy5O5kVqR_29sUjeE&type=album')})
+**kwargs is: {}
+Result is: {77239525: ((35, 'https://sun9-28.userapi.com/impf/c6092/v6092525/2d36/ngKRk6FCbZw.jpg?size=1280x960&quality=96&proxy=1&sign=44dd6481b4b72e46d5e881bc61331c32&c_uniq_tag=hguhsQIFcnvSJFiy0vsiTqho-2HvY99OTP8-B3lVZ6s&type=album'), (26, 'https://sun9-25.userapi.com/impf/c852124/v852124736/751c0/VHwgwpbUDeo.jpg?size=960x1280&quality=96&proxy=1&sign=8a9f904079b031f311b26753fd240298&c_uniq_tag=x87QZ4Sg2r_7FU_dKLrFG2eMZbuy5O5kVqR_29sUjeE&type=album'), (29, 'https://sun9-49.userapi.com/impf/c846419/v846419792/3dec3/NuoZYcYuLIM.jpg?size=810x1080&quality=96&proxy=1&sign=3de05d324bbf401f4a5748c6be1ef372&c_uniq_tag=4z-Aha-ckWq1gkSwTVvxbLj_D2qbix48v9-ElMm6xOo&type=album'))}
+Function performed duration is: 0:00:00.000158
+Documentation: Merge dictionaries and keep values of common keys in list
+
+Function "filling_photos_of_candidates_table" started at 2021-01-10 19:30:23.768906
+*args is: ()
+**kwargs is: {}
+Result is: [{77239525: ((35, 'https://sun9-28.userapi.com/impf/c6092/v6092525/2d36/ngKRk6FCbZw.jpg?size=1280x960&quality=96&proxy=1&sign=44dd6481b4b72e46d5e881bc61331c32&c_uniq_tag=hguhsQIFcnvSJFiy0vsiTqho-2HvY99OTP8-B3lVZ6s&type=album'), (26, 'https://sun9-25.userapi.com/impf/c852124/v852124736/751c0/VHwgwpbUDeo.jpg?size=960x1280&quality=96&proxy=1&sign=8a9f904079b031f311b26753fd240298&c_uniq_tag=x87QZ4Sg2r_7FU_dKLrFG2eMZbuy5O5kVqR_29sUjeE&type=album'), (29, 'https://sun9-49.userapi.com/impf/c846419/v846419792/3dec3/NuoZYcYuLIM.jpg?size=810x1080&quality=96&proxy=1&sign=3de05d324bbf401f4a5748c6be1ef372&c_uniq_tag=4z-Aha-ckWq1gkSwTVvxbLj_D2qbix48v9-ElMm6xOo&type=album'))}]
+Function performed duration is: 0:00:00.491967
+Documentation: NOW WE WANT TO GET A SIMILAR LIST WITH DICTS:
+    [
+    {user_id: ((photo_like_count, photo_link), (photo_like_count, photo_link), (photo_like_count, photo_link))},
+    {another_user_id: ((photo_like_count, photo_link), (photo_like_count, photo_link), (photo_like_count, photo_link))}
+    etc...
+    ]
+    This variant is comfortable to further data filling in db
+    LET'S DO IT IN 8 STEPS!!!!!!
+
+Function "get_list_with_liked_candidates" started at 2021-01-10 19:33:30.722773
+*args is: ()
+**kwargs is: {}
+Result is: [77239525, 12716695]
+Function performed duration is: 0:00:00.000198
+Documentation: None
+
+Function "merge_dict" started at 2021-01-10 19:33:30.973464
+*args is: ({77239525: (35, 'https://sun9-28.userapi.com/impf/c6092/v6092525/2d36/ngKRk6FCbZw.jpg?size=1280x960&quality=96&proxy=1&sign=44dd6481b4b72e46d5e881bc61331c32&c_uniq_tag=hguhsQIFcnvSJFiy0vsiTqho-2HvY99OTP8-B3lVZ6s&type=album')}, {77239525: (29, 'https://sun9-49.userapi.com/impf/c846419/v846419792/3dec3/NuoZYcYuLIM.jpg?size=810x1080&quality=96&proxy=1&sign=3de05d324bbf401f4a5748c6be1ef372&c_uniq_tag=4z-Aha-ckWq1gkSwTVvxbLj_D2qbix48v9-ElMm6xOo&type=album')}, {77239525: (26, 'https://sun9-25.userapi.com/impf/c852124/v852124736/751c0/VHwgwpbUDeo.jpg?size=960x1280&quality=96&proxy=1&sign=8a9f904079b031f311b26753fd240298&c_uniq_tag=x87QZ4Sg2r_7FU_dKLrFG2eMZbuy5O5kVqR_29sUjeE&type=album')})
+**kwargs is: {}
+Result is: {77239525: ((35, 'https://sun9-28.userapi.com/impf/c6092/v6092525/2d36/ngKRk6FCbZw.jpg?size=1280x960&quality=96&proxy=1&sign=44dd6481b4b72e46d5e881bc61331c32&c_uniq_tag=hguhsQIFcnvSJFiy0vsiTqho-2HvY99OTP8-B3lVZ6s&type=album'), (26, 'https://sun9-25.userapi.com/impf/c852124/v852124736/751c0/VHwgwpbUDeo.jpg?size=960x1280&quality=96&proxy=1&sign=8a9f904079b031f311b26753fd240298&c_uniq_tag=x87QZ4Sg2r_7FU_dKLrFG2eMZbuy5O5kVqR_29sUjeE&type=album'), (29, 'https://sun9-49.userapi.com/impf/c846419/v846419792/3dec3/NuoZYcYuLIM.jpg?size=810x1080&quality=96&proxy=1&sign=3de05d324bbf401f4a5748c6be1ef372&c_uniq_tag=4z-Aha-ckWq1gkSwTVvxbLj_D2qbix48v9-ElMm6xOo&type=album'))}
+Function performed duration is: 0:00:00.000060
+Documentation: Merge dictionaries and keep values of common keys in list
+
+Function "merge_dict" started at 2021-01-10 19:33:30.973806
+*args is: ({12716695: (80, 'https://sun9-63.userapi.com/c5318/u12716695/-6/y_6db39e38.jpg')}, {12716695: (10, 'https://sun9-31.userapi.com/impf/c11024/v11024695/a97/ntCABkJXFpw.jpg?size=550x550&quality=96&proxy=1&sign=7df3dec76ece325fc7bf7acbcdc12bcd&c_uniq_tag=W35foCSUyOifJfAcGY6xkrz1HvlR-7ZZf4qxGZaT_2k&type=album')}, {12716695: (24, 'https://sun9-70.userapi.com/impf/c845124/v845124221/d7e75/1kTpca0XB8c.jpg?size=720x960&quality=96&proxy=1&sign=a5330159f73f1cba9b1a285699e53bbe&c_uniq_tag=qnocKv78mGn-o8-bMeAfPnkl5l2f3dl6m8ekBsCFnvk&type=album')})
+**kwargs is: {}
+Result is: {12716695: ((80, 'https://sun9-63.userapi.com/c5318/u12716695/-6/y_6db39e38.jpg'), (24, 'https://sun9-70.userapi.com/impf/c845124/v845124221/d7e75/1kTpca0XB8c.jpg?size=720x960&quality=96&proxy=1&sign=a5330159f73f1cba9b1a285699e53bbe&c_uniq_tag=qnocKv78mGn-o8-bMeAfPnkl5l2f3dl6m8ekBsCFnvk&type=album'), (10, 'https://sun9-31.userapi.com/impf/c11024/v11024695/a97/ntCABkJXFpw.jpg?size=550x550&quality=96&proxy=1&sign=7df3dec76ece325fc7bf7acbcdc12bcd&c_uniq_tag=W35foCSUyOifJfAcGY6xkrz1HvlR-7ZZf4qxGZaT_2k&type=album'))}
+Function performed duration is: 0:00:00.000042
+Documentation: Merge dictionaries and keep values of common keys in list
+
+Function "filling_photos_of_candidates_table" started at 2021-01-10 19:33:30.722682
+*args is: ()
+**kwargs is: {}
+Result is: [{77239525: ((35, 'https://sun9-28.userapi.com/impf/c6092/v6092525/2d36/ngKRk6FCbZw.jpg?size=1280x960&quality=96&proxy=1&sign=44dd6481b4b72e46d5e881bc61331c32&c_uniq_tag=hguhsQIFcnvSJFiy0vsiTqho-2HvY99OTP8-B3lVZ6s&type=album'), (26, 'https://sun9-25.userapi.com/impf/c852124/v852124736/751c0/VHwgwpbUDeo.jpg?size=960x1280&quality=96&proxy=1&sign=8a9f904079b031f311b26753fd240298&c_uniq_tag=x87QZ4Sg2r_7FU_dKLrFG2eMZbuy5O5kVqR_29sUjeE&type=album'), (29, 'https://sun9-49.userapi.com/impf/c846419/v846419792/3dec3/NuoZYcYuLIM.jpg?size=810x1080&quality=96&proxy=1&sign=3de05d324bbf401f4a5748c6be1ef372&c_uniq_tag=4z-Aha-ckWq1gkSwTVvxbLj_D2qbix48v9-ElMm6xOo&type=album'))}, {12716695: ((80, 'https://sun9-63.userapi.com/c5318/u12716695/-6/y_6db39e38.jpg'), (24, 'https://sun9-70.userapi.com/impf/c845124/v845124221/d7e75/1kTpca0XB8c.jpg?size=720x960&quality=96&proxy=1&sign=a5330159f73f1cba9b1a285699e53bbe&c_uniq_tag=qnocKv78mGn-o8-bMeAfPnkl5l2f3dl6m8ekBsCFnvk&type=album'), (10, 'https://sun9-31.userapi.com/impf/c11024/v11024695/a97/ntCABkJXFpw.jpg?size=550x550&quality=96&proxy=1&sign=7df3dec76ece325fc7bf7acbcdc12bcd&c_uniq_tag=W35foCSUyOifJfAcGY6xkrz1HvlR-7ZZf4qxGZaT_2k&type=album'))}]
+Function performed duration is: 0:00:00.252373
+Documentation: NOW WE WANT TO GET A SIMILAR LIST WITH DICTS:
+    [
+    {user_id: ((photo_like_count, photo_link), (photo_like_count, photo_link), (photo_like_count, photo_link))},
+    {another_user_id: ((photo_like_count, photo_link), (photo_like_count, photo_link), (photo_like_count, photo_link))}
+    etc...
+    ]
+    This variant is comfortable to further data filling in db
+    LET'S DO IT IN 8 STEPS!!!!!!
+
+Function "get_list_with_liked_candidates" started at 2021-01-10 19:35:40.128808
+*args is: ()
+**kwargs is: {}
+Result is: [77239525, 12716695]
+Function performed duration is: 0:00:00.000670
+Documentation: None
+
+Function "filling_candidates_table" started at 2021-01-10 19:35:40.128579
+*args is: ()
+**kwargs is: {}
+Result is: [[77239525, 1, 'Ольга', 'Старцева', 'https://vk.com/id77239525', 457199137], [12716695, 2, 'Алекс', 'Сотников', 'https://vk.com/id12716695', 457199137]]
+Function performed duration is: 0:00:00.199348
+Documentation: None
+
+Function "get_list_with_liked_candidates" started at 2021-01-10 19:36:24.505449
+*args is: ()
+**kwargs is: {}
+Result is: [77239525, 12716695]
+Function performed duration is: 0:00:00.000539
+Documentation: None
+

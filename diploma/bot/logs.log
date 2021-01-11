@@ -1,0 +1,262 @@
+Function "get_candidates_links" started at 2021-01-10 15:01:23.581199
+*args is: (2, 55, 100, 5, 'Саратов')
+**kwargs is: {}
+Result is: []
+Function performed duration is: 0:00:00.355582
+Documentation: STEP 1: SETTING PARAMS FOR METHOD 'users.search' (API VK). DEFINE SEX, AGE, MARITAL STATUS and CITY
+
+Function "get_candidates_links" started at 2021-01-10 15:02:15.655629
+*args is: (2, 55, 100, 5, 'Саратов')
+**kwargs is: {}
+Result is: []
+Function performed duration is: 0:00:00.312964
+Documentation: STEP 1: SETTING PARAMS FOR METHOD 'users.search' (API VK). DEFINE SEX, AGE, MARITAL STATUS and CITY
+
+Function "get_candidates_links" started at 2021-01-10 15:02:23.152118
+*args is: (2, 55, 100, 6, 'Саратов')
+**kwargs is: {}
+Result is: ['1) https://vk.com/id484165769', '2) https://vk.com/id52422665', '3) https://vk.com/id349480090']
+Function performed duration is: 0:00:00.610720
+Documentation: STEP 1: SETTING PARAMS FOR METHOD 'users.search' (API VK). DEFINE SEX, AGE, MARITAL STATUS and CITY
+
+Function "get_candidates_links" started at 2021-01-10 15:23:46.273960
+*args is: (2, 55, 100, 6, 'Саратов')
+**kwargs is: {}
+Result is: ['1) https://vk.com/id13295513', '2) https://vk.com/id443442277', '3) https://vk.com/id52422665']
+Function performed duration is: 0:00:00.475266
+Documentation: STEP 1: SETTING PARAMS FOR METHOD 'users.search' (API VK). DEFINE SEX, AGE, MARITAL STATUS and CITY
+
+Function "get_candidates_links" started at 2021-01-10 15:24:03.441042
+*args is: (2, 55, 100, 6, 'Саратов')
+**kwargs is: {}
+Result is: ['1) https://vk.com/id13295513', '2) https://vk.com/id443442277', '3) https://vk.com/id52422665']
+Function performed duration is: 0:00:00.451104
+Documentation: STEP 1: SETTING PARAMS FOR METHOD 'users.search' (API VK). DEFINE SEX, AGE, MARITAL STATUS and CITY
+
+Function "get_candidates_links" started at 2021-01-10 15:25:29.841489
+*args is: (2, 55, 100, 6, 'Рязань')
+**kwargs is: {}
+Result is: ['1) https://vk.com/id448989620', '2) https://vk.com/id487086308', '3) https://vk.com/id110517484', '4) https://vk.com/id390060861', '5) https://vk.com/id248830316']
+Function performed duration is: 0:00:00.932114
+Documentation: STEP 1: SETTING PARAMS FOR METHOD 'users.search' (API VK). DEFINE SEX, AGE, MARITAL STATUS and CITY
+
+Function "get_candidates_links" started at 2021-01-10 15:25:39.092829
+*args is: (2, 55, 100, 6, 'Сызрань')
+**kwargs is: {}
+Result is: []
+Function performed duration is: 0:00:00.153611
+Documentation: STEP 1: SETTING PARAMS FOR METHOD 'users.search' (API VK). DEFINE SEX, AGE, MARITAL STATUS and CITY
+
+Function "get_candidates_links" started at 2021-01-10 15:25:49.637375
+*args is: (2, 55, 100, 5, 'Сызрань')
+**kwargs is: {}
+Result is: []
+Function performed duration is: 0:00:00.133547
+Documentation: STEP 1: SETTING PARAMS FOR METHOD 'users.search' (API VK). DEFINE SEX, AGE, MARITAL STATUS and CITY
+
+Function "get_candidates_links" started at 2021-01-10 15:26:00.394944
+*args is: (2, 55, 100, 6, 'Бийск')
+**kwargs is: {}
+Result is: []
+Function performed duration is: 0:00:00.190702
+Documentation: STEP 1: SETTING PARAMS FOR METHOD 'users.search' (API VK). DEFINE SEX, AGE, MARITAL STATUS and CITY
+
+Function "get_candidates_links" started at 2021-01-10 15:26:06.637886
+*args is: (2, 55, 100, 6, 'Барнаул')
+**kwargs is: {}
+Result is: ['1) https://vk.com/id4670487', '2) https://vk.com/id21029212']
+Function performed duration is: 0:00:00.456081
+Documentation: STEP 1: SETTING PARAMS FOR METHOD 'users.search' (API VK). DEFINE SEX, AGE, MARITAL STATUS and CITY
+
+Function "collect_data_for_adding_to_csv_file" started at 2021-01-10 16:10:57.016692
+*args is: ()
+**kwargs is: {}
+Function "collect_data_for_adding_to_csv_file" started at 2021-01-10 16:11:14.143302
+*args is: ([['1231233'], ['2334234'], ['3453446']],)
+**kwargs is: {}
+Result is: None
+Function performed duration is: 0:00:00.000455
+Documentation: None
+
+Function "collect_data_for_adding_to_csv_file" started at 2021-01-10 16:12:17.085712
+*args is: ([['1231233'], ['2334234'], ['3453446']],)
+**kwargs is: {}
+Result is: None
+Function performed duration is: 0:00:00.000442
+Documentation: None
+
+Function "collect_data_for_adding_to_csv_file" started at 2021-01-10 16:13:18.725779
+*args is: ([['1231233'], ['2334234'], ['3453446']],)
+**kwargs is: {}
+Result is: None
+Function performed duration is: 0:00:00.000300
+Documentation: None
+
+Function "collect_data_for_adding_to_csv_file" started at 2021-01-10 16:13:29.485729
+*args is: ([['1231233'], ['2334234'], ['3453446']],)
+**kwargs is: {}
+Result is: None
+Function performed duration is: 0:00:00.000318
+Documentation: None
+
+Function "collect_data_for_adding_to_csv_file" started at 2021-01-10 16:14:05.830944
+*args is: ([['1231233'], ['2334234'], ['3453446']],)
+**kwargs is: {}
+Result is: None
+Function performed duration is: 0:00:00.000627
+Documentation: None
+
+Function "collect_data_for_adding_to_csv_file" started at 2021-01-10 16:18:58.328254
+*args is: ([['1231233'], ['2334234'], ['3453446']],)
+**kwargs is: {}
+Result is: None
+Function performed duration is: 0:00:00.000868
+Documentation: None
+
+Function "show_liked_candidates" started at 2021-01-10 16:18:58.330758
+*args is: ()
+**kwargs is: {}
+Result is: ['1) https://vk.com/id1231233', '2) https://vk.com/id2334234', '3) https://vk.com/id3453446']
+Function performed duration is: 0:00:00.001315
+Documentation: None
+
+Function "collect_data_for_adding_to_csv_file" started at 2021-01-10 16:19:09.829133
+*args is: ([['1231233'], ['2334234'], ['3453446']],)
+**kwargs is: {}
+Result is: None
+Function performed duration is: 0:00:00.001421
+Documentation: None
+
+Function "show_liked_candidates" started at 2021-01-10 16:19:09.831364
+*args is: ()
+**kwargs is: {}
+Result is: ['1) https://vk.com/id1231233', '2) https://vk.com/id2334234', '3) https://vk.com/id3453446', '4) https://vk.com/id1231233', '5) https://vk.com/id2334234', '6) https://vk.com/id3453446']
+Function performed duration is: 0:00:00.000840
+Documentation: None
+
+Function "show_liked_candidates" started at 2021-01-10 16:42:09.906967
+*args is: ()
+**kwargs is: {}
+Result is: ['1) https://vk.com/id1231233', '2) https://vk.com/id2334234', '3) https://vk.com/id3453446', '4) https://vk.com/id1231233', '5) https://vk.com/id2334234', '6) https://vk.com/id3453446']
+Function performed duration is: 0:00:00.002463
+Documentation: None
+
+Function "adding_in_ban_list" started at 2021-01-10 17:01:57.609136
+*args is: (12404202,)
+**kwargs is: {}
+Result is: None
+Function performed duration is: 0:00:00.203332
+Documentation: None
+
+Function "adding_in_ban_list" started at 2021-01-10 17:02:14.515676
+*args is: (12404202,)
+**kwargs is: {}
+Function "adding_in_ban_list" started at 2021-01-10 17:02:29.685530
+*args is: (12404202,)
+**kwargs is: {}
+Function "adding_in_ban_list" started at 2021-01-10 17:02:35.455624
+*args is: (12404201,)
+**kwargs is: {}
+Result is: None
+Function performed duration is: 0:00:00.242640
+Documentation: None
+
+Function "adding_in_ban_list" started at 2021-01-10 17:02:41.807697
+*args is: (1240420,)
+**kwargs is: {}
+Result is: None
+Function performed duration is: 0:00:00.192820
+Documentation: None
+
+Function "adding_in_ban_list" started at 2021-01-10 17:03:00.119275
+*args is: (10612047,)
+**kwargs is: {}
+Result is: None
+Function performed duration is: 0:00:00.235724
+Documentation: None
+
+Function "adding_in_ban_list" started at 2021-01-10 17:03:04.167174
+*args is: (10612047,)
+**kwargs is: {}
+Function "adding_in_ban_list" started at 2021-01-10 17:03:27.145735
+*args is: (57545445,)
+**kwargs is: {}
+Result is: None
+Function performed duration is: 0:00:00.214632
+Documentation: None
+
+Function "adding_in_ban_list" started at 2021-01-10 17:03:38.502271
+*args is: (57545445,)
+**kwargs is: {}
+Function "adding_in_ban_list" started at 2021-01-10 17:22:17.412995
+*args is: (57545445,)
+**kwargs is: {}
+Function "adding_in_ban_list" started at 2021-01-10 17:22:29.098103
+*args is: (57545445,)
+**kwargs is: {}
+Function "adding_in_ban_list" started at 2021-01-10 17:22:40.647288
+*args is: (57545445,)
+**kwargs is: {}
+Function "reset_from_ban_list" started at 2021-01-10 17:23:06.053604
+*args is: (57545445,)
+**kwargs is: {}
+Result is: None
+Function performed duration is: 0:00:00.126324
+Documentation: None
+
+Function "collect_data_for_adding_to_csv_file" started at 2021-01-10 19:44:14.243675
+*args is: ([['1231233'], ['2334234'], ['3453446']],)
+**kwargs is: {}
+Result is: None
+Function performed duration is: 0:00:00.000648
+Documentation: None
+
+Function "collect_data_for_adding_to_csv_file" started at 2021-01-10 19:45:25.040651
+*args is: ([['1231233'], ['2334234'], ['3453446']],)
+**kwargs is: {}
+Result is: None
+Function performed duration is: 0:00:00.000499
+Documentation: None
+
+Function "show_liked_candidates" started at 2021-01-10 19:46:06.625548
+*args is: ()
+**kwargs is: {}
+Result is: ['1) https://vk.com/id1231233', '2) https://vk.com/id2334234', '3) https://vk.com/id3453446']
+Function performed duration is: 0:00:00.000310
+Documentation: None
+
+Function "show_liked_candidates" started at 2021-01-10 19:46:16.018149
+*args is: ()
+**kwargs is: {}
+Result is: ['1) https://vk.com/id1231233', '2) https://vk.com/id2334234', '3) https://vk.com/id3453446']
+Function performed duration is: 0:00:00.000377
+Documentation: None
+
+Function "show_liked_candidates" started at 2021-01-10 19:47:11.306519
+*args is: ()
+**kwargs is: {}
+Result is: ['1) https://vk.com/id77239525', '2) https://vk.com/id12716695']
+Function performed duration is: 0:00:00.000351
+Documentation: None
+
+Function "show_liked_candidates" started at 2021-01-10 19:49:29.802536
+*args is: ()
+**kwargs is: {}
+Result is: ['1) https://vk.com/id77239525', '2) https://vk.com/id12716695']
+Function performed duration is: 0:00:00.000277
+Documentation: None
+
+Function "get_candidates_links" started at 2021-01-10 19:54:18.902808
+*args is: (2, 55, 100, 6, 'Барнаул')
+**kwargs is: {}
+Result is: []
+Function performed duration is: 0:00:00.110993
+Documentation: STEP 1: SETTING PARAMS FOR METHOD 'users.search' (API VK). DEFINE SEX, AGE, MARITAL STATUS and CITY
+
+Function "get_candidates_links" started at 2021-01-10 19:54:54.791773
+*args is: (2, 18, 25, 6, 'Барнаул')
+**kwargs is: {}
+Result is: ['1) https://vk.com/id27322335', '2) https://vk.com/id85294570', '3) https://vk.com/id170760935', '4) https://vk.com/id70096900', '5) https://vk.com/id272737129', '6) https://vk.com/id149072971', '7) https://vk.com/id350282983', '8) https://vk.com/id456709909', '9) https://vk.com/id211209465', '10) https://vk.com/id170791715', '11) https://vk.com/id155297855', '12) https://vk.com/id340879383', '13) https://vk.com/id340257017']
+Function performed duration is: 0:00:04.779167
+Documentation: STEP 1: SETTING PARAMS FOR METHOD 'users.search' (API VK). DEFINE SEX, AGE, MARITAL STATUS and CITY
+
