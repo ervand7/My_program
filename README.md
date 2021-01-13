@@ -26,7 +26,7 @@ ___
 
 
 ### Логика работы программы.
-![Bootstrap](https://github.com/ervand7/HTML/blob/master/logic.png?raw=true)
+![Bootstrap](https://github.com/ervand7/My_best_summary_about_python/blob/master/summary/web_scraping/HTML/2020/logic.png?raw=true)
 
 ### Ограничения в программе.
 1. Во временном файле 'repository_of_candidates_ids' во время занесения данных в БД должно быть не более 9 (включительно) id кандидатов. В противном случае мы получим исключение KeyError.
