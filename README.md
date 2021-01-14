@@ -5,6 +5,15 @@
 ### Инструкция.
 ___
 1. Установите зависимости.
+2. Откройте Терминал и поочередно введите следующие команды. Примечание: Терминал может просить у вас ввода пароля от пользователя вашего ПК в зависимости от ОС (на MAC обычно не спрашивает). Таже важно на данном этапе, чтобы у вас уже была установлена программа 'pgadmin4-4.23' и там был ранее создан суперпользователь (createuser -P -s postgres).
+    * postgres -V
+    * pg_ctl -D /usr/local/var/postgres start
+    * psql -U postgres
+    * create user ingenious_db_user with password 'ingenious_db_user';
+    * create database ingenious_db with owner ingenious_db_user;
+    * \q
+    * psql -U ingenious_db_user -d ingenious_db
+    * Вставьте в Терминал содержимое файла 'queries.sql' и нажмите Enter. Этот файл находится по пути diploma -> db -> schemas_and_create_queries -> create queries.sql
 1. Откройте папку 'diploma', а в ней файл input_data. Заполните:
 
     * **user_api_token** - токен юзера ВКонтакте. Примечание: инструкция по получению этого токена находится по пути diploma -> servise_and_auxiliary_files -> how_get_user_api_token.py;

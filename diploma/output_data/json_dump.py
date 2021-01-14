@@ -4,7 +4,7 @@ import json
 import os
 
 engine = sqlalchemy.create_engine(
-    'postgresql://test_user_03_01_2021:test_user_03_01_2021@localhost:5432/diploma_empty_database')
+    'postgresql://ingenious_db_user:ingenious_db_user@localhost:5432/ingenious_db')
 
 connection = engine.connect()
 
