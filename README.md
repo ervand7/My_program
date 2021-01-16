@@ -17,9 +17,9 @@ ___
     * Вставьте в Терминал содержимое файла 'queries.sql' и нажмите Enter. Этот файл находится по пути diploma -> db -> schemas_and_create_queries -> create queries.sql
 4. Откройте папку 'diploma', а в ней файл input_data. Заполните:
 
-    * **user_api_token** - токен юзера ВКонтакте. Примечание: инструкция по получению этого токена находится по пути diploma -> servise_and_auxiliary_files -> how_get_user_api_token.py;
+    * **user_api_token** - токен юзера ВКонтакте;
     
-    * **TOKEN_FOR_BOT** - токен сообщества ВКонтакте. Примечание: инструкция по получению этого токена находится по пути diploma -> servise_and_auxiliary_files -> how_get_TOKEN_FOR_BOT.py;
+    * **TOKEN_FOR_BOT** - токен сообщества ВКонтакте;
     * **your_id** - ваш id ВКонтакте. 
     
 5. В той же директории откройте файл 'main' и запустите его. Через секунду вы можете в вашем IDE на экране вывода информации увидеть, что таблица БД main_user заполнилась. 
