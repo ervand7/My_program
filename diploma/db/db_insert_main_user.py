@@ -13,17 +13,20 @@ connection = engine.connect()
 
 # # # Insert. Добавим данные в main_user
 def write_main_user_data_in_db(input_main_user_id=your_id):
-    main_user_id = input_main_user_id
-    user_id = filling_main_user_table(main_user_id)[0]
-    user_sex = filling_main_user_table(main_user_id)[1]
-    user_first_name = filling_main_user_table(main_user_id)[2]
-    user_last_name = filling_main_user_table(main_user_id)[3]
-    user_status = filling_main_user_table(main_user_id)[4]
+    try:
+        main_user_id = input_main_user_id
+        user_id = filling_main_user_table(main_user_id)[0]
+        user_sex = filling_main_user_table(main_user_id)[1]
+        user_first_name = filling_main_user_table(main_user_id)[2]
+        user_last_name = filling_main_user_table(main_user_id)[3]
+        user_status = filling_main_user_table(main_user_id)[4]
 
-    insert_main_user = connection.execute(f'''INSERT INTO main_user(vk_id, sex, first_name, last_name, status)
-        VALUES ({user_id}, '{user_sex}', '{user_first_name}', '{user_last_name}', '{user_status}');
-        ''')
-    pprint(insert_main_user)
+        insert_main_user = connection.execute(f'''INSERT INTO main_user(vk_id, sex, first_name, last_name, status)
+            VALUES ({user_id}, '{user_sex}', '{user_first_name}', '{user_last_name}', '{user_status}');
+            ''')
+        pprint(insert_main_user)
+    except sqlalchemy.exc.IntegrityError:
+        print('Такой ID уже был. Введите новый, уникальный.')
 
 
 write_main_user_data_in_db()
