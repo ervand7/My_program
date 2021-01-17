@@ -1,4 +1,0 @@
-1) create a community in VKontakte
-2) Управление -> Настройки -> Работа с API -> Создать ключ
-paste key un file <input_data> in variable <TOKEN_FOR_BOT>
-3) Настройки -> Сообщения -> Сообщения сообщества: -> Включены -> Сохранить

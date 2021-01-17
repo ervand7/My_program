@@ -3,7 +3,7 @@ import os
 import requests
 from urllib.parse import urljoin
 from diploma.input_data import user_api_token, your_id
-from diploma.servise_and_auxiliary_files.log_decorator_function import decorator_with_way_to_file
+from diploma.service_and_auxiliary_files.log_decorator_function import decorator_with_way_to_file
 from pprint import pprint  # do not delete this! It is for checking separately functions
 
 api_base_url = 'https://api.vk.com/method/'

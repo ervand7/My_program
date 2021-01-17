@@ -5,7 +5,7 @@ import csv
 import requests
 from diploma.input_data import user_api_token
 from urllib.parse import urljoin
-from diploma.servise_and_auxiliary_files.log_decorator_function import decorator_with_way_to_file
+from diploma.service_and_auxiliary_files.log_decorator_function import decorator_with_way_to_file
 from pprint import pprint  # do not delete this!
 
 vk_ = vk_api.VkApi(token=user_api_token, api_version="5.89")
