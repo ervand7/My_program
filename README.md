@@ -18,7 +18,7 @@ ___
 4. Откройте папку 'diploma', а в ней файл input_data. Заполните:
 
     * **user_api_token** - токен юзера ВКонтакте. Примечание: инструкция по получению этого токена находится   [здесь](https://github.com/ervand7/My_program/blob/master/diploma/service_and_auxiliary_files/how_get_user_api_token.py);
-    * **TOKEN_FOR_BOT** - токен сообщества ВКонтакте Примечание: инструкция по получению этого токена находится [здесь](https://github.com/ervand7/My_program/blob/master/diploma/serviсe_and_auxiliary_files/how_get_TOKEN_FOR_BOT.txt);
+    * **TOKEN_FOR_BOT** - токен сообщества ВКонтакте Примечание: инструкция по получению этого токена находится [здесь](https://github.com/ervand7/My_program/blob/master/diploma/service_and_auxiliary_files/how_get_TOKEN_FOR_BOT.txt);
     * **your_id** - ваш id ВКонтакте. 
     
 5. В той же директории откройте файл 'main' и запустите его. Через секунду вы можете в вашем IDE на экране вывода информации увидеть, что таблица БД main_user заполнилась. 
