@@ -14,7 +14,7 @@ ___
     * create database ingenious_db with owner ingenious_db_user;
     * \q
     * psql -U ingenious_db_user -d ingenious_db
-    * Вставьте в Терминал содержимое файла 'queries.sql' и нажмите Enter. Этот файл находится по пути diploma -> db -> schemas_and_create_queries -> create queries.sql
+    * Вставьте в Терминал содержимое файла [queries.sql](https://github.com/ervand7/My_program/blob/master/diploma/db/schemas_and_create_queries/create%20queries.sql) и нажмите Enter. Этот файл находится по пути diploma -> db -> schemas_and_create_queries -> create queries.sql
 4. Откройте папку 'diploma', а в ней файл [input_data](https://github.com/ervand7/My_program/blob/master/diploma/input_data.py). Заполните:
 
     * **user_api_token** - токен юзера ВКонтакте. Примечание: инструкция по получению этого токена находится   [здесь](https://github.com/ervand7/My_program/blob/master/diploma/service_and_auxiliary_files/how_get_user_api_token.py);
