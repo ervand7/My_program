@@ -341,9 +341,14 @@ class BotVkontakte:
 
                     # _______ ending of program and writing data in db_______
                     elif self.search_func_params[6] is True and request == 'готово':
-                        output_wait_10_sec()
-                        write_candidate_data_in_db()
-                        output_good_bye()
+                        try:
+                            output_wait_10_sec()
+                            write_candidate_data_in_db()
+                            output_good_bye()
+                        except FileNotFoundError:
+                            print('Вы ввели команду <готово> до того, как добавили кого-то в список понравившихся! '
+                                  'Теперь заново запустите файл <main>, но уже вставив новый <your_id> в файл '
+                                  '<input_data>')
 
                     # _______ user mistake warning _______
                     else:

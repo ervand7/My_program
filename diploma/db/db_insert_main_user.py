@@ -26,7 +26,7 @@ def write_main_user_data_in_db(input_main_user_id=your_id):
             ''')
         pprint(insert_main_user)
     except sqlalchemy.exc.IntegrityError:
-        print('Такой ID уже был. Введите новый, уникальный.')
+        print('Такой <your_id> из файла <input_data> уже был. Введите новый, уникальный.')
 
 
 write_main_user_data_in_db()
