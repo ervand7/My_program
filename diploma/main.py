@@ -1,5 +1,5 @@
-from diploma.bot.BotVkontakte import BotVkontakte
 import vk_api
+from diploma.bot.BotVkontakte import BotVkontakte
 from diploma.db.db_insert_main_user import write_main_user_data_in_db  # it shows environment of loading in db
 
 if __name__ == '__main__':
