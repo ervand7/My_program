@@ -6,15 +6,17 @@
 ___
 1. [Скачайте](https://github.com/ervand7/My_program/archive/master.zip) себе на локальную машину этот репозиторий и откройте загруженную папку в вашем IDE.
 2. Установите [зависимости](https://github.com/ervand7/My_program/blob/master/requirements.txt).
-3. Этим этапом мы создаем базу данных конкретно для этой программы. Внимание, этот пункт выполняется только единожды. Если вы захотите воспользоваться программой больше одного раза на одном и том же устройстве, то заново выполнять этот пункт не нужно! Установите программу [pgadmin4-4.23](https://www.pgadmin.org/download/) и создайте суперпользователя postgres. Откройте Терминал и поочередно введите следующие команды:
-    * postgres -V
-    * pg_ctl -D /usr/local/var/postgres start (Внимание! Эта команда только для MAC OS)
-    * psql -U postgres
-    * create user ingenious_db_user with password 'ingenious_db_user';
-    * create database ingenious_db with owner ingenious_db_user;
-    * \q
-    * psql -U ingenious_db_user -d ingenious_db
-    * Вставьте в Терминал содержимое файла [queries.sql](https://github.com/ervand7/My_program/blob/master/diploma/db/schemas_and_create_queries/create%20queries.sql) и нажмите Enter. Этот файл находится по пути diploma -> db -> schemas_and_create_queries -> create queries.sql
+3. Этим этапом мы создаем базу данных конкретно для этой программы. Внимание, этот пункт выполняется только единожды. Если вы захотите воспользоваться программой больше одного раза на одном и том же устройстве, то заново выполнять этот пункт не нужно! 
+    * а) Установите программу [pgadmin4-4.23](https://www.pgadmin.org/download/) и создайте суперпользователя postgres.
+    * б) Откройте Терминал и поочередно введите следующие команды:
+        * postgres -V
+        * pg_ctl -D /usr/local/var/postgres start (Внимание! Эта команда только для MAC OS)
+        * psql -U postgres
+        * create user ingenious_db_user with password 'ingenious_db_user';
+        * create database ingenious_db with owner ingenious_db_user;
+        * \q
+        * psql -U ingenious_db_user -d ingenious_db
+        * Вставьте в Терминал содержимое файла [queries.sql](https://github.com/ervand7/My_program/blob/master/diploma/db/schemas_and_create_queries/create%20queries.sql) и нажмите Enter. Этот файл находится по пути diploma -> db -> schemas_and_create_queries -> create queries.sql
 4. Откройте папку 'diploma', а в ней файл [input_data](https://github.com/ervand7/My_program/blob/master/diploma/input_data.py). Заполните:
 
     * **user_api_token** - токен юзера ВКонтакте. Примечание: инструкция по получению этого токена находится   [здесь](https://github.com/ervand7/My_program/blob/master/diploma/service_and_auxiliary_files/how_get_user_api_token.py);
@@ -29,7 +31,7 @@ ___
     
 8. После завершения программы запустите файл [json_dump.py](https://github.com/ervand7/My_program/blob/master/diploma/output_data/json_dump.py), находящийся по пути diploma -> output_data -> json_dump.py. Это нужно для получения итогового файла 'program_result_output.json' с выгрузкой из БД, который создастся и будет находиться по пути diploma -> output_data -> program_result_output.json.
     
-9. После завершения программы в корневой папке проекта будет находиться log-файл 'logs.log', вы так же можете его посмотреть. Кроме того, файлы-логи будут находиться и в некоторых других папках. 
+9. После завершения программы в корневой папке проекта будет находиться log-файл 'logs.log', который в процессе работы программы создастся и заполнится с помощью специального [декоратора](https://github.com/ervand7/My_program/blob/master/diploma/service_and_auxiliary_files/log_decorator_function.py). Вы можете посмотреть этот файл. Кроме того, файлы-логи будут находиться и в некоторых других папках. 
 
 10. Протестируйте программу с помощью [тестов](https://github.com/ervand7/My_program/blob/master/diploma/test/test_pytest.py), находящихся по пути diploma -> test -> test_pytest.py. Примечание: некоторые тесты могут выдавать в разное время ошибочные результаты, так как в качестве аргументов там представлены id реальных пользователей вконтаке, которые, возможно, могут удалить свою страницу, либо их могут заблокировать и тп.
 
@@ -42,7 +44,7 @@ ___
 ### Ограничения в программе.
 1. Во временном файле 'repository_of_candidates_ids' во время занесения данных в БД должно быть не более 9 (включительно) id кандидатов. В противном случае мы получим обработку исключения KeyError: 'Файл <repository_of_candidates_ids.csv> был переполнен! Там ...'
 
-2. Для каждой сессии используется уникальный id ВКонтакте. То есть, если вы захотите воспользоваться программой больше одного раза, вам нужно будет вставить в файле [input_data](https://github.com/ervand7/My_program/blob/master/diploma/input_data.py) в колонку 'your_id' новый уникальный id ВКонтакте. Это установленное требование спроектированной мною базы данных. В противном случае вам ваш IDE выведет обработку исключения sqlalchemy.exc.IntegrityError: 'Такой ID уже был. Введите ...'
+2. Для каждой сессии используется уникальный id ВКонтакте. То есть, если вы захотите воспользоваться программой больше одного раза, вам нужно будет вставить в файле [input_data](https://github.com/ervand7/My_program/blob/master/diploma/input_data.py) в колонку 'your_id' новый уникальный id ВКонтакте. Это установленное требование спроектированной мною [базы данных](https://github.com/ervand7/My_program/blob/master/diploma/db/schemas_and_create_queries/schema_made_on_MIRO.png). В противном случае вам ваш IDE выведет обработку исключения sqlalchemy.exc.IntegrityError: 'Такой ID уже был. Введите ...'
 
 3. Программа выдает пользователю только тех кандидатов, у которых:
     * открытый аккаунт;
