@@ -6,7 +6,7 @@
 ___
 1. [Скачайте](https://github.com/ervand7/My_program/archive/master.zip) себе на локальную машину этот репозиторий и откройте загруженную папку в вашем IDE.
 2. Установите [зависимости](https://github.com/ervand7/My_program/blob/master/requirements.txt).
-3. Этим этапом мы создаем базу данных конкретно для этой программы. Внимание, этот пункт выполняется только единожды. Если вы захотите воспользоваться программой больше одного раза на одном и том же устройстве, то заново выполнять этот пункт не нужно! 
+3. Этим этапом мы создаем [базу данных](https://github.com/ervand7/My_program/blob/master/diploma/db/schemas_and_create_queries/schema_made_on_MIRO.png) конкретно для этой программы. Внимание, этот пункт выполняется только единожды. Если вы захотите воспользоваться программой больше одного раза на одном и том же устройстве, то заново выполнять этот пункт не нужно! 
     * а) Установите программу [pgadmin4-4.23](https://www.pgadmin.org/download/) и создайте суперпользователя postgres.
     * б) Откройте Терминал и поочередно введите следующие команды:
         * postgres -V
@@ -20,7 +20,7 @@ ___
 4. Откройте папку 'diploma', а в ней файл [input_data](https://github.com/ervand7/My_program/blob/master/diploma/input_data.py). Заполните:
 
     * **user_api_token** - токен юзера ВКонтакте. Примечание: инструкция по получению этого токена находится   [здесь](https://github.com/ervand7/My_program/blob/master/diploma/service_and_auxiliary_files/how_get_user_api_token.py);
-    * **TOKEN_FOR_BOT** - токен сообщества ВКонтакте Примечание: инструкция по получению этого токена находится [здесь](https://github.com/ervand7/My_program/blob/master/diploma/service_and_auxiliary_files/how_get_TOKEN_FOR_BOT.txt);
+    * **TOKEN_FOR_BOT** - токен сообщества ВКонтакте. Примечание: инструкция по получению этого токена находится [здесь](https://github.com/ervand7/My_program/blob/master/diploma/service_and_auxiliary_files/how_get_TOKEN_FOR_BOT.txt);
     * **your_id** - ваш id ВКонтакте. 
     
 5. В той же директории откройте файл [main](https://github.com/ervand7/My_program/blob/master/diploma/main.py) и запустите его. Через секунду вы можете в вашем IDE на экране вывода информации увидеть, что таблица БД main_user заполнилась. 
@@ -44,7 +44,7 @@ ___
 ### Ограничения в программе.
 1. Во временном файле 'repository_of_candidates_ids' во время занесения данных в БД должно быть не более 9 (включительно) id кандидатов. В противном случае мы получим обработку исключения KeyError: 'Файл <repository_of_candidates_ids.csv> был переполнен! Там ...'
 
-2. Для каждой сессии используется уникальный id ВКонтакте. То есть, если вы захотите воспользоваться программой больше одного раза, вам нужно будет вставить в файле [input_data](https://github.com/ervand7/My_program/blob/master/diploma/input_data.py) в колонку 'your_id' новый уникальный id ВКонтакте. Это установленное требование спроектированной мною [базы данных](https://github.com/ervand7/My_program/blob/master/diploma/db/schemas_and_create_queries/schema_made_on_MIRO.png). В противном случае вам ваш IDE выведет обработку исключения sqlalchemy.exc.IntegrityError: 'Такой ID уже был. Введите ...'
+2. Для каждой сессии используется уникальный id ВКонтакте. То есть, если вы захотите воспользоваться программой больше одного раза, вам нужно будет вставить в файле [input_data](https://github.com/ervand7/My_program/blob/master/diploma/input_data.py) в колонку 'your_id' новый уникальный id ВКонтакте. Это установленное требование базы данных этой программы. В противном случае вам ваш IDE выведет обработку исключения sqlalchemy.exc.IntegrityError: 'Такой ID уже был. Введите ...'
 
 3. Программа выдает пользователю только тех кандидатов, у которых:
     * открытый аккаунт;
