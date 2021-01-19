@@ -58,9 +58,7 @@ def write_candidate_data_in_db(input_main_user_id=your_id):
     except KeyError:
         print('Временное хранилище кандидатов в корневой папке проекта <repository_of_candidates_ids.csv> было '
               'переполнено, а сейчас этого файла уже больше нет! Во временном хранилище может находиться не более '
-              '9 кандидатов перед загрузкой данных в БД. Сейчас вам нужно вставить новый <your_id> в файл '
-              '<input_data>, запустить файл <main> и заново пройти диалог с ботом :-( В следующий раз будьте '
-              'внимательнее!')
+              '9 кандидатов перед загрузкой данных в БД. Сейчас вам нужно заново запустить файл <main>')
     # _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
     # # # Удалим временный файл repository_of_candidates_ids
     time.sleep(1)  # without this program can be broken because of file can ce deleted before file data is written in db
