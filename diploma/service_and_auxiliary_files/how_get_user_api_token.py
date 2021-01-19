@@ -9,7 +9,7 @@ from urllib.parse import urlencode
 
 # info from https://vk.com/dev/
 oauth_api_base_url = 'https://oauth.vk.com/authorize'
-APP_ID = int  # my own last: 7717337 7723910 7716393 7649081
+APP_ID = 7717337  # my own last: 7717337 7723910 7716393 7649081
 redirect_uri = 'https://oauth.vk.com/blank.html'
 scope = 'friends'
 

@@ -6,18 +6,53 @@ from diploma.bot.functions_for_BotVkontakte import get_candidates_links, show_li
     reset_from_ban_list, collect_data_for_adding_to_csv_file, reset_from_liked, show_liked_candidates
 from diploma.input_data import TOKEN_FOR_BOT
 from diploma.db.db_insert_candidates_and_them_photos import write_candidate_data_in_db
+import diploma.bot.messages
 
 
 class BotVkontakte:
     def __init__(self):
         self.vk = vk_api.VkApi(token=TOKEN_FOR_BOT)
         self.longpoll = VkLongPoll(self.vk)
-        self.search_func_params = [0, 0, 0, 0, '', False, False]
-        self.start = 0
-        self.end = 2
-        self.bracket = ')'
+
+        # _______ parameters for fill list <self.search_func_params> _______
+        self.sex = 0
+        self.age_from = 0
+        self.age_to = 0
+        self.marital_status = 0
+        self.city = ''
+        self.start_dialog = False
+        self.city_is_selected = False
+        self.search_func_params = [self.sex, self.age_from, self.age_to, self.marital_status, self.city,
+                                   self.start_dialog, self.city_is_selected]
+
+        # _______ auxiliary parameters _______
+        self.symbols_before_id = 19
+        self.start_from_index = 0
+        self.end_to_index = 2
+        self.link_message_bracket = ')'
         self.underscore = '_'
         self.box_for_avoid_repeated_outputs = []
+
+        # _______ boolean parameters _______
+        self.dialog_was_started = 5
+        self.all_parameters_are_filled = 6
+
+        # _______ sex parameters _______
+        self.woman_ = 1
+        self.man_ = 2
+
+        # _______ age parameters _______
+        self.age_from_ = 1
+        self.age_to_ = 2
+
+        # _______ family status parameters _______
+        self.marital_status_ = 3
+        self.not_married = 1
+        self.all_is_difficult = 6
+        self.in_active_search = 5
+
+        # _______ city parameters _______
+        self.city_ = 4
 
     def write_msg(self, user_id, message):
         self.vk.method('messages.send', {'user_id': user_id, 'message': message, 'random_id': randrange(10 ** 7)})
@@ -30,214 +65,118 @@ class BotVkontakte:
 
                     # here is a block of outputs _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
                     def output_default():
-                        return self.write_msg(event.user_id,
-                                              "Дружище, попади правильно по клавиатуре :-(")
+                        return self.write_msg(event.user_id, diploma.bot.messages.message_1)
 
                     def output_hello():
-                        return self.write_msg(event.user_id,
-                                              f"Здравствуйте, уважаемый пользователь с id{event.user_id}. "
-                                              f"Сейчас мы будем искать вам пару. Будем выводить только тех "
-                                              f"пользователей, у которых аккаунт не закрыт, в наличие минимум 3 "
-                                              f"фотографии категории 'wall', и рейтинг ВКонтакте = maximum. "
-                                              f"Время моего ответа может составлять до 3 "
-                                              f"секунд. "
-                                              f"\n\nОбратите внимание, при длительном использовании программы, "
-                                              f"библиотека vk_api прекратит работу с исключением: "
-                                              f"<vk_api.exceptions.ApiError: [9] Flood control: too much messages "
-                                              f"sent to user>."
-                                              f"\nДавайте начнем с пола. "
-                                              f"Введите 'м' или 'ж' и нажмите Enter.")
+                        return self.write_msg(event.user_id, diploma.bot.messages.message_2)
 
                     def output_select_age():
-                        return self.write_msg(event.user_id,
-                                              "Пол выбран! Выберите возрастную категорию и нажмите enter:\n"
-                                              "1 - <18-25>\n"
-                                              "2 - <26-32>\n"
-                                              "3 - <33-42>\n"
-                                              "4 - <43-55>\n"
-                                              "5 - <55 + >\n")
+                        return self.write_msg(event.user_id, diploma.bot.messages.message_3)
 
                     def output_select_marital_status():
-                        return self.write_msg(event.user_id,
-                                              "Возраст выбран! Давайте определим семейный статус кандидата. "
-                                              "Выберите категорию и нажмите enter:\n"
-                                              "а - <не женат (не замужем)>\n"
-                                              "б - <в активном поиске>\n"
-                                              "в - <все сложно>")
+                        return self.write_msg(event.user_id, diploma.bot.messages.message_4)
 
                     def output_select_city():
-                        return self.write_msg(event.user_id,
-                                              "Семейный статус выбран! Осталось ввести название города, из которого "
-                                              "вы хотите найти свою любовь, и нажать Enter.")
+                        return self.write_msg(event.user_id, diploma.bot.messages.message_5)
 
                     def output_select_or_refuse_candidate():
-                        return self.write_msg(event.user_id,
-                                              'Все параметры заполнены! Вам представлены несколько кандидатур. '
-                                              'Они соответствуют заданным параметрам. Можно перейти по ссылке, '
-                                              'посмотреть, нравится человек или нет.'
-                                              '\n ● Если кто-то нравится, то в формате <нравится_2> введите '
-                                              'номер претендента (добавлять можно только по одному) и нажмите '
-                                              'Enter. Мы добавим его в список понравившихся.'
-                                              '\n ● Если же хотите пополнить ваш черный список этими людьми, '
-                                              'то введите номера ссылок на профили этих людей '
-                                              'в формате <чс_1> (добавлять можно только по одному) и нажмите Enter.'
-                                              '\n ● Если хотите пропустить все и перейти к следующим претендентам, то '
-                                              'наберите 0 и нажмите Enter.'
-                                              '\n ● Если хотите вернуться в начало поиска, наберите <привет> и '
-                                              'нажмите Enter.')
+                        return self.write_msg(event.user_id, diploma.bot.messages.message_6)
 
                     def output_adding_in_ban():
-                        return self.write_msg(event.user_id, "Супер! Все что нужно, мы переместили в чс :-) Можете "
-                                                             "проверить это в настройках своего аккаунта Вконтаке."
-                                                             "\n ● Будем повторно искать кандидатов с такими "
-                                                             "параметрами? Наберите '0' и нажмите Enter."
-                                                             "\n ● Если хотите кого-либо удалить из черного списка, "
-                                                             "введите номер его ссылки в формате <убрать_2> "
-                                                             "(убирать можно только по одному)")
+                        return self.write_msg(event.user_id, diploma.bot.messages.message_7)
 
                     def output_reset_from_ban_list():
-                        return self.write_msg(event.user_id, "Супер! Все что нужно, удалено из чс :-) Можете "
-                                                             "проверить это в настройках своего аккаунта Вконтаке."
-                                                             "\n ● Будем повторно искать кандидатов с такими "
-                                                             "параметрами? Наберите '0' и нажмите Enter."
-                                                             "\n ● Если хотите вернуться в начало поиска, наберите "
-                                                             "<привет> и нажмите Enter.")
+                        return self.write_msg(event.user_id, diploma.bot.messages.message_8)
 
                     def output_adding_in_liked_list():
-                        return self.write_msg(event.user_id, "Супер! Все, что нужно, внесено в список понравившихся :-)"
-                                                             "\n ● Будем повторно искать кандидатов с такими "
-                                                             "параметрами? Наберите '0' и нажмите Enter."
-                                                             "\n ● Если хотите просмотреть список понравившихся "
-                                                             "кандидатов, наберите <хочу> и нажмите Enter.")
+                        return self.write_msg(event.user_id, diploma.bot.messages.message_9)
 
                     def output_show_liked_candidates():
-                        return self.write_msg(event.user_id, "Вот все понравившиеся:-)"
-                                                             "\n ● Удалить кого-нибудь из понравившихся? Если да, "
-                                                             "то наберите номер ссылки в формате "
-                                                             "<разонравился_2> (удалять можно только по одному) "
-                                                             "и нажмите Enter."
-                                                             "\n ● Если хотите заново начать поиск, наберите <привет> "
-                                                             "и нажмите Enter.")
+                        return self.write_msg(event.user_id, diploma.bot.messages.message_10)
 
                     def output_unliked():
-                        return self.write_msg(event.user_id, "Разонравившийся удален из списка понравившихся."
-                                                             "\n ● Если хотите заново начать поиск, наберите <привет> "
-                                                             "и нажмите Enter."
-                                                             "\n ● Если хотите просмотреть список понравившихся "
-                                                             "кандидатов, наберите <хочу> и нажмите Enter."
-                                                             "\n ● Если хотите еще удалить кого-нибудь из "
-                                                             "понравившихся, наберите номер ссылки в формате "
-                                                             "<разонравился_2> (удалять можно только по одному) "
-                                                             "и нажмите Enter.")
+                        return self.write_msg(event.user_id, diploma.bot.messages.message_11)
 
                     def output_dead_end():
-                        return self.write_msg(event.user_id, "Все, по этим параметра больше никого нет. Вот все, "
-                                                             "кто есть."
-                                                             "\n ● Если кто-то нравится, то в формате <нравится_2> "
-                                                             "введите номер претендента "
-                                                             "(добавлять можно только по одному) и нажмите Enter. "
-                                                             "Мы добавим его в список понравившихся."
-                                                             "\n ● Если хотите заново начать поиск, наберите <привет> "
-                                                             "и нажмите Enter."
-                                                             "\n ● Если хотите просмотреть список понравившихся "
-                                                             "кандидатов, наберите <хочу> и нажмите Enter.")
+                        return self.write_msg(event.user_id, diploma.bot.messages.message_12)
 
                     def output_end_of_candidates():
-                        return self.write_msg(event.user_id, "Вам уже показывались люди по таким параметрам! "
-                                                             "Если хотите еще увидеть подобных, то наберите <т> и "
-                                                             "нажмите Enter.")
+                        return self.write_msg(event.user_id, diploma.bot.messages.message_13)
 
                     def output_wait_10_sec():
-                        return self.write_msg(event.user_id, "Подождите 10 секунд :-), не уходите:-))")
+                        return self.write_msg(event.user_id, diploma.bot.messages.message_14)
 
                     def output_good_bye():
-                        return self.write_msg(event.user_id, "Данные занесены базу данных. Программа завершена. "
-                                                             "Теперь перейдите в вашем IDE в папку <output_data> "
-                                                             "и запустите файл <json_dump>, после чего у вас появится "
-                                                             "в той же директории файл <program_result_output.json> "
-                                                             "с результатми работы данной программы. "
-                                                             "\nА так же в корневой папке вы найдете файл <logs.log> "
-                                                             "в котором представлен ход работы некоторых функций, "
-                                                             "это интересно)."
-                                                             "\nСпасибо, что выбрали нас :-).")
+                        return self.write_msg(event.user_id, diploma.bot.messages.message_15)
 
                     # here is a block of main logic _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
                     # _______ writing a greeting _______
-                    if request == 'привет' or request == 'Привет':
-                        time.sleep(1)
-                        self.start = 0
-                        self.end = 2
-                        self.search_func_params[5] = True
+                    if request == 'привет':
+                        self.start_from_index = 0  # при каждом 'привет' идет сброс этих параметров
+                        self.end_to_index = 2  # при каждом 'привет' идет сброс этих параметров
+                        self.search_func_params[self.dialog_was_started] = True
                         output_hello()
 
                     # _______ variants of selecting sex _______
-                    elif self.search_func_params[5] is True and request == 'м':
-                        time.sleep(1)
-                        self.search_func_params[0] = 2
+                    elif self.search_func_params[self.dialog_was_started] is True and request == 'м':
+                        self.search_func_params[self.sex] = self.man_
                         output_select_age()
 
-                    elif self.search_func_params[5] is True and request == 'ж':
-                        time.sleep(1)
-                        self.search_func_params[0] = 1
+                    elif self.search_func_params[self.dialog_was_started] is True and request == 'ж':
+                        self.search_func_params[self.sex] = self.woman_
                         output_select_age()
 
                     # _______ variants of selecting age range _______
-                    elif self.search_func_params[0] != 0 and request == '1':
-                        time.sleep(1)
-                        self.search_func_params[1] = 18
-                        self.search_func_params[2] = 25
+                    elif self.search_func_params[self.sex] != 0 and request == '1':
+                        self.search_func_params[self.age_from_] = 18
+                        self.search_func_params[self.age_to_] = 25
                         output_select_marital_status()
 
-                    elif self.search_func_params[0] != 0 and request == '2':
-                        time.sleep(1)
-                        self.search_func_params[1] = 26
-                        self.search_func_params[2] = 32
+                    elif self.search_func_params[self.sex] != 0 and request == '2':
+                        self.search_func_params[self.age_from_] = 26
+                        self.search_func_params[self.age_to_] = 32
                         output_select_marital_status()
 
-                    elif self.search_func_params[0] != 0 and request == '3':
-                        time.sleep(1)
-                        self.search_func_params[1] = 33
-                        self.search_func_params[2] = 42
+                    elif self.search_func_params[self.sex] != 0 and request == '3':
+                        self.search_func_params[self.age_from_] = 33
+                        self.search_func_params[self.age_to_] = 42
                         output_select_marital_status()
 
-                    elif self.search_func_params[0] != 0 and request == '4':
-                        time.sleep(1)
-                        self.search_func_params[1] = 43
-                        self.search_func_params[2] = 55
+                    elif self.search_func_params[self.sex] != 0 and request == '4':
+                        self.search_func_params[self.age_from_] = 43
+                        self.search_func_params[self.age_to_] = 55
                         output_select_marital_status()
 
-                    elif self.search_func_params[0] != 0 and request == '5':
-                        time.sleep(1)
-                        self.search_func_params[1] = 56
-                        self.search_func_params[2] = 100
+                    elif self.search_func_params[self.sex] != 0 and request == '5':
+                        self.search_func_params[self.age_from_] = 56
+                        self.search_func_params[self.age_to_] = 100
                         output_select_marital_status()
 
                     # _______ variants of selecting marital status _______
-                    elif self.search_func_params[2] != 0 and request == 'а':
-                        time.sleep(1)
-                        self.search_func_params[3] = 1
+                    elif self.search_func_params[self.age_to_] != 0 and request == 'а':
+                        self.search_func_params[self.marital_status_] = self.not_married
                         output_select_city()
 
-                    elif self.search_func_params[2] != 0 and request == 'б':
-                        time.sleep(1)
-                        self.search_func_params[3] = 6
+                    elif self.search_func_params[self.age_to_] != 0 and request == 'б':
+                        self.search_func_params[self.marital_status_] = self.all_is_difficult
                         output_select_city()
 
-                    elif self.search_func_params[2] != 0 and request == 'в':
-                        time.sleep(1)
-                        self.search_func_params[3] = 5
+                    elif self.search_func_params[self.age_to_] != 0 and request == 'в':
+                        self.search_func_params[self.marital_status_] = self.in_active_search
                         output_select_city()
 
                     # _______ selecting city and first output with links _______
-                    elif self.search_func_params[3] != 0 and str(request).title() in show_list_of_russia_cities():
-                        self.search_func_params[4] = request
-                        self.search_func_params[6] = True
+                    elif self.search_func_params[self.marital_status_] != 0 and str(
+                            request).title() in show_list_of_russia_cities():
+                        self.search_func_params[self.city_] = request
+                        self.search_func_params[self.all_parameters_are_filled] = True
                         counter_ = 0
-                        for i in get_candidates_links(self.search_func_params[0],
-                                                      self.search_func_params[1],
-                                                      self.search_func_params[2],
-                                                      self.search_func_params[3],
-                                                      self.search_func_params[4])[self.start:self.end]:
+                        filled_params = get_candidates_links(self.search_func_params[0],
+                                                             self.search_func_params[1],
+                                                             self.search_func_params[2],
+                                                             self.search_func_params[3],
+                                                             self.search_func_params[4])
+                        for i in filled_params[self.start_from_index:self.end_to_index]:
 
                             if not i in self.box_for_avoid_repeated_outputs:
                                 counter_ += 1
@@ -250,46 +189,38 @@ class BotVkontakte:
                             output_select_or_refuse_candidate()
 
                     # _______ adding candidate in block list _______
-                    elif self.search_func_params[6] is True and 'чс_' in str(request):
+                    elif self.search_func_params[self.all_parameters_are_filled] is True and 'чс_' in str(request):
                         try:
-                            for link in get_candidates_links(self.search_func_params[0],
-                                                             self.search_func_params[1],
-                                                             self.search_func_params[2],
-                                                             self.search_func_params[3],
-                                                             self.search_func_params[4]):
+                            for link in filled_params:
                                 find_number = int(request[request.index(self.underscore) + 1:])
-                                if int(find_number) == int(link[:link.index(self.bracket)]):
-                                    adding_in_ban_list(int(link[link.index(self.bracket) + 19:]))
+                                if int(find_number) == int(link[:link.index(self.link_message_bracket)]):
+                                    adding_in_ban_list(int(link[link.index(self.link_message_bracket) +
+                                                                self.symbols_before_id:]))
                         except vk_api.exceptions.ApiError:
                             print('')
                         output_adding_in_ban()
 
                     # _______ reset candidates from ban list _______
-                    elif self.search_func_params[6] is True and 'убрать_' in str(request):
+                    elif self.search_func_params[self.all_parameters_are_filled] is True and 'убрать_' in str(request):
                         try:
-                            for link in get_candidates_links(self.search_func_params[0],
-                                                             self.search_func_params[1],
-                                                             self.search_func_params[2],
-                                                             self.search_func_params[3],
-                                                             self.search_func_params[4]):
+                            for link in filled_params:
                                 find_number = int(request[request.index(self.underscore) + 1:])
-                                if int(find_number) == int(link[:link.index(self.bracket)]):
-                                    reset_from_ban_list(int(link[link.index(self.bracket) + 19:]))
+                                if int(find_number) == int(link[:link.index(self.link_message_bracket)]):
+                                    reset_from_ban_list(int(link[link.index(self.link_message_bracket) +
+                                                                 self.symbols_before_id:]))
                         except vk_api.exceptions.ApiError:
                             print('')
                         output_reset_from_ban_list()
 
                     # _______ adding candidate in liked list (special csv file) _______
-                    elif self.search_func_params[6] is True and 'нравится_' in str(request):
+                    elif self.search_func_params[self.all_parameters_are_filled] is True and 'нравится_' in str(
+                            request):
                         auxiliary_list = []
-                        for link_ in get_candidates_links(self.search_func_params[0],
-                                                          self.search_func_params[1],
-                                                          self.search_func_params[2],
-                                                          self.search_func_params[3],
-                                                          self.search_func_params[4]):
+                        for link_ in filled_params:
                             find_number = int(request[request.index(self.underscore) + 1:])
-                            if int(find_number) == int(link_[:link_.index(self.bracket)]):
-                                auxiliary_list.append(link_[link_.index(self.bracket) + 19:])
+                            if int(find_number) == int(link_[:link_.index(self.link_message_bracket)]):
+                                auxiliary_list.append(link_[link_.index(self.link_message_bracket) +
+                                                            self.symbols_before_id:])
                         list_for_csv_file = []
                         for i in auxiliary_list:
                             sub = i.split(', ')
@@ -298,41 +229,32 @@ class BotVkontakte:
                         output_adding_in_liked_list()
 
                     # _______ output of liked candidates _______
-                    elif self.search_func_params[6] is True and 'хочу' in str(request):
-                        time.sleep(1)
+                    elif self.search_func_params[self.all_parameters_are_filled] is True and 'хочу' in str(request):
                         for i in show_liked_candidates():
                             self.write_msg(event.user_id, str(i))
                         output_show_liked_candidates()
 
                     # _______ repeated output of candidates _______
-                    elif self.search_func_params[6] is True and request == '0':
-                        self.start += 2
-                        self.end += 2
-                        for i in get_candidates_links(self.search_func_params[0],
-                                                      self.search_func_params[1],
-                                                      self.search_func_params[2],
-                                                      self.search_func_params[3],
-                                                      self.search_func_params[4])[self.start:self.end]:
+                    elif self.search_func_params[self.all_parameters_are_filled] is True and request == '0':
+                        self.start_from_index += 2
+                        self.end_to_index += 2
+                        for i in filled_params[self.start_from_index:self.end_to_index]:
                             self.write_msg(event.user_id, str(i))
                             self.box_for_avoid_repeated_outputs.append(i)
                         output_select_or_refuse_candidate()
 
                     # _______ reset unliked candidates _______
-                    elif self.search_func_params[6] is True and 'разонравился_' in str(request):
-                        time.sleep(1)
+                    elif self.search_func_params[self.all_parameters_are_filled] is True and 'разонравился_' in str(
+                            request):
                         for i in show_liked_candidates():
                             find_number = int(request[request.index(self.underscore) + 1:])
-                            if int(find_number) == int(i[:i.index(self.bracket)]):
+                            if int(find_number) == int(i[:i.index(self.link_message_bracket)]):
                                 reset_from_liked(find_number)
                         output_unliked()
 
                     # _______ when candidates with set parameters ended _______
-                    elif self.search_func_params[6] is True and request == 'т':
-                        for i in get_candidates_links(self.search_func_params[0],
-                                                      self.search_func_params[1],
-                                                      self.search_func_params[2],
-                                                      self.search_func_params[3],
-                                                      self.search_func_params[4]):
+                    elif self.search_func_params[self.all_parameters_are_filled] is True and request == 'т':
+                        for i in filled_params:
                             if i in self.box_for_avoid_repeated_outputs:
                                 continue
                             else:
@@ -340,15 +262,14 @@ class BotVkontakte:
                         output_dead_end()
 
                     # _______ ending of program and writing data in db_______
-                    elif self.search_func_params[6] is True and request == 'готово':
+                    elif self.search_func_params[self.all_parameters_are_filled] is True and request == 'готово':
                         try:
                             output_wait_10_sec()
                             write_candidate_data_in_db()
                             output_good_bye()
                         except FileNotFoundError:
                             print('Вы ввели команду <готово> до того, как добавили кого-то в список понравившихся! '
-                                  'Теперь заново запустите файл <main>, но уже вставив новый <your_id> в файл '
-                                  '<input_data>')
+                                  'Напишите <привет> боту и продолжите общение.')
 
                     # _______ user mistake warning _______
                     else:

@@ -1,11 +1,11 @@
-import psycopg2
 import sqlalchemy
 from pprint import pprint
+from diploma.input_data import db_name, db_owner, db_password
 
 # создаем engine
 # dialect+driver://username:password@host:port/database
 engine = sqlalchemy.create_engine(
-    'postgresql://ingenious_db_user:ingenious_db_user@localhost:5432/ingenious_db')
+    f'postgresql://{db_owner}:{db_password}@localhost:5432/{db_name}')
 # pprint(engine)
 
 # установим соединение

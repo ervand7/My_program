@@ -1,14 +1,16 @@
 import sqlalchemy
+import os
+import time
 from pprint import pprint
 from diploma.db.functions_for_fill_db import filling_candidates_table, filling_photos_of_candidates_table
 from diploma.input_data import your_id
-import os
-import time
+from diploma.input_data import db_name, db_owner, db_password
+
 
 # создаем engine
 # dialect+driver://username:password@host:port/database
 engine = sqlalchemy.create_engine(
-    'postgresql://ingenious_db_user:ingenious_db_user@localhost:5432/ingenious_db')
+    f'postgresql://{db_owner}:{db_password}@localhost:5432/{db_name}')
 
 connection = engine.connect()
 
@@ -19,18 +21,23 @@ def write_candidate_data_in_db(input_main_user_id=your_id):
     # _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
     # # # Insert. Добавим данные в candidates
     try:
+        def fill_foreign_key():
+            select_main_user = connection.execute('''SELECT * FROM main_user;
+            ''').fetchall()
+            res = select_main_user[-1][0]
+            return res
+
         for i in filling_candidates_table(main_user_id):
             user_id = i[0]
             user_sex = i[1]
             user_first_name = i[2]
             user_last_name = i[3]
             user_link = i[4]
-            user_referenced_main_user_id = i[5]
 
             insert_candidates = connection.execute(
                 f'''INSERT INTO candidates(vk_id, sex, first_name, last_name, candidate_link, main_user_id)
                 VALUES ({user_id}, '{user_sex}', '{user_first_name}', '{user_last_name}',
-            '{user_link}', '{user_referenced_main_user_id}');
+            '{user_link}', '{fill_foreign_key()}');
                 ''')
             pprint(insert_candidates)
         time.sleep(3)  # without this program can be broken because of too many parse requests to API VK

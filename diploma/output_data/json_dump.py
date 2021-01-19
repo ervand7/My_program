@@ -1,10 +1,10 @@
-import psycopg2
 import sqlalchemy
 import json
 import os
+from diploma.input_data import db_name, db_owner, db_password
 
 engine = sqlalchemy.create_engine(
-    'postgresql://ingenious_db_user:ingenious_db_user@localhost:5432/ingenious_db')
+    f'postgresql://{db_owner}:{db_password}@localhost:5432/{db_name}')
 
 connection = engine.connect()
 

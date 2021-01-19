@@ -6,7 +6,6 @@ import requests
 from diploma.input_data import user_api_token
 from urllib.parse import urljoin
 from diploma.service_and_auxiliary_files.log_decorator_function import decorator_with_way_to_file
-from pprint import pprint  # do not delete this!
 
 vk_ = vk_api.VkApi(token=user_api_token, api_version="5.89")
 
@@ -80,10 +79,6 @@ def get_candidates_links(sex: int, age_from: int, age_to: int, marital_status: i
     return final_list_account_links
 
 
-# # check:
-# pprint(get_candidates_links(2, 18, 25, 6, 'Барнаул'))
-
-
 # ____________________________________________________________________________________________________________
 # ____________________________________________________________________________________________________________
 
@@ -94,8 +89,6 @@ def show_list_of_russia_cities():
     return list_of_cities
 
 
-# # check:
-# pprint(show_list_of_russia_cities())
 # ____________________________________________________________________________________________________________
 # ____________________________________________________________________________________________________________
 
@@ -105,18 +98,10 @@ def adding_in_ban_list(id_):
                {'owner_id': id_})
 
 
-# # check:
-# print(adding_in_ban_list(57545445))
-
-
 @decorator_with_way_to_file(file_name='logs.log')
 def reset_from_ban_list(id_):
     vk_.method('account.unban',
                {'owner_id': id_})
-
-
-# # check:
-# print(reset_from_ban_list(57545445))
 
 
 # ____________________________________________________________________________________________________________
@@ -130,10 +115,6 @@ def collect_data_for_adding_to_csv_file(prepared_list_of_lists,
     with open(file_path, mode) as f:
         data_writer = csv.writer(f, "customcsv")
         data_writer.writerows(prepared_list_of_lists)
-
-
-# # check:
-# collect_data_for_adding_to_csv_file([['1231233'], ['2334234'], ['3453446']])
 
 
 # ____________________________________________________________________________________________________________
@@ -164,9 +145,6 @@ def show_liked_candidates():
     return get_list_links_liked_candidates()
 
 
-# pprint(show_liked_candidates())
-
-
 # ____________________________________________________________________________________________________________
 # ____________________________________________________________________________________________________________
 
@@ -183,6 +161,3 @@ def reset_from_liked(number):
         sub = elem[elem.index(bracket) + 19:].split(', ')
         list_for_csv_file.append(sub)
     collect_data_for_adding_to_csv_file(list_for_csv_file, 'w')
-
-# ____________________________________________________________________________________________________________
-# ____________________________________________________________________________________________________________
