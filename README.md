@@ -21,10 +21,10 @@ ___
 
     * **user_api_token** - токен юзера ВКонтакте. Примечание: инструкция по получению этого токена находится   [здесь](https://github.com/ervand7/My_program/blob/master/diploma/service_and_auxiliary_files/how_get_user_api_token.py);
     * **TOKEN_FOR_BOT** - токен сообщества ВКонтакте. Примечание: инструкция по получению этого токена находится [здесь](https://github.com/ervand7/My_program/blob/master/diploma/service_and_auxiliary_files/how_get_TOKEN_FOR_BOT.txt);
-    * **your_id** - ваш id ВКонтакте. 
-    * **db_owner** - владелец БД
-    * **db_password** - пароль от БД
-    * **db_name** - имя БД
+    * **your_id** - ваш id ВКонтакте; 
+    * **db_owner** - имя владельца БД;
+    * **db_password** - пароль от БД;
+    * **db_name** - название БД.
     
 5. В той же директории откройте файл [main](https://github.com/ervand7/My_program/blob/master/diploma/main.py) и запустите его. Через секунду вы можете в вашем IDE на экране вывода информации увидеть, что таблица БД main_user заполнилась. 
     
