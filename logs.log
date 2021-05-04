@@ -1,0 +1,7 @@
+Function "get_candidates_links" started at 2021-01-23 12:28:00.974261
+*args is: (2, 18, 25, 1, 'москва')
+**kwargs is: {}
+Result is: ['1) https://vk.com/id13363440', '2) https://vk.com/id48911310', '3) https://vk.com/id147113495', '4) https://vk.com/id135792888', '5) https://vk.com/id158562277', '6) https://vk.com/id319035181', '7) https://vk.com/id499323039']
+Function performed duration is: 0:00:01.766680
+Documentation: STEP 1: SETTING PARAMS FOR METHOD 'users.search' (API VK). DEFINE SEX, AGE, MARITAL STATUS and CITY
+
